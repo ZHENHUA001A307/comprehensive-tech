@@ -1,411 +1,553 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>我的每日小说</title>
-    <link>https://github.com/ZHENHUA001A307/comprehensive-tech</link>
-    <description>从 EPUB 自动生成的 RSS 订阅源</description>
-        <item>
+<title>科目四：综合技术知识</title>
+<link>https://github.com/ZHENHUA001A307/comprehensive-tech</link>
+<description>各类技术知识分享</description>
+<lastBuildDate>Thu, 01 Oct 2026 06:01:20 +0000</lastBuildDate>
+<item>
     <title>管理科学 - 041 - 思维的误区：忽视沉默的大多数.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：11 分钟 (3174 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">思维的误区：忽视沉默的大多数</a></h1>
-<div class="post-info"><span class="date-header">2010-07-18</span><a class="tag" href="../../tags/E5ADA6E4BC9AE6809DE88083.html">学会思考</a> </div>
-<hr/>
-<div class="post">
-　　本文标题中的“沉默的大多数”，借用了<a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2" rel="nofollow" target="_blank">王小波</a>一本杂文集的书名（谨以此文向已故的王小波致敬）。<br/>　　不过俺今天要聊的内容和王小波无关、也和政治无关。今天的内容，是探讨某些思维的误区。这些误区的根源，都在于“忽视了沉默的证据”。<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★误区1：把随机事件当作确定事件</h2>
-<br/>　　在本届（2010）世界杯期间，各种“预言帝”纷纷出笼。从8条腿的章鱼到2条腿的人，都敢于指点未来。关键是这些“预言帝”还很有市场，连不少 IT 行业的开发人员，都被它们蒙住了。下面俺举其中的2个事例。<br/><br/><h3 class="sigil_not_in_toc">◇百度贴吧的未来客</h3>
-<br/>　　在世界杯刚开打的6月13日，一个网名叫“X来自未来”的网友在百度的<a href="http://tieba.baidu.com/f?kw=2012" rel="nofollow" target="_blank">2012吧</a>发了个帖子（在“<a href="http://tieba.baidu.com/f?kz=797481906" rel="nofollow" target="_blank">这里</a>”）。它声称自己来自未来，并给出了世界杯决赛的预言——荷兰对西班牙。等到世界杯半决赛打完，网友们发现果真是西班牙与荷兰争夺冠军。于是该帖自然就在网上疯传。看过此帖的网友中，有相当比例的人，居然信以为真！<br/>　　不过这个把戏并不高明。<br/>　　在世界杯的那32个球队中，有把握进决赛的，也就没几个。玩这个把戏的人，只要把各种排列组合都算出来（大概也就20多种）。然后每一种组合注册一个马甲，分别发到不同的论坛/贴吧。<br/>　　随着比赛不断进行，那些错误的预测会被网友当成胡说，不会引起注意。而最终那个命中的预测，自然会引起很多网友（尤其是缺少判断力的网友）极大的崇拜，并因此吸引众多的眼球。而对于始作俑者，几乎没有什么成本。<br/><br/><h3 class="sigil_not_in_toc">◇神奇的章鱼保罗</h3>
-<br/>　　戳穿“贴吧”的伎俩后，再来说一下名气更大的章鱼保罗（这家伙已经成了全球明星）。保罗的光辉事迹，想必大伙都听说了，俺就不再啰嗦（不了解的网友可以看“<a href="https://zh.wikipedia.org/wiki/%E7%AB%A0%E9%B1%BC%E4%BF%9D%E7%BD%97" rel="nofollow" target="_blank">这里</a>”）。可能很多人都在纳闷——为啥这只低等软体动物，能猜得这么准捏？其实也不奇怪。<br/>　　从网上的资料看，保罗来自德国的奥伯豪森水族馆。显然，德国的水族馆，绝对不止奥伯豪森一家。像世界杯这么大的赛事，其它的那些水族馆或者动物园，也会拿一些小动物来搞搞预测，吸引人气。而且，除了德国，其它的一些国家（比如法国、美国、英国、等）也会有动物园、水族馆在进行这类预测。<br/>　　预测的动物多了之后，总归有少数几只预测比较准确的——这完全符合统计学的规律。那些预测不太准的，自然就被新闻界忽略了；而预测比较准的，自然名声大噪（新闻记者需要这种题材来吸引眼球）。顺便提一下，除了德国的章鱼预测较准，新加坡的一只鹦鹉（马尼），听说预测也较准。<br/><br/><h3 class="sigil_not_in_toc">◇关于生物学的例子</h3>
-<br/>　　说完预测的例子，再来看看生物学方面的例子。<br/>　　在生物界，充满了各种看似神奇的物种。比如蜜蜂建造的蜂巢，可以用最少的蜂蜡构建最大的空间；白蚁也可以建造结构及其复杂的蚁巢；蜘蛛织出来的网，具有几何学的完美性......<br/>　　很多人根据上述的事例，就断定这一切皆有赖于神创。认为自然界无法自发地产生如此精妙的物种。<br/>　　但事实如何捏？实际上，每一个物种的基因，都会【随机地】（盲目地）发生突变。有【少数】变异对物种的繁衍有利，因此这种基因就保留了下来；反之，【绝大多数】差劲的突变，不利于生存竞争，导致生物个体被淘汰，该基因也就消亡了。<br/>　　由于大量的不良基因都已经消亡，所以就被人们忽略了。而咱们现在看到的，都是那些优良的基因在发挥效果。<br/><br/><h3 class="sigil_not_in_toc">◇总结</h3>
-<br/>　　请列位看官琢磨一下，上述几个小故事，是否具有内在的共同点？<br/>　　了解统计学的网友，应该明白：对于一些随机事件，只要统计的样本足够大，也会碰到一些巧合。这些所谓的巧合，实际上完全符合正常的概率分布。<br/>　　但是，由于很多人忽略了大量的样本这个前提。就把本来是随机发生的事情，误以为是预先安排好的、有一定内在规律的。<br/>　　好比你找一堆人来玩抛硬币的游戏，每人抛10次。只要你找的人足够多，总会有人连续10次都是正面。如果你非要追究这10次连续抛出正面，是否有啥内在规律，岂不可笑？<br/><br/><br/><h2 class="sigil_not_in_toc">★误区2：主次颠倒</h2>
-<br/>　　第2类误区说的是：忽略沉默的证据，会使人做出主次颠倒的判断。<br/><br/><h3 class="sigil_not_in_toc">◇关于打仗的例子</h3>
-<br/>　　为了说明这类误区，俺来举一个军事的例子。<br/>　　话说二战时的英国空军，经常派轰炸机去袭击德国。由于德国的防空火力较猛，轰炸机损失较惨重。为了降低飞机的损失，空军的领导们决定给飞机的机身进行装甲加固。由于当时条件所限，只能用装甲加固飞机上的少数部位。<br/>　　然后，英国皇家空军就着手进行研究调查。他们对执行完轰炸任务返航的飞机进行仔细的观察、分析、统计。发现一个现象：大多数的弹孔，都集中在飞机的机翼上；只有少数弹孔位于驾驶舱。<br/>　　假如你负责此事，你会用装甲加固哪个部位呢？估计很多同学会想当然地说：加固机翼（因为机翼的弹孔最多）。但是答案恰恰相反，【最不需要】加固就是机翼。为啥捏？<br/>　　驾驶舱的弹孔最少，说明驾驶舱一旦中弹，飞机就载了，再也回不来。所以，它才是最应该加固的部位。<br/><br/><h3 class="sigil_not_in_toc">◇总结</h3>
-<br/>　　在某些场合下，被你忽略的沉默信息，恰恰是关键信息。很多人会忽视这类关键的沉默信息，反而重视一些显眼，但不关键的信息。<br/>　　在上述这个例子里，很多人想当然地（先验地）认为返航的轰炸机就是全部的样本。当他们开始思索答案的时候，就已经把那些中弹坠毁的飞机忽略掉了。所以，最终得出了相反的结论。<br/><br/><br/><h2 class="sigil_not_in_toc">★误区3：把“沉默”当成“爱恨”的中间态</h2>
-<br/>　　考虑到大多数人是比较感性的，俺最后再说一下（和情感有关的）第三类误区。<br/><br/><h3 class="sigil_not_in_toc">◇关于网站的例子</h3>
-<br/>　　假设有2家网站A和B，都经营类似的业务，都有相当多的用户群。再假设它们都进行了类似的网站界面改版。结果改版之后，网站A没有得到用户的赞扬，反而遭到很多用户的臭骂；而网站B捏，既没有用户夸它，也没有用户骂它。现在，请你来判断一下——哪个网站更得人心？<br/>　　估计又有不少同学会想当然地认为，网站B更受欢迎，毕竟用户没骂它。但事实并非如此。<br/>　　网站A虽然遭到很多用户痛骂，但至少说明，还有很多用户在乎它；而对于网站B，用户对它已经心灰意冷，无所谓了，所以啥反应也没有。<br/>　　末了，俺悄悄告诉大伙儿：网站A指的是 Facebook，网站B影射微软旗下的 Live Spaces。这俩都属于 SNS 类网站。想当初，Facebook 稍微改动了隐私条款，差点被用户的口水淹死；反观 Live Spaces，界面越改越土鳖，功能越改越差劲（俺曾经使用 Live Spaces 搭建过镜像博客，对此深有体会）。但又有多少 Live Spaces 的用户向微软投诉捏？<br/><br/><h3 class="sigil_not_in_toc">◇引申到其它方面</h3>
-<br/>　　虽然刚才是拿网站的用户举例，不过类似的场景在其它领域也很常见。<br/>　　比如在管理方面，如果员工经常对公司的缺点提出批评，至少说明员工还比较在乎公司，希望公司能够改进。<br/>　　比如在婚姻方面，如果夫妻俩经常吵架，说明情况还不是算糟糕。如果双方连吵架都懒得吵，只剩下冷漠以对，那问题才真是严重了。<br/><br/><h3 class="sigil_not_in_toc">◇总结</h3>
-<br/>　　对于这类误区的总结，重点就是一句话：<b>爱的反面【不是】恨，而是漠然</b>。很多时候，沉默/漠然/冷漠，是比“恨”更糟糕的反应。千万不要忽视了这种反应。<br/><br/><br/><h2 class="sigil_not_in_toc">★结尾</h2>
-<br/>　　难得今天比较有空，举了好几个案例，不晓得大伙儿是否能悟出一些道道来？<br/><br/><br/><h2 class="sigil_not_in_toc">★后续更新</h2>
-<br/>　　写完本文5年之后，俺又写了另一篇《<a href="../../2015/05/Survivorship-Bias.html">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》，更全面地介绍“沉默证据”和“幸存者偏见”。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../../2015/05/Survivorship-Bias.html">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.html">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>《<a href="../../2009/05/halo-effect.html">光环效应引发的认知误区</a>》<br/>《<a href="../../2012/03/think-what-how-why.html">用提问来促进思维——再谈 WHAT HOW WHY 三部曲</a>》<br/>《<a href="../02/about-mental-model.html">认识你自己——心智模式扫盲介绍</a>》<br/>《<a href="../04/how-to-attribute-success-failure.html">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>《<a href="../../2009/07/book-review-are-your-lights-on.html">书评：＜你的灯亮着吗？——找到问题的真正所在＞</a>》<br/>《<a href="../../2009/02/from-surface-to-essence.html">学会透过现象看本质，即使现象有时候挺诡异</a>》<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：11 分钟 (3174 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2010-07-18&lt;/span&gt;&lt;a class="tag" href="../../tags/E5ADA6E4BC9AE6809DE88083.html"&gt;学会思考&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　本文标题中的“沉默的大多数”，借用了&lt;a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2" rel="nofollow" target="_blank"&gt;王小波&lt;/a&gt;一本杂文集的书名（谨以此文向已故的王小波致敬）。&lt;br/&gt;　　不过俺今天要聊的内容和王小波无关、也和政治无关。今天的内容，是探讨某些思维的误区。这些误区的根源，都在于“忽视了沉默的证据”。&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★误区1：把随机事件当作确定事件&lt;/h2&gt;
+&lt;br/&gt;　　在本届（2010）世界杯期间，各种“预言帝”纷纷出笼。从8条腿的章鱼到2条腿的人，都敢于指点未来。关键是这些“预言帝”还很有市场，连不少 IT 行业的开发人员，都被它们蒙住了。下面俺举其中的2个事例。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇百度贴吧的未来客&lt;/h3&gt;
+&lt;br/&gt;　　在世界杯刚开打的6月13日，一个网名叫“X来自未来”的网友在百度的&lt;a href="http://tieba.baidu.com/f?kw=2012" rel="nofollow" target="_blank"&gt;2012吧&lt;/a&gt;发了个帖子（在“&lt;a href="http://tieba.baidu.com/f?kz=797481906" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”）。它声称自己来自未来，并给出了世界杯决赛的预言——荷兰对西班牙。等到世界杯半决赛打完，网友们发现果真是西班牙与荷兰争夺冠军。于是该帖自然就在网上疯传。看过此帖的网友中，有相当比例的人，居然信以为真！&lt;br/&gt;　　不过这个把戏并不高明。&lt;br/&gt;　　在世界杯的那32个球队中，有把握进决赛的，也就没几个。玩这个把戏的人，只要把各种排列组合都算出来（大概也就20多种）。然后每一种组合注册一个马甲，分别发到不同的论坛/贴吧。&lt;br/&gt;　　随着比赛不断进行，那些错误的预测会被网友当成胡说，不会引起注意。而最终那个命中的预测，自然会引起很多网友（尤其是缺少判断力的网友）极大的崇拜，并因此吸引众多的眼球。而对于始作俑者，几乎没有什么成本。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇神奇的章鱼保罗&lt;/h3&gt;
+&lt;br/&gt;　　戳穿“贴吧”的伎俩后，再来说一下名气更大的章鱼保罗（这家伙已经成了全球明星）。保罗的光辉事迹，想必大伙都听说了，俺就不再啰嗦（不了解的网友可以看“&lt;a href="https://zh.wikipedia.org/wiki/%E7%AB%A0%E9%B1%BC%E4%BF%9D%E7%BD%97" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”）。可能很多人都在纳闷——为啥这只低等软体动物，能猜得这么准捏？其实也不奇怪。&lt;br/&gt;　　从网上的资料看，保罗来自德国的奥伯豪森水族馆。显然，德国的水族馆，绝对不止奥伯豪森一家。像世界杯这么大的赛事，其它的那些水族馆或者动物园，也会拿一些小动物来搞搞预测，吸引人气。而且，除了德国，其它的一些国家（比如法国、美国、英国、等）也会有动物园、水族馆在进行这类预测。&lt;br/&gt;　　预测的动物多了之后，总归有少数几只预测比较准确的——这完全符合统计学的规律。那些预测不太准的，自然就被新闻界忽略了；而预测比较准的，自然名声大噪（新闻记者需要这种题材来吸引眼球）。顺便提一下，除了德国的章鱼预测较准，新加坡的一只鹦鹉（马尼），听说预测也较准。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于生物学的例子&lt;/h3&gt;
+&lt;br/&gt;　　说完预测的例子，再来看看生物学方面的例子。&lt;br/&gt;　　在生物界，充满了各种看似神奇的物种。比如蜜蜂建造的蜂巢，可以用最少的蜂蜡构建最大的空间；白蚁也可以建造结构及其复杂的蚁巢；蜘蛛织出来的网，具有几何学的完美性......&lt;br/&gt;　　很多人根据上述的事例，就断定这一切皆有赖于神创。认为自然界无法自发地产生如此精妙的物种。&lt;br/&gt;　　但事实如何捏？实际上，每一个物种的基因，都会【随机地】（盲目地）发生突变。有【少数】变异对物种的繁衍有利，因此这种基因就保留了下来；反之，【绝大多数】差劲的突变，不利于生存竞争，导致生物个体被淘汰，该基因也就消亡了。&lt;br/&gt;　　由于大量的不良基因都已经消亡，所以就被人们忽略了。而咱们现在看到的，都是那些优良的基因在发挥效果。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇总结&lt;/h3&gt;
+&lt;br/&gt;　　请列位看官琢磨一下，上述几个小故事，是否具有内在的共同点？&lt;br/&gt;　　了解统计学的网友，应该明白：对于一些随机事件，只要统计的样本足够大，也会碰到一些巧合。这些所谓的巧合，实际上完全符合正常的概率分布。&lt;br/&gt;　　但是，由于很多人忽略了大量的样本这个前提。就把本来是随机发生的事情，误以为是预先安排好的、有一定内在规律的。&lt;br/&gt;　　好比你找一堆人来玩抛硬币的游戏，每人抛10次。只要你找的人足够多，总会有人连续10次都是正面。如果你非要追究这10次连续抛出正面，是否有啥内在规律，岂不可笑？&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★误区2：主次颠倒&lt;/h2&gt;
+&lt;br/&gt;　　第2类误区说的是：忽略沉默的证据，会使人做出主次颠倒的判断。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于打仗的例子&lt;/h3&gt;
+&lt;br/&gt;　　为了说明这类误区，俺来举一个军事的例子。&lt;br/&gt;　　话说二战时的英国空军，经常派轰炸机去袭击德国。由于德国的防空火力较猛，轰炸机损失较惨重。为了降低飞机的损失，空军的领导们决定给飞机的机身进行装甲加固。由于当时条件所限，只能用装甲加固飞机上的少数部位。&lt;br/&gt;　　然后，英国皇家空军就着手进行研究调查。他们对执行完轰炸任务返航的飞机进行仔细的观察、分析、统计。发现一个现象：大多数的弹孔，都集中在飞机的机翼上；只有少数弹孔位于驾驶舱。&lt;br/&gt;　　假如你负责此事，你会用装甲加固哪个部位呢？估计很多同学会想当然地说：加固机翼（因为机翼的弹孔最多）。但是答案恰恰相反，【最不需要】加固就是机翼。为啥捏？&lt;br/&gt;　　驾驶舱的弹孔最少，说明驾驶舱一旦中弹，飞机就载了，再也回不来。所以，它才是最应该加固的部位。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇总结&lt;/h3&gt;
+&lt;br/&gt;　　在某些场合下，被你忽略的沉默信息，恰恰是关键信息。很多人会忽视这类关键的沉默信息，反而重视一些显眼，但不关键的信息。&lt;br/&gt;　　在上述这个例子里，很多人想当然地（先验地）认为返航的轰炸机就是全部的样本。当他们开始思索答案的时候，就已经把那些中弹坠毁的飞机忽略掉了。所以，最终得出了相反的结论。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★误区3：把“沉默”当成“爱恨”的中间态&lt;/h2&gt;
+&lt;br/&gt;　　考虑到大多数人是比较感性的，俺最后再说一下（和情感有关的）第三类误区。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于网站的例子&lt;/h3&gt;
+&lt;br/&gt;　　假设有2家网站A和B，都经营类似的业务，都有相当多的用户群。再假设它们都进行了类似的网站界面改版。结果改版之后，网站A没有得到用户的赞扬，反而遭到很多用户的臭骂；而网站B捏，既没有用户夸它，也没有用户骂它。现在，请你来判断一下——哪个网站更得人心？&lt;br/&gt;　　估计又有不少同学会想当然地认为，网站B更受欢迎，毕竟用户没骂它。但事实并非如此。&lt;br/&gt;　　网站A虽然遭到很多用户痛骂，但至少说明，还有很多用户在乎它；而对于网站B，用户对它已经心灰意冷，无所谓了，所以啥反应也没有。&lt;br/&gt;　　末了，俺悄悄告诉大伙儿：网站A指的是 Facebook，网站B影射微软旗下的 Live Spaces。这俩都属于 SNS 类网站。想当初，Facebook 稍微改动了隐私条款，差点被用户的口水淹死；反观 Live Spaces，界面越改越土鳖，功能越改越差劲（俺曾经使用 Live Spaces 搭建过镜像博客，对此深有体会）。但又有多少 Live Spaces 的用户向微软投诉捏？&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇引申到其它方面&lt;/h3&gt;
+&lt;br/&gt;　　虽然刚才是拿网站的用户举例，不过类似的场景在其它领域也很常见。&lt;br/&gt;　　比如在管理方面，如果员工经常对公司的缺点提出批评，至少说明员工还比较在乎公司，希望公司能够改进。&lt;br/&gt;　　比如在婚姻方面，如果夫妻俩经常吵架，说明情况还不是算糟糕。如果双方连吵架都懒得吵，只剩下冷漠以对，那问题才真是严重了。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇总结&lt;/h3&gt;
+&lt;br/&gt;　　对于这类误区的总结，重点就是一句话：&lt;b&gt;爱的反面【不是】恨，而是漠然&lt;/b&gt;。很多时候，沉默/漠然/冷漠，是比“恨”更糟糕的反应。千万不要忽视了这种反应。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★结尾&lt;/h2&gt;
+&lt;br/&gt;　　难得今天比较有空，举了好几个案例，不晓得大伙儿是否能悟出一些道道来？&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★后续更新&lt;/h2&gt;
+&lt;br/&gt;　　写完本文5年之后，俺又写了另一篇《&lt;a href="../../2015/05/Survivorship-Bias.html"&gt;思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲&lt;/a&gt;》，更全面地介绍“沉默证据”和“幸存者偏见”。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;《&lt;a href="../../2015/05/Survivorship-Bias.html"&gt;思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.html"&gt;思维的误区：从“沉没成本谬误”到“损失厌恶情结”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2009/05/halo-effect.html"&gt;光环效应引发的认知误区&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/03/think-what-how-why.html"&gt;用提问来促进思维——再谈 WHAT HOW WHY 三部曲&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../02/about-mental-model.html"&gt;认识你自己——心智模式扫盲介绍&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../04/how-to-attribute-success-failure.html"&gt;“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2009/07/book-review-are-your-lights-on.html"&gt;书评：＜你的灯亮着吗？——找到问题的真正所在＞&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2009/02/from-surface-to-essence.html"&gt;学会透过现象看本质，即使现象有时候挺诡异&lt;/a&gt;》&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     <pubDate>Tue, 29 Sep 2026 02:51:52 +0000</pubDate>
     <guid isPermaLink="false">41</guid>
 </item>
-<item>
-    <title>网安知识 - 040 - 如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：12 分钟 (3524 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">“如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例</a></h1>
-<div class="post-info"><span class="date-header">2011-09-30</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E7BFBBE5A299.html">IT.翻墙</a> <a class="tag" href="../../tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html">IT.软件介绍</a> </div>
-<hr/>
-<div class="post">
-　　临近国庆，GFW 封锁家具了。所以俺就多写点翻墙帖。《<a href="../06/june-fourth-incident-0.html">回顾六四</a>》系列的下一篇打算在国庆假期发出。期待此系列的网友，请见谅 :(<br/><br/><h2 class="sigil_not_in_toc">★为啥要介绍 Hotspot Shield？</h2>
-<br/>　　在各种翻墙工具中，VPN 是一个大类。为了让大伙儿（尤其是“技术菜鸟”）了解这种翻墙方式，俺特地以“Hotspot Shield”为例，来普及 VPN 翻墙的方式。<br/>　　<b>本文虽然是针对 Hotspot Shield 写的，但你一定善于【举一反三】。因为本文介绍的翻墙姿势，同样适用于其它类型的 VPN。</b><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★VPN 简介</h2>
-<br/>　　VPN的学名叫虚拟专用网，洋文叫“Virtual Private Network”。维基百科的介绍在“<a href="https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF" rel="nofollow" target="_blank">这里</a>”。本来这玩意儿主要是用于商业公司，为了让那些不在公司里的员工（比如出差在外的）能够方便地访问公司的内部网络。为了防止黑客冒充公司的员工，从外部访问公司的内部网络，VPN 软件都会提供强大的加密功能。而这个加密功能，也就让它顺便成为翻墙的利器。<br/><br/><h3 class="sigil_not_in_toc">◇VPN 的翻墙原理</h3>
-<br/>　　使用 VPN 通常需要先安装客户端软件。当你运行 VPN 客户端，它会尝试联到 VPN 服务器（这点跟加密代理类似）。一旦和 VPN 服务器建立连接，VPN 客户端就会在你的系统中建立了一个虚拟局域网。而且，你的系统中也会多出一个虚拟网卡（在 Windows 下，可以用 ipconfig /all 命令，看到这多出来的网卡）。这样一来，你的系统中就有不止一块网卡。这就引出一个问题：那些访问网络的程序，它的数据流应该通过哪个网卡进出？<br/>　　为了解决此问题，VPN 客户端通常会修改你系统的<b>路由表</b>，让那些数据流，优先从虚拟的网卡进出。由于虚拟的网卡是通往 VPN 服务器的，当数据流到达 VPN 服务器之后，VPN 服务器再帮你把数据流转向到真正的目的地。<br/>　　前面说了，VPN 为了保证安全，都采用强加密的方式传输数据。这样一来，GFW 就无法分析你的网络数据流，进行敏感词过滤。所以，使用墙外的VPN服务器，无形中就能达到翻墙的效果。<br/><br/><h3 class="sigil_not_in_toc">◇VPN的优点</h3>
-<br/>　　由于 VPN 客户端会建立虚拟局域网并修改路由表，所以系统中所有涉及到网络的应用程序（比如：浏览器、邮件客户端、聊天工具）都会通过这个虚拟局域网来访问互联网。也就是说，你无需进行额外的配置，就可以让各种软件翻墙。这就是 VPN 翻墙同加密代理翻墙，最主要的区别。<br/><br/><h3 class="sigil_not_in_toc">◇VPN的缺点</h3>
-<br/>　　VPN 的缺点主要有2个：<br/>　　其一。很多 VPN 是通过客户端软件来建立虚拟局域网的。这些客户端软件通常都需要在系统中装驱动。因此，这类 VPN 的客户端软件都不是绿色软件，而且还需要管理员权限才能安装。这样一来，那些通过网吧上网的同学，就无福享用此类VPN了。像俺这样，非常偏爱绿色软件的，估计也不太喜欢这类 VPN。（某些基于 PPTP/L2TP/IPsec 的 VPN，由于无需安装客户端软件，没有此缺点）<br/>　　其二。虽然 GFW 对 VPN 加密的数据流无可奈何。但是别忘了，GFW 还有另外的招数——域名封锁和 IP 封锁。如果某个 VPN 用的人太多，GFW会针对这个VPN的服务器进行域名封锁和 IP 封锁。让这 个VPN 彻底用不了。<br/><br/>　　在此顺便一下提醒各位：今天介绍的 HSS，虽然目前还能用，但是保不准哪天就失效了。不过捏，HSS 是非常老牌的 VPN（貌似有4、5年历史了），定期会出新版本。一旦 HSS 杯具了，你可以等它出新版本的时候，升级一下；也可以改用其它 VPN。<br/><br/><h2 class="sigil_not_in_toc">★如何获取？</h2>
-<br/>　　如果你能翻墙，直接上官方网站（在“<a href="http://www.hotspotshield.com/" rel="nofollow" target="_blank">这里</a>”），会下载到一个名叫 DM-XXX.exe 的东西，这货不是 HSS，而是 HSS 的下载器。拿到下载器之后，为了保险起见，可以先验证一下它的数字签名。验证无误，运行之。然后它会帮你下载到完整的 HSS 安装包（也带有数字签名）。<br/>　　其它的 VPN 翻墙工具，通常都会在其官网提供“VPN 客户端”的下载安装包。再次罗嗦一下：不管你用的是那一款 VPN，尽量从【官网】下载安装包，比较保险（来路不明的安装包，或许有“病毒/木马”）。<br/><br/><h2 class="sigil_not_in_toc">★如何安装？</h2>
-<br/>　　前面说了，VPN 客户端都需要装驱动。因此，要使用管理员用户进行安装。安装界面第一步先选择中文，后续安装步骤比较傻瓜化，菜鸟用户也能搞定，俺就不浪费口水了。<br/><br/><h2 class="sigil_not_in_toc">★如何使用？</h2>
-<br/>　　安装好之后，到开始菜单里面，点击“Hotspot Shield Launch”，就启动了 HSS。启动之后，系统托盘会出现一个 HSS 的图标。如果能正常连接到 VPN 服务器，该图标会变为绿色。之后，你就可以尽情享受翻墙带来的乐趣。<br/><br/><h2 class="sigil_not_in_toc">★如何修改路由？</h2>
-<br/>　　前面说了，一旦 VPN 装好，所有软件无需额外设置，都能够翻墙了。但是，这也引来新的问题。有些网友比较看重性能：希望能够不经过 VPN，直接访问<b>国内的</b>网站；只有国外的网站才走 VPN。这时候，前面提到的“路由表”就排上用场了。<br/>　　如果你没有 IT 技术背景，听到“路由表”这么高深的词汇，估计心里发虚。不过没关系，天朝不乏热心的网友，已经帮大伙儿做好了傻瓜化的工具。不需要对路由表有深入的理解，便可搞定。<br/>1. 首先，向大伙儿隆重介绍 chnroutes 开源项目（网站在“<a href="http://code.google.com/p/chnroutes/" rel="nofollow" target="_blank">这里</a>”）。该项目提供了预先定制好的路由表，能够做到国内网站自联，国外网站走VPN<br/>2. 到该网站的“<a href="http://code.google.com/p/chnroutes/downloads/detail?name=pre_created_for_win.zip" rel="nofollow" target="_blank">这里</a>”，下载一个压缩包（名为 pre_created_for_win.zip）。只有8.5K，一眨眼就下载完。<br/>3. 把压缩包解开，里面有4个文件，咱们只需要俩（vpnup.bat 和 vpndown.bat）。<br/>4. 当你需要调整路由的时候，（以管理员身份）双击 vpnup.bat <br/>5. 当你需要把路由表复原的时候，就（以管理员身份）双击 vpndown.bat<br/>（运行上述俩脚本，大约需要几分钟，快慢与否取决于你电脑的性能）<br/>怎么样？是不是很简单？懂技术的网友，可以用 tracert 命令来验证路由表修改后的路由效果。<br/><br/><h2 class="sigil_not_in_toc">★VPN 常见疑难问题解答</h2>
-<br/>　　以下列举一些 VPN 翻墙的常见问题。这些问题，不光 HSS 会碰到，其它 VPN 工具也会碰到。<br/><br/><h3 class="sigil_not_in_toc">◇用 VPN 翻墙后，某些网站（比如：推特）还是无法访问，咋办？</h3>
-<br/>　　首先，再次检查你的 VPN 是否确实联通了。如果确实联通了，还是无法访问某些网站，那么非常有可能是因为你的 DNS 服务器没有正确设置。<br/>　　如果你使用的是国内的 DNS 服务器（比如电信运营商默认提供给你的），那么，就存在“域名劫持”的风险。简而言之，就是说这些国内的 DNS 服务器里面，故意包含了错误的 DNS 记录（当然是针对那些敏感网站）。如此一来，如果你通过国内的 DNS 服务器进行查询，就会得到错误的 IP 地址。然后你尝试翻墙访问这些错误的 IP，自然是一无所获。<br/>　　除了“DNS劫持/域名劫持”，还有一种阴招叫做“DNS 污染”。详细介绍可以参见俺后来写的博文《<a href="../../2014/01/dns.html">扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”</a>》。<br/><br/><h3 class="sigil_not_in_toc">◇VPN 是否有流量限制，咋解决？</h3>
-<br/>　　比如 HSS 就有流量限制。貌似每个月有几 GB。如果纯粹浏览网页，不看视频不下载大文件，应该是够用的。<br/>　　万一你的流量超了，可以通过修改网卡的 MAC 地址来绕过。（不懂得修改 MAC 地址的同学，请自行 Google 一下）。好多 VPN 翻墙可以也可以用这招 :)<br/><br/><h2 class="sigil_not_in_toc">★补充说明</h2>
-<br/>　　今天提到的某些内容，会增加到俺写的翻墙扫盲教程——《<a href="../../2009/05/how-to-break-through-gfw.html">如何翻墙</a>》以及《<a href="gfw-faq.html">常见翻墙问题答疑</a>》。这两份文档，俺会不定期更新，力图做到与时俱进。<br/>　　另外，如果翻墙碰到困难或者有啥翻墙招数要跟俺分享，欢迎来信交流（<a href="mailto:program.think@gmail.com">program.think@gmail.com</a>）。要记得用<b>国外邮箱</b>收发，以免被墙。另外，为了避免被误判为垃圾邮件，请在来信的标题中，体现出"翻墙"的字样。<br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）：</b><br/><a href="../../2009/05/how-to-break-through-gfw.html">如何翻墙</a>（传说中的扫盲教程，定期更新）<br/><a href="gfw-faq.html">常见翻墙问题答疑</a>（传说中的FAQ，定期更新）<br/><a href="../03/how-to-get-gfw-tools.html">获取翻墙软件方法大全</a>（教你在无法翻墙的情况下拿到翻墙软件）<br/><a href="../../2014/01/dns.html">扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”</a><br/><a href="../../2013/04/gfw-vpngate.html">扫盲 VPN Gate——分布式的 VPN 服务器</a><br/><a href="../../2013/11/tor-faq.html">关于 TOR 的常见问题解答</a><br/><a href="../10/gfw-psiphon.html">双管齐下的赛风3</a><br/><a href="../../2010/03/choose-free-gate.html">自由門——TOR 被封之后的另一个选择</a><br/><a href="../12/gfw-wujie.html">新版本无界——赛风3失效后的另一个选择</a><br/><a href="../../2009/09/break-through-gfw-with-tor.html">戴“套”翻墻的方法</a><br/><a href="../../2012/06/gfw-i2p.html">简单扫盲 I2P 的使用</a><div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Mon, 28 Sep 2026 02:05:28 +0000</pubDate>
-    <guid isPermaLink="false">40</guid>
-</item>
-<item>
-    <title>管理科学 - 039 - 心智模式”系列：认识你自己——心智模式扫盲介绍.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：7 分钟 (2037 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">“心智模式”系列：认识你自己——心智模式扫盲介绍</a></h1>
-<div class="post-info"><span class="date-header">2010-02-26</span><a class="tag" href="../../tags/E5BF83E79086E5ADA6.html">心理学</a> </div>
-<hr/>
-<div class="post">
-<h2 class="sigil_not_in_toc">★为什么要聊这个话题？</h2>
-<br/>　　在开博的这一年来，“个人成长”是俺比较关注的话题（本博客开张后的第一个帖子就是“<a href="../../2009/01/0.html">如何成为优秀的开发人员</a>”）。而个人的成长，非常重要的一条措施就是“认识自我”（想必很多人都听说过这句古希腊的著名格言吧）。所以，今天俺想从心智模式这个角度，来聊聊如何认识自我。<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★什么是心智模式？</h2>
-<br/>　　最早俺是从《<a href="https://docs.google.com/document/d/1gmi62blYo0EEs5-XFPjAZEVlv-lK0gQWqIZSX7t9c0s/" target="_blank">第五项修炼</a>》这本【好书】里面，接触到这个名堂滴（今后如有空，得忽悠一下此书）。书中提到的5种修炼大法，其中之一就是：改善心智模式。那“心智模式”到底是嘛玩意儿捏？说实在的，网上找来的定义，稍嫌啰嗦晦涩。而俺的水平有限，只能先给一个模糊的说明，让大伙儿有个肤浅的认识。首先，心智模式包含了你对自己及周围世界的一些看法、观念、定义；然后，在这些看法、观念、定义的基础上，会形成你自己的一些观察的套路、思维的套路、反馈的套路。<br/>　　先来举个例子。《红楼梦》想必大伙儿都听说过吧，此书的奇特之处在于：<q>经学家看见《易》，道学家看见淫，才子看见缠绵，革命家看见排满，流言家看见宫闱秘事</q>（鲁迅原话）。甚至同一个人在不同年龄段，看完之后也是感悟迥异（当然，也不排除某些人看完就忘了）。<br/>　　为啥会这样捏？通俗地说就是：每个人的人生经历不同，因此性格、观念也不同；而这些就会造成了不同的心智模式，从而在看书的过程中，产生不同的体验。<br/>　　这么说太过简单，为了让大伙儿的理解更深刻一些，俺再来描述一下它是如何起作用滴。<br/><br/><br/><h2 class="sigil_not_in_toc">★心智模式如何起作用？</h2>
-<br/>　　《<a href="https://docs.google.com/document/d/1gmi62blYo0EEs5-XFPjAZEVlv-lK0gQWqIZSX7t9c0s/" target="_blank">第五项修炼</a>》中有句话是这么说滴：<q>我们的心智模式不仅影响我们如何认知周围的世界，还决定我们采取何种行动</q>。这么说有点简单，俺怕有人看不明白。那咱再来打个比方：把我们的大脑类比作计算机。<br/>　　不懂电脑的同学想必也知道它一般都有输入（键盘、鼠标）、处理（CPU）、存储（硬盘）、输出（屏幕、打印机）这几部分。如果两台电脑的硬件一模一样，但是装了不同的软件，那它俩的输入、处理、存储、输出也可能截然不同。（这不是废话！因为装了不同的软件嘛）<br/>　　那其实人也是一个道理。人通过观察获取信息，就好比电脑的输入；人根据信息进行分析、推理等思维活动，好比电脑的CPU处理数据；人把处理的信息记忆下来，好比电脑在储存数据；最后人根据思考而采取某种行动，好比电脑的输出。<br/>　　再回到最初的例子。为啥同样一本书，不同的人，看下来的差别会这么大捏？有些人视而不见，在输入阶段，就把信息丢弃了；有些人虽然把信息接收了，但并没有进行分析处理，仅仅是简单存储下来；还有些人，不光存储下来，还和自己原有的信息进行整合。而造成上述差异的根源，就是心智模式。它就像那电脑软件，决定了信息获得的多寡（观察）、如何处理信息（思考）、如何保存信息（记忆）、如何做出反馈（行动）。<br/><br/><br/><h2 class="sigil_not_in_toc">★心智模式的重要性</h2>
-<br/>　　对于俺上面的比喻，可能有网友会跳出来质疑：凭啥说差异是软件造成的，而不是硬件造成的？<br/>　　对于这种观点，俺可以再继续探讨一下。其实电脑的硬件，有如人的生理因素（或者叫天赋）。有些神童具有超强的记忆力，还有些从小就能心算多位数乘除法甚至开根号（据传说，计算机它爹冯·诺依曼就有此能耐）。<br/>　　但是天赋的差异也是符合二八原理滴（还记得俺在半年前写的<a href="../../2009/02/80-20-principle-0-overview.html">“二八原理”系列</a>吗？）。特别牛的人毕竟是少数，特别菜的恐怕也不多见。大多数人都在中等层次。（为了形象点，贴图如下）因此，对于大伙儿来讲，导致【普遍】的个体差异，其主要原因，【不是】硬件（生理因素、智力因素），而是软件（心智模式）。<br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/39_WpMsKB6-qiViFcb8PW3amYSCgpA-QfnUnklH29G4bK5Gp1p1Nayt4GhYIS584dvJu6kHAGBJu81z1X5TKUT8AkQO5IAPfu1MLzO5SWPV4i_3XFNajCGByieknB_j4J65eEolbzkY"/></center>
-<br/><br/><h2 class="sigil_not_in_toc">★心智模式的变化</h2>
-<br/>　　前面提到，同一个人在不同年龄段看《红楼梦》，可能会有不同的领悟。为啥捏？因为某些人的心智模式会动态发生变化。类似的例子还能举很多，比如刚出校门的大学生，很多是冲劲十足，满怀抱负；工作若干年之后，则变得谨小慎微，圆滑世故。这种现象就是心智模式发生了变化。<br/>　　下面来看两张图（悄悄说一声，这图是从维基百科上剽窃来滴）：<br/><br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/39_v-zZElFngLIDzG7-8TeMASX9qOnEHJhg43OoJapsH5rFrOHcnNWb6HZeMG8Dv8Hlg0VWht5E9JpKG99HUDc9Sc1Bcuq5JvGD6GCI4tRDbuIe3R1r91Jst9v84PX61Dz6x-sBO7S1"/></center>
-<br/>　　这头一张图，描述的是静态的心智模式。如果你的心智模式按照这样来运作，那你的心智模式会保持稳定不变。<br/><br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/39_HFFb4_eq7EAcztyL08LxOFg0vFDnFsnD9tNnWCWFUYh5xQ_km3R4_unsF5XDGWFYzkde66ZjhWZZK52s4n4FuWjb9O74hVzBlAVPxTWyNVi8fDeyfm7B9ufu5RjsaYJ8UuIKYetP"/></center>
-<br/>　　而后面一张图，则表示动态的心智模式。从图中可以看出，信息反馈会与心智模式交互，并导致心智模式发生变化。如果你的心智模式更多地属于这种运作模式，会比较有利于适应外部环境的变化。<br/><br/><br/><h2 class="sigil_not_in_toc">★结尾</h2>
-<br/>　　好了，关于心智模式的扫盲介绍，暂且先说到这。今后，俺想结合自个儿的观察和心得，分析几种常见的心智模式及其利弊。希望给列位看官提供小小的参考，那俺也就没白费力气了。万一能引发某些同学更深入的思考，那就更好了。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../../2012/06/stockholm-syndrome.html">天朝民众的心理分析：斯德哥尔摩综合症</a>》<br/>《<a href="../04/how-to-attribute-success-failure.html">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>《<a href="../../2012/01/stockdale-paradox.html">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>《<a href="../07/silent-proof.html">思维的误区：忽视沉默的大多数</a>》<br/>《<a href="../../2012/06/book-review-road-less-traveled.html">书评：＜少有人走的路——心智成熟的旅程＞</a>》<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Fri, 25 Sep 2026 02:02:33 +0000</pubDate>
-    <guid isPermaLink="false">39</guid>
-</item>
-<item>
-    <title>网安知识 - 038 - 如何翻墙”系列：用图片传播翻墙软件.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：4 分钟 (1130 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">“如何翻墙”系列：用图片传播翻墙软件</a></h1>
-<div class="post-info"><span class="date-header">2011-05-28</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E7BFBBE5A299.html">IT.翻墙</a> </div>
-<hr/>
-<div class="post">
-<h2 class="sigil_not_in_toc">★传播翻墙工具的困难</h2>
-<br/>　　大部分网友翻墙，碰到的第一个困难就是获取翻墙工具。为了帮助菜鸟网友，俺还专门写了一个“<a href="../03/how-to-get-gfw-tools.html">获取翻墙软件方法大全</a>”的帖子，普及这方面知识（本帖的内容，也会补充到那里面）。<br/>　　以前，为了传播翻墙工具，俺用微软的 SkyDrive 收藏了常见翻墙工具的每一个新版本。但是，每增加一个新的翻墙软件，过不了几天，其下载链接就被墙了（党国封杀的效率还挺高滴）。<br/><br/><br/><h2 class="sigil_not_in_toc">★新的传播方式——基于图片传播</h2>
-<br/>　　考虑到党国的封锁日益严厉，翻墙的形势也得与时俱进。最近，俺想了一个新的办法，<b>用图片来传播翻墙工具</b>。简单地说，就是把翻墙工具嵌入到图片中（具体的实现技术，俺在<a href="../06/use-image-hide-information.html">下一个帖子</a>介绍），然后在国内的网站发布该图片。由于图片放在国内的网站（也就是墙内），ＧＦW无法拦截，大伙儿可以尽情地下载。万一该图片被国内网站的管理员删除了，重新上传也很容易——无非就是打一枪换一个地方 :)<a name="more"></a><!--program-think--><br/>　　每一个翻墙工具的图片，都会上传了2份：一份放到 Google Docs 上（永久的，但会被墙），一份放到国内网站（不会被墙，但说不定哪天就被删了）。如果网友们愿意帮助俺传播翻墙工具，可以把这些图片复制到国内那些能贴图的网站，然后把 URL 链接告诉俺（<a href="mailto:program.think@gmail.com" rel="nofollow" target="_blank">program.think@gmail.com</a>）。俺验证没问题之后，会把链接发布在博客上。<br/><br/><br/><h2 class="sigil_not_in_toc">★注意事项</h2>
-<br/><h3 class="sigil_not_in_toc">◇关于文件格式</h3>
-<br/>　　嵌入到图片中的，其实是一个 <b>7z</b> 格式的压缩文件。下载图片之后，你可以用 <a href="http://www.7-zip.org/" rel="nofollow" target="_blank">7zip</a> 或者 WinRAR 打开它，然后把里面的翻墙工具解压缩出来——非常简单！<br/>　　如果系统里的压缩软件已经关联了 7z 这个扩展名，也可以直接把图片的扩展名改为 7z，然后双击直接打开。<br/><br/><h3 class="sigil_not_in_toc">◇关于解压缩失败</h3>
-<br/>　　如果解压失败，有可能是图片比较大，没有下载完全。请重新下载。<br/><br/><h3 class="sigil_not_in_toc">◇关于数字签名</h3>
-<br/>　　解压缩出来的翻墙工具，本身都是有数字签名的。建议你再验证一下数字签名，以确保这些 exe 文件没有被篡改（没有被植入木马/病毒）。不懂得验证数字签名的同学，请翻墙看“<a href="../../2010/02/introduce-digital-certificate-and-ca.html#verify_file">这里</a>”的介绍。<br/>有些网友碰到 世界通 的数字签名显示“证书已吊销”，请看“<a href="use-image-hide-gfw-tool.html">基于 Skype 翻墙</a>”这个帖子后续的补充说明。<br/><br/><br/><h2 class="sigil_not_in_toc">★翻墙软件下载链接</h2>
-<br/>　　先放世界通和赛风作为试点，让大伙儿体验一下这种新的传播方式：<br/><a href="https://lh6.googleusercontent.com/r-As65oVYJnV8dO9lXS7B1n1MPfzxqB_6SpF0lMgvtKEQr1JTI3Cu7ffA7X2_MbeGVcdZAAlO3WC_2tHBeRT1eh74YWElhu_2m72Bdj43-FOaBokFRuobR9cImFahzi1564lqz0n" rel="nofollow" target="_blank">世界通 4.10</a><br/><a href="https://lh4.googleusercontent.com/mS8e6wTeG7LmGl_46PpQovzj5i0L_7KYzY5hlla3yvDVYNjat35aW8X2L-9JS-pcofn3rCzjaX0d5m41RRhgvU4ar6YJSTBSx4O7ryKVxd89kECLoV9KlgugBHV3mR6eSurdNiBw" rel="nofollow" target="_blank">赛风 3.42</a><br/><br/>　　最后，祝各位不会翻墙的同学，早日呼吸到互联网上自由的空气！<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/><a href="../06/use-image-hide-information.html">用图片隐藏信息的技术实现</a><br/><a href="../../2009/05/how-to-break-through-gfw.html">如何翻墙</a>（传说中的扫盲教程，定期更新）<br/><a href="../09/gfw-faq.html">常见翻墙问题答疑</a>（传说中的FAQ，定期更新）<br/><a href="../03/how-to-get-gfw-tools.html">获取翻墙软件方法大全</a>（教你在无法翻墙的情况下拿到翻墙软件）<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Thu, 24 Sep 2026 01:45:47 +0000</pubDate>
-    <guid isPermaLink="false">38</guid>
-</item>
+
 <item>
     <title>管理科学 - 037 - 心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：9 分钟 (2407 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a></h1>
-<div class="post-info"><span class="date-header">2010-04-11</span><a class="tag" href="../../tags/E5BF83E79086E5ADA6.html">心理学</a> </div>
-<hr/>
-<div class="post">
-　　<a href="../02/about-mental-model.html">上次的帖子</a>提到了【心智模式】的重要性，不过那个帖子比较务虚。所以今天俺想找个具体的话题来聊聊——分析一下周围的人在是如何看待成功/失败滴？<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★先来看几个例子</h2>
-<br/>　　俺一直在软件开发这个行当里混。所以先说说程序员的例子。<br/>　　干咱们这行的，常碰到软件开发的延期问题。每当项目进度 delay，俺如果问相关的当事人为啥会 delay，大都会得到如下的回答：<br/>1. 搞需求的家伙太土鳖了，需求一直都没整明白，老是变来变去的！<br/>2. 搞设计的家伙太傻B了，这种设计根本没法实现嘛！<br/>3. 团队里的其他人太弱了，我被这帮菜鸟拖了后腿！<br/>4. 某某工具/某某语言/某某数据库/某某操作系统太难用了，耽误了不少时间！<br/>5. 测试那帮家伙太没用了，好几个Bug到快发布了才发现，我哪来得及改啊！<br/>6. （还可以列出很多）<br/><br/>　　从上面这些抱怨，不知大伙儿是否看出一个共同点——都把问题的原因定位在（所依赖的）外部环境中。俺观察了好几年，很少听到哪个开发人员会主动承认 delay 是因为其自身的原因。<br/>　　除了开发延期，类似的例子还有好多，随手都能举出来：<br/>比如，每当我问某个开发人员，为什么这几年技术没长进，经常听到的回答是“太忙，没有时间学习”。<br/>比如，解放战争片的那句经典台词：“不是我们无能，实在是共军太狡猾”。<br/>比如，项羽临死前的那句：“此天之亡我，非战之罪也”。<br/><br/><br/><h2 class="sigil_not_in_toc">★为啥人们总是归罪于外部因素？</h2>
-<br/>　　为啥在出问题时，人们总是怪罪外部环境因素捏？俺分析了一下，大致有以下几种可能。<br/><br/><h3 class="sigil_not_in_toc">◇和心理上的感受有关</h3>
-<br/>　　如果归罪于自己，会产生一种负疚感，心情肯定会不太爽；而归罪于外部因素，则可以逃避这种负疚感，自我感觉会好一些。<br/><br/><h3 class="sigil_not_in_toc">◇和幼年时期的教育有关</h3>
-<br/>　　比如俺经常注意到这样一个场景。一个学步的小孩，如果不慎撞到了椅子并号啕大哭，他/她的父母经常会一边装作打着椅子，一边哄小孩：“宝宝不哭，是椅子不好，我打它”。如果在童年经常受到这种潜移默化的影响，长大之后，容易有“归罪于外”的倾向。<br/><br/><br/><h2 class="sigil_not_in_toc">★什么是【归因理论】？</h2>
-<br/>　　那么，“归因于外”和“归因于内”，哪一种更好捏？要回答这个问题，先得来说一下心理学的“归因理论”。<br/>　　归因理论，洋文叫“Attribution Theory”。（维基百科的解释在<a href="https://en.wikipedia.org/wiki/Attribution_theory" rel="nofollow" target="_blank">这里</a>）通俗地说，就是当人们碰到成功或失败的时候，总是会企图去寻求一个原因，以此来解释成功/失败的根源。<br/>　　通常，人们会找到如下一些原因：<u>自己的能力、自己的努力程度、事情的难易程度、运气的好坏、其他人的帮助/妨碍、其它事情的帮助/妨碍</u>。<br/>　　对于上述的每一个原因，又分别包含三种属性：来源、稳定性（也叫易变性）、可控性。俺大致解释一下。<br/><br/><h3 class="sigil_not_in_toc">◇来源</h3>
-<br/>　　来源分为外因和内因。“能力”和“努力程度”属于内因，其它属外因。<br/><br/><h3 class="sigil_not_in_toc">◇稳定性</h3>
-<br/>　　稳定性表示这些因素是否会随着时间而变化。<br/><br/><h3 class="sigil_not_in_toc">◇可控性</h3>
-<br/>　　可控性表示这些因素是否能被自我所控制、影响。<br/><br/>　　至于哪些因素是稳定和可控的，哪些是不稳定/不可控的，就取决于每个人的心智模式了（关于心智模式，可以回顾<a href="../02/about-mental-model.html">之前博文</a>的介绍）。比如大部分人会把“能力”看成是稳定的；把“努力程度”看成是可控的；把“运气”看成是不可控的。<br/><br/><br/><h2 class="sigil_not_in_toc">★【不好】的归因方式</h2>
-<br/>　　前面啰嗦了一大堆，现在要进入正题了。先来批判几种俺觉得不合适的归因方式。<br/><br/><h3 class="sigil_not_in_toc">◇失败时，归因于外部（运气、其他人、其它事），且认为外因是不可控的</h3>
-<br/>　　这种心态很普遍。当你具有这种心态时，不会反省自身的不足。每次失败后都是怨天尤人。因此，即使经历很多次失败，你的能力也始终得不到改进。<br/><br/><h3 class="sigil_not_in_toc">◇失败时，归因于能力，且认为能力是稳定的</h3>
-<br/>　　通常，比较自卑的人容易有这种心态。虽然在每次失败后，都归因于自己能力不足，但由于这种心态把自己的能力看成是稳定的（不可改变的），所以就容易导致破罐子破摔。心想，反正我不行，再努力也没用，不如随便应付了事。心理学上称为“习得性无助”。<br/><br/><h3 class="sigil_not_in_toc">◇成功时，归因于能力</h3>
-<br/>　　比较自信的人，容易有这种心态。每次成功了，都觉得自己特牛。从来不思考自己的成功是否得益于客观条件，是否得益于别人的帮助。结果捏，容易骄傲、盲目自大。而且这种人，也不太注重自身能力的提升。<br/><br/><h3 class="sigil_not_in_toc">◇无论成败，皆归因于外部因素，且认为外部因素不可控</h3>
-<br/>　　具有这种心态的人，会认为自己对环境完全没有办法掌控，只能随波逐流。长此以往，人会变得消极，凡事都无所谓。<br/><br/><br/><h2 class="sigil_not_in_toc">★【好的】归因方式</h2>
-<br/>　　说完了坏的归因方式，最后来说一下，俺认为比较好的归因方式。<br/><br/><h3 class="sigil_not_in_toc">◇失败时，归因于能力，且认为能力是不稳定的、可控的</h3>
-<br/>　　前面说了，失败时归因于自己会产生一种负疚感。由于这种心态认为能力是不稳定的（可变的），可控的，因此在负疚感的刺激下，会产生提高自身能力的动机。所以，这种人就会通过失败来获得能力的提高（俗话说，失败是成功它妈，就是这个道理）。<br/><br/><h3 class="sigil_not_in_toc">◇成功时，归因于努力，且认为努力是不稳定的、可控的</h3>
-<br/>　　如果你具有这种心态，当你成功时，归因于自身的努力，会在内心产生自豪感。下次再做类似的事情，由于有之前成功的记忆，会刺激自己更加努力地完成任务。当你付出的努力更多，则成功的概率会加大，长此以往，就形成了一种良性循环。<br/><br/><br/><h2 class="sigil_not_in_toc">★总结</h2>
-<br/>　　在归因理论里有一个重要的论点：<b>归因会对个体以后的成就和行为产生影响。不同的归因倾向会导致不同的情感体验和情感反应，并由此影响个体对未来结果的预期和努力</b>。所以，咱们要有意识地调整自己看待成败的观点，以利于个人（在心智层面）更好地成长。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../../2012/01/stockdale-paradox.html">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>《<a href="../02/about-mental-model.html">“心智模式”系列：认识你自己——心智模式扫盲介绍</a>》<br/>《<a href="../../2012/06/book-review-road-less-traveled.html">书评：＜少有人走的路——心智成熟的旅程＞</a>》<br/>《<a href="../../2012/12/emperor-complex.html">天朝民众的心理分析：圣君情结</a>》<br/>《<a href="../../2012/06/stockholm-syndrome.html">天朝民众的心理分析：斯德哥尔摩综合症</a>》<br/>《<a href="../07/silent-proof.html">思维的误区：忽视沉默的大多数</a>》<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：9 分钟 (2407 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2010-04-11&lt;/span&gt;&lt;a class="tag" href="../../tags/E5BF83E79086E5ADA6.html"&gt;心理学&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　&lt;a href="../02/about-mental-model.html"&gt;上次的帖子&lt;/a&gt;提到了【心智模式】的重要性，不过那个帖子比较务虚。所以今天俺想找个具体的话题来聊聊——分析一下周围的人在是如何看待成功/失败滴？&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★先来看几个例子&lt;/h2&gt;
+&lt;br/&gt;　　俺一直在软件开发这个行当里混。所以先说说程序员的例子。&lt;br/&gt;　　干咱们这行的，常碰到软件开发的延期问题。每当项目进度 delay，俺如果问相关的当事人为啥会 delay，大都会得到如下的回答：&lt;br/&gt;1. 搞需求的家伙太土鳖了，需求一直都没整明白，老是变来变去的！&lt;br/&gt;2. 搞设计的家伙太傻B了，这种设计根本没法实现嘛！&lt;br/&gt;3. 团队里的其他人太弱了，我被这帮菜鸟拖了后腿！&lt;br/&gt;4. 某某工具/某某语言/某某数据库/某某操作系统太难用了，耽误了不少时间！&lt;br/&gt;5. 测试那帮家伙太没用了，好几个Bug到快发布了才发现，我哪来得及改啊！&lt;br/&gt;6. （还可以列出很多）&lt;br/&gt;&lt;br/&gt;　　从上面这些抱怨，不知大伙儿是否看出一个共同点——都把问题的原因定位在（所依赖的）外部环境中。俺观察了好几年，很少听到哪个开发人员会主动承认 delay 是因为其自身的原因。&lt;br/&gt;　　除了开发延期，类似的例子还有好多，随手都能举出来：&lt;br/&gt;比如，每当我问某个开发人员，为什么这几年技术没长进，经常听到的回答是“太忙，没有时间学习”。&lt;br/&gt;比如，解放战争片的那句经典台词：“不是我们无能，实在是共军太狡猾”。&lt;br/&gt;比如，项羽临死前的那句：“此天之亡我，非战之罪也”。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★为啥人们总是归罪于外部因素？&lt;/h2&gt;
+&lt;br/&gt;　　为啥在出问题时，人们总是怪罪外部环境因素捏？俺分析了一下，大致有以下几种可能。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇和心理上的感受有关&lt;/h3&gt;
+&lt;br/&gt;　　如果归罪于自己，会产生一种负疚感，心情肯定会不太爽；而归罪于外部因素，则可以逃避这种负疚感，自我感觉会好一些。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇和幼年时期的教育有关&lt;/h3&gt;
+&lt;br/&gt;　　比如俺经常注意到这样一个场景。一个学步的小孩，如果不慎撞到了椅子并号啕大哭，他/她的父母经常会一边装作打着椅子，一边哄小孩：“宝宝不哭，是椅子不好，我打它”。如果在童年经常受到这种潜移默化的影响，长大之后，容易有“归罪于外”的倾向。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★什么是【归因理论】？&lt;/h2&gt;
+&lt;br/&gt;　　那么，“归因于外”和“归因于内”，哪一种更好捏？要回答这个问题，先得来说一下心理学的“归因理论”。&lt;br/&gt;　　归因理论，洋文叫“Attribution Theory”。（维基百科的解释在&lt;a href="https://en.wikipedia.org/wiki/Attribution_theory" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;）通俗地说，就是当人们碰到成功或失败的时候，总是会企图去寻求一个原因，以此来解释成功/失败的根源。&lt;br/&gt;　　通常，人们会找到如下一些原因：&lt;u&gt;自己的能力、自己的努力程度、事情的难易程度、运气的好坏、其他人的帮助/妨碍、其它事情的帮助/妨碍&lt;/u&gt;。&lt;br/&gt;　　对于上述的每一个原因，又分别包含三种属性：来源、稳定性（也叫易变性）、可控性。俺大致解释一下。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇来源&lt;/h3&gt;
+&lt;br/&gt;　　来源分为外因和内因。“能力”和“努力程度”属于内因，其它属外因。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇稳定性&lt;/h3&gt;
+&lt;br/&gt;　　稳定性表示这些因素是否会随着时间而变化。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇可控性&lt;/h3&gt;
+&lt;br/&gt;　　可控性表示这些因素是否能被自我所控制、影响。&lt;br/&gt;&lt;br/&gt;　　至于哪些因素是稳定和可控的，哪些是不稳定/不可控的，就取决于每个人的心智模式了（关于心智模式，可以回顾&lt;a href="../02/about-mental-model.html"&gt;之前博文&lt;/a&gt;的介绍）。比如大部分人会把“能力”看成是稳定的；把“努力程度”看成是可控的；把“运气”看成是不可控的。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★【不好】的归因方式&lt;/h2&gt;
+&lt;br/&gt;　　前面啰嗦了一大堆，现在要进入正题了。先来批判几种俺觉得不合适的归因方式。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇失败时，归因于外部（运气、其他人、其它事），且认为外因是不可控的&lt;/h3&gt;
+&lt;br/&gt;　　这种心态很普遍。当你具有这种心态时，不会反省自身的不足。每次失败后都是怨天尤人。因此，即使经历很多次失败，你的能力也始终得不到改进。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇失败时，归因于能力，且认为能力是稳定的&lt;/h3&gt;
+&lt;br/&gt;　　通常，比较自卑的人容易有这种心态。虽然在每次失败后，都归因于自己能力不足，但由于这种心态把自己的能力看成是稳定的（不可改变的），所以就容易导致破罐子破摔。心想，反正我不行，再努力也没用，不如随便应付了事。心理学上称为“习得性无助”。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇成功时，归因于能力&lt;/h3&gt;
+&lt;br/&gt;　　比较自信的人，容易有这种心态。每次成功了，都觉得自己特牛。从来不思考自己的成功是否得益于客观条件，是否得益于别人的帮助。结果捏，容易骄傲、盲目自大。而且这种人，也不太注重自身能力的提升。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇无论成败，皆归因于外部因素，且认为外部因素不可控&lt;/h3&gt;
+&lt;br/&gt;　　具有这种心态的人，会认为自己对环境完全没有办法掌控，只能随波逐流。长此以往，人会变得消极，凡事都无所谓。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★【好的】归因方式&lt;/h2&gt;
+&lt;br/&gt;　　说完了坏的归因方式，最后来说一下，俺认为比较好的归因方式。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇失败时，归因于能力，且认为能力是不稳定的、可控的&lt;/h3&gt;
+&lt;br/&gt;　　前面说了，失败时归因于自己会产生一种负疚感。由于这种心态认为能力是不稳定的（可变的），可控的，因此在负疚感的刺激下，会产生提高自身能力的动机。所以，这种人就会通过失败来获得能力的提高（俗话说，失败是成功它妈，就是这个道理）。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇成功时，归因于努力，且认为努力是不稳定的、可控的&lt;/h3&gt;
+&lt;br/&gt;　　如果你具有这种心态，当你成功时，归因于自身的努力，会在内心产生自豪感。下次再做类似的事情，由于有之前成功的记忆，会刺激自己更加努力地完成任务。当你付出的努力更多，则成功的概率会加大，长此以往，就形成了一种良性循环。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★总结&lt;/h2&gt;
+&lt;br/&gt;　　在归因理论里有一个重要的论点：&lt;b&gt;归因会对个体以后的成就和行为产生影响。不同的归因倾向会导致不同的情感体验和情感反应，并由此影响个体对未来结果的预期和努力&lt;/b&gt;。所以，咱们要有意识地调整自己看待成败的观点，以利于个人（在心智层面）更好地成长。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;《&lt;a href="../../2012/01/stockdale-paradox.html"&gt;“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../02/about-mental-model.html"&gt;“心智模式”系列：认识你自己——心智模式扫盲介绍&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/06/book-review-road-less-traveled.html"&gt;书评：＜少有人走的路——心智成熟的旅程＞&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/12/emperor-complex.html"&gt;天朝民众的心理分析：圣君情结&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/06/stockholm-syndrome.html"&gt;天朝民众的心理分析：斯德哥尔摩综合症&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../07/silent-proof.html"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;》&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     <pubDate>Tue, 22 Sep 2026 01:59:08 +0000</pubDate>
     <guid isPermaLink="false">37</guid>
 </item>
-<item>
-    <title>网安知识 - 036 - 如何翻墙”系列：基于 Skype 翻墙.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：12 分钟 (3552 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">“如何翻墙”系列：基于 Skype 翻墙</a></h1>
-<div class="post-info"><span class="date-header">2011-05-22</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E7BFBBE5A299.html">IT.翻墙</a> <a class="tag" href="../../tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html">IT.软件介绍</a> </div>
-<hr/>
-<div class="post">
-　　在开讲之前，先祝贺一下大名鼎鼎的方校长（也就是 GFW 它爹）。这家伙前几天在武汉大学，享受了“被人扔鸡蛋/扔鞋”的待遇。在此之前，能够享受如此待遇的党国大员，恐怕也只有爱流泪的影帝温宝宝了。<br/>　　言归正传，话说天朝最敏感的日子——五月3５日——已经临近了。往年从5月中旬开始，GFW 都会加大封锁的力度，今年也不例外。最近2周，自由门和无界都不太稳定。对俺最大的影响就是——找俺求助的邮件在最近1周猛增。为了免去逐一回复邮件的麻烦，俺今天再给大伙儿普及另外一个翻墙的法子——基于 Skype 翻墙。<a name="more"></a><!--program-think--><br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_iyRkO8GFIZUjywAXqnATbuak9le338MCK430N_YIQa8AOPAuXz0q70siA6Yi-D_RAOX_dqC5SXyxW7H4EWzPfcWJdCwPf0G8DUEJEZQikZFs3hbwdeuhqud7jgUMvB0dEFTq6qiC"/></center>
-<br/><br/><h2 class="sigil_not_in_toc">★Skype 是啥？</h2>
-<br/>　　由于 QQ 在天朝过于普及，导致很多菜鸟网友，只知道 QQ 这一种聊天工具。所以，俺有必要先普及一下 Skype 的基础知识。已经了解 Skype 的同学，可以跳过这一节。<br/>　　Skype 是一个 IM（即时通讯）工具。它和其它 IM 相比，最大的特色就是语音通讯的能力。用 Skype 来打电话，既省钱，质量还不差。因为 Skype 本身也是一个 P2P 的软件，它依靠 P2P 技术，来实现语音的高质量传输。<br/>　　由于 Skype 的上述特点，用户数猛增。近1-2年，Skype 已经超过 MSN Messenger，号称全球用户数最多的 IM 工具（没有之一）。<br/>　　顺便说一下：就在2周前（11年5月10号），财大气粗的微软宣布以85亿美金收购 Skype。如今 Skype 的新东家已经是微软了。<br/><br/><h2 class="sigil_not_in_toc">★为啥俺推荐 Skype 翻墙？</h2>
-<br/>　　跟其它翻墙方式相比，Skype 翻墙的显著的好处是——难以彻底封杀。<br/>　　很多翻墙方式都依赖于设立在海外的代理服务器。如果 GFW 把所有的代理服务器都列入 IP 黑名单，那这种翻墙方式就会失效。自由門 不稳定，可能是因为很多 自由門 的服务器被屏蔽。而 Skype 是基于 P2P 的，Skype 的节点数量巨多，GFW 难以屏蔽所有节点。<br/>　　另外，Skype 的用户数量很大，貌似国内有上千万用户。退一步说，即使 GFW 能通过技术手段把 Skype 网络彻底干掉，那影响会比较大。因此，党国会有所顾忌。<br/><br/><br/><h2 class="sigil_not_in_toc">★操作步骤</h2>
-<br/>　　扫盲完 SKype，开始切入正题。<br/>　　要用 Skype 翻墙，除了要有 Skype 软件，还得搭配一个基于 Skype 的翻墙工具。目前，有多款翻墙软件都可以通过 Skype 来穿越 GFW。比较老牌的有世界通（洋文叫 ＧPass）和花园网络（洋文叫 ＧTunnel）。考虑到世界通是绿色的，仅有单一的 exe 文件，且 exe 文件带有数字签名。所以，俺下面拿世界通 来举例说明。<br/><br/><h3 class="sigil_not_in_toc">◇找到 Skype 的国际版</h3>
-<br/>　　第一步，自然是先搞到 Skype 软件。<br/>　　Skype 有2个版本，一个是国际版，一个是 TOM 版。TOM 版是 Skype 公司跟 TOM 网站合搞的，严格来说，也算是国产的（关于国产 IM 的危险，请翻墙看“<a href="../../2010/04/howto-cover-your-tracks-2.html">这里</a>”的介绍）。俺今天再一次强调：<b>千万别用 TOM 网站提供的 TOM 版 Skype</b>。这个版本是植入后门的，会导致你传输的信息被党国监控。<br/>　　在天朝，如果你直接访问 Skype 的官网（<a href="http://www.skype.com/" rel="nofollow" target="_blank">www.skype.com</a>），会被自动重定向到 TOM 网站。因此，你必须得通过翻墙方式访问官网并下载。如果你无法翻墙上它的官网，可以到国内的软件下载站点去找，很容易找到国际版。<br/>　　提醒一下，在国内网站找到的 Skype 安装程序，最好要验证一下 exe 文件的数字签名，以免中病毒或木马。不懂得验证数字签名的同学，请翻墙看“<a href="../../2010/02/introduce-digital-certificate-and-ca.html#verify_file">这里</a>”的介绍。<br/><br/><h3 class="sigil_not_in_toc">◇安装 Skype</h3>
-<br/>　　安装过程比较简单，俺就不细说了。<br/>　　装好之后要判断装 Skype 是 TOM 版还是国际版？很简单：只需点菜单"帮助"，再点"关于 Skype"，弹出"关于对话框"。如果在对话框中看到有 TOM 字样，就是 TOM 版；否则，就是国际版。<br/>　　如果还没有 Skype 帐号，安装结束时会提示你免费注册一个 Skype 用户。<br/><br/><h3 class="sigil_not_in_toc">◇安装世界通</h3>
-<br/>　　其实，世界通是绿色软件，无须安装滴。<br/>　　它的官方站点在“<a href="http://gpass1.com/" rel="nofollow" target="_blank">这里</a>”（早已被墙）。如果你无法翻墙上它的官网，可以参考俺之前的帖子“<b><a href="../03/how-to-get-gfw-tools.html">获取翻墙软件方法大全</a></b>”。只要你开动脑筋，总有办法搞到。<br/>　　再啰嗦一次，世界通的 exe 文件，也是有数字签名的。运行之前，先验证一下，比较保险。<br/><br/><h3 class="sigil_not_in_toc">◇配置世界通</h3>
-<br/>　　首先，点左边的"设置选项"。然后，你可以看到世界通支持的几种翻墙方式，包括：基于世界通自己的代理服务器、基于 Skype、基于 TOR，基于第三方的 SOCKS 代理。具体请看如下截图。<br/><br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_a2shUBbZ7OuRh_6kcuN11Y_k4p-Zvm7r6dRpwZlqK55VlLX1gnQHE_VBdepe-yjzTXG6T_v2LWDN0ZiYUrhuOt0tl6BiHZAyUhZO6ko6bvR0IYsCjUpsA9zit-_xhU5ivwtA5hm1"/></center>
-<br/><br/>　　除了 Skype，另外那几种方式，貌似都不灵光了。所以，你当然要选"Skype"选项，然后点下方的"启用"按钮。接着，点左边的"上网程序"，会看到世界通正在搜索加密通道，如下图所示。这时候，世界通显示在 Windows 系统托盘的图标是灰色的。<br/><br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_OYu30mJ60ZnlZ48jswSTGhcnYxo0swJ2Wtpvi2If7E0vuM_3UUbplTZdbrbKD8nwRkfdV9A4MdRyAg0bJzvbArnytlJO9wpPrGAFIZht51QREWh6X-0_dPpRTrM5HgLYbJA2Qxtw"/></center>
-<br/>　　一旦世界通搜索到加密通道并建立了加密连接，这时候，世界通会显示如下信息。同时，在系统托盘里的图标会变亮。<br/><br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_pFWnAnK7RAeQD4Q2Xyzak0W0FjI3wNOccmGBGCmgolGbM-XYX2zne14yycb88-3qq6PJBBLGA4s6nzB2zsShg3s_rp1hDbyuwSEqsmSFdgksAD7S9NPKBlfcgfEK05O3tZbRbyKs"/></center>
-<br/><h3 class="sigil_not_in_toc">◇让应用程序基于世界通翻墙</h3>
-<br/>　　有2种方式，可以让某个应用程序利用世界通来翻墙。<br/>1、<br/>在刚才的截图中，你可以点"添加"按钮，把某个程序（比如：IE、Firefox、MSN）加入世界通的上网程序列表中。以后，就可以直接在世界通界面上启动该程序。被世界通启动的程序，就可以通过世界通的加密通道翻墙。<br/><br/>2、<br/>世界通会开启代理端口，端口号 8000（显示在刚才那张截图下方）。以浏览器为例，你可以在浏览器中设置 HTTP 代理，代理的地址设为 127.0.0.1，代理的端口号设为 8000。这样，也可以让浏览器通过世界通翻墙。<br/><br/><br/><h2 class="sigil_not_in_toc">★一些注意事项</h2>
-<br/><h3 class="sigil_not_in_toc">◇关于 exe 文件的数字签名</h3>
-<br/>　　由于世界通的数字签名显示为“证书已吊销”。为了保险起见，俺再附上该 ＧPass-4.1.0.exe 文件的散列值如下：<br/><b>SHA1</b><br/>0aa2a7cb91df25ea42e5b5345a2281a160f0464f<br/><b>MD5</b><br/>62ded78920c5075fbd6ada41ce651bc5<br/><b>CRC32</b><br/>7b65c4a6<br/><br/>　　假如你计算了手头的 exe 文件，各种散列值和上述相符，那就说明你手头的世界通是正宗的（没有中毒、没有被篡改）。<br/>　　手头没有计算散列值工具的同学，可以到<a href="http://support.microsoft.com/kb/841290" rel="nofollow" target="_blank">微软官网下载</a>FCIV——该工具可以用来计算 SHA1 和 MD5。<br/><br/><h3 class="sigil_not_in_toc">◇关于网速</h3>
-<br/>　　俺最近一周，一直在体验这种翻墙方式。总体感觉是，速度的波动比较大。快的时候，看视频都可以；慢的时候，感觉像在用 Modem 拨号。当你碰到网速慢的时候，可以点"通道状态"里面，靠右边的那个按钮。如下图。<br/><br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_EpbDQgGN8iaeVli28Cv7roZRXjoMOjyqaNOKei_wNMO69ii9nnJj1ImHGfLKXmAf9Das_lPSlWwOWn9n5NZZz_q4OqHiguoZcOsCFNj4spOKPZRqyIKszSUHIl2gVam-ucszDfd5"/></center>
-<br/><br/>　　然后世界通就会断开当前连接，重新建立新的可用连接。运气好的话，第一建立的连接就够快；倒霉的话，可能重试了很多次，依然很慢。<br/>　　假如你用了 Skype 翻墙，速度从来就没快过，那也有可能跟你家或你公司所在的网络环境有关系。<br/><br/><h3 class="sigil_not_in_toc">◇关于 Skype 帐号的申请</h3>
-<br/>　　如果你还没有 Skype 帐号，要记得去 Skype 的官方网站（<a href="https://www.skype.com/" rel="nofollow" target="_blank">www.skype.com</a>）注册，而<b>不要去“TOM网”注册</b>。<br/>　　Skype 的官网需要翻墙访问，否则会被自动跳转到 TOM 网站。尚无翻墙能力的同学，可以先找一个 Web 代理。通过 Web 代理访问 Skype 的官网并注册帐号。<br/><br/><h3 class="sigil_not_in_toc">◇关于 Skype 帐号的安全</h3>
-<br/>　　如果你翻墙之后仅仅是浏览网页，那倒没啥关系。<br/>　　假设你跟俺一样，翻墙之后要干一些对不起党国的事情，那就要小心了。在这种情况下，强烈建议你，不要拿自己平常用的 Skype 帐号来翻墙。最好是重新注册一个帐号，专门用于翻墙，比较保险。<br/><br/><h3 class="sigil_not_in_toc">◇关于其它的翻墙问题</h3>
-<br/>　　碰到关于翻墙的疑难问题，请看俺写的《<a href="../09/gfw-faq.html">常见翻墙问题答疑</a>》。<br/>　　如果还搞不定，也可以直接找俺帮忙。俺的邮箱是：<b><a href="mailto:program.think@gmail.com">program.think@gmail.com</a></b> 同样要记得用<b>国外</b>邮箱收发。为了避免被误判为垃圾邮件，请在来信的标题中，体现出“翻墙”的字样。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/><a href="../../2009/05/how-to-break-through-gfw.html">如何翻墙</a>（传说中的扫盲教程，定期更新）<br/><a href="../09/gfw-faq.html">常见翻墙问题答疑</a>（传说中的FAQ，定期更新）<br/><a href="../03/how-to-get-gfw-tools.html">获取翻墙软件方法大全</a>（教你在无法翻墙的情况下拿到翻墙软件）<br/><a href="../../2013/04/gfw-vpngate.html">扫盲 VPN Gate——分布式的 VPN 服务器</a><br/><a href="../../2013/11/tor-faq.html">关于 TOR 的常见问题解答</a><br/><a href="../10/gfw-psiphon.html">双管齐下的赛风3</a><br/><a href="../../2010/03/choose-free-gate.html">自由門——TOR 被封之后的另一个选择</a><br/><a href="../12/gfw-wujie.html">新版本无界——赛风3失效后的另一个选择</a><br/><a href="../09/gfw-vpn-hotspot-shield.html">扫盲 VPN 翻墙——以 Hotspot Shield 为例</a><br/><a href="../../2009/09/break-through-gfw-with-tor.html">戴“套”翻墻的方法</a><br/><a href="../../2012/06/gfw-i2p.html">简单扫盲 I2P 的使用</a><div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Mon, 21 Sep 2026 01:59:13 +0000</pubDate>
-    <guid isPermaLink="false">36</guid>
-</item>
-<item>
-    <title>管理科学 - 035 - 心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：8 分钟 (2108 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a></h1>
-<div class="post-info"><span class="date-header">2012-01-26</span><a class="tag" href="../../tags/E5BF83E79086E5ADA6.html">心理学</a> </div>
-<hr/>
-<div class="post">
-　　前2天发了一篇博文——《<a href="revolution-2.html">谈革命[2]：先有制度还是先有素质</a>》。有很多热心网友在博客里留言，有些言论比较悲观。有感于此，写这篇博文与大伙儿分享。<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★斯托克代尔的故事</h2>
-<br/>　　先来说一个真实的小故事。<br/>　　话说<a href="https://en.wikipedia.org/wiki/James_Stockdale" rel="nofollow" target="_blank">斯托克代尔</a>是越战后的美国海军中将。他在参加越战时被俘，被关在战俘营长达八年，期间遭受越共的种种虐待。作为当时战俘营中军衔最高的军官，他带领同伴跟越共做各种斗争，以提高美军战俘的待遇并增加获释的机会。获释之后，斯托克代尔的事迹被广为宣传。著名的管理学家<a href="https://en.wikipedia.org/wiki/James_C._Collins" rel="nofollow" target="_blank">吉姆·柯林斯</a>慕名找他做了一次访谈（以下是对话过程摘录）。<br/><br/>柯林斯好奇地问：<br/><q>你为啥能熬过那8年悲惨的战俘生活，坚持到最后获释的？</q><br/>斯托克代尔给出的回答是：<br/><q>因为俺从不失去信心。俺坚信自己一定能活着出来。这个信念一直支撑着俺。</q><br/>（这个回答貌似挺普通的）<br/>柯林斯又问：<br/><q>哪些人没能活着出来？</q><br/>斯托克代尔说：<br/><q>这个简单，当然是那些乐观主义者啦。</q><br/>（这下柯林斯被彻底搞糊涂了。俺第一次读这个故事，也被搞糊涂了）<br/>斯托克代尔察觉到柯林斯的困惑，继续补充道：<br/><q>那帮乐观主义者会说：'圣诞节之前，我们一定出得去'。圣诞节会来临，然后过了。<br/>他们又说：'复活节之前，我们一定出得去'。复活节来了，又过了。<br/>然后是感恩节，再然后是下一个圣诞节......如此往复。最终，那些乐观主义者在郁闷中死去。</q><br/><br/>最后，斯托克代尔总结说：<br/><q><b>这是一个非常重要的教训——你不能把信念和原则搞混。<br/>信念是：你一定能获得成功——这个信念千万不可失去。<br/>原则是：你一定要面对最残忍的现实——无论它们是什么。</b></q><br/><br/>　　这段对话给柯林斯留下很深的印象，柯林斯把海军上将的故事写入《<a href="https://en.wikipedia.org/wiki/Good_to_Great" rel="nofollow" target="_blank">从优秀到卓越</a>》一书，并称之为【<b>斯托克代尔悖论</b>】（洋文叫“Stockdale Paradox”）。随着《从优秀到卓越》一书的走红，“斯托克代尔悖论”也广为人知。<br/><br/><br/><h2 class="sigil_not_in_toc">★俺的解读</h2>
-<br/>　　俺大约是在10多年前第一次看《从优秀到卓越》（那会儿俺刚工作没多久，开始对管理学感兴趣）。从那以后，每当遇到困境和逆境，俺总会想起斯托克代尔的故事。<br/>　　“斯托克代尔悖论”是一种面对困境和逆境时，很有效的心智模式（不晓得什么是“心智模式”，请看“<a href="../../2010/02/about-mental-model.html">俺写的扫盲</a>”）。具有这种心智模式的人，更加有可能（或者说，有更大的概率）战胜困境并坚持到最后。当然啦，“斯托克代尔悖论”并不是万能的——假如说当年的越共直接把斯托克代尔处决了，那他纵然有再好的心态也无法活着出来。<br/>　　对于“斯托克代尔悖论”，俺归纳为一句话：<b>战略上乐观，战术上悲观</b>。也就是说，你既【不能】是纯粹的乐观主义者，也【不能】是纯粹的悲观主义者。<br/>　　打一个不太恰当的比方：战略好比掌舵，战术犹如划桨。战略上乐观意味着掌舵者不迷失方向；战术上悲观意味着划桨者不松懈。<br/>　　大部分人的问题在于——要么是纯粹的乐观主义者（战略与战术都乐观），要么是纯粹的悲观主义者（战略与战术都悲观）。只有极少数人能够【始终保持】——战略上乐观，战术上悲观。<br/><br/><br/><h2 class="sigil_not_in_toc">★举例说明</h2>
-<br/>　　解读完之后，为了给大伙儿加深印象，俺再举几个例子。<br/><br/><h3 class="sigil_not_in_toc">◇政治方面的例子</h3>
-<br/>　　当今天朝，越来越多的人对（政治、社会、经济）现状不满。但是据俺观察，不满现状的人，要么是乐观主义者，要么是悲观主义者。<br/>　　作为乐观主义者，往往对政治变革（改良或革命）的困难估计不足。很多乐观主义者认为天朝可以在短时间之内革命成功并迅速实现民主化。实际上捏，伟光正在天朝已经苦心经营了60多年，要想推翻它，岂是一朝一夕就能搞定的？要真的这么轻松，那党早就垮了。<br/>　　反之，那些悲观主义者一开始就带着消极的态度，认为天朝永远也不可能实现民主化。这种人比乐观主义者还要糟糕，只会散布消极情绪。<br/>　　真要想推动天朝的政治变革，纯粹的乐观主义者和悲观主义者都是没戏滴，得像斯托克代尔那种心态才行。<br/><br/><h3 class="sigil_not_in_toc">◇人生＆职场方面的例子</h3>
-<br/>　　大部分刚毕业或参加工作不久的年轻人，（在面对逆境时）也可以分化为乐观主义者和悲观主义者。<br/>　　那些容易悲观的人，往往也过于自卑。一旦碰到困境，首先选择逃避。他们通常没有太大的追求，更愿意维持现状。这类人在工作中多半是混日子，做一天和尚撞一天钟。<br/>　　而那些乐观主义者捏，通常过于自信。其特点之一就是：刚踏入社会就立下豪言壮语，妄图瞬间成名，快速致富。由于对现实的残酷缺乏认识，这类人往往在几次碰壁之后，梦想被粉碎，然后转变为悲观主义者。<br/>　　还有一种乐观主义者，之所以还保持乐观，是因为人生道路比较顺，一直没有碰到大的挫折。这类人的乐观和自信是建立在虚无之上，还没经受过考验，很脆弱。<br/>　　上述这几类人都不太可能有大的成就。能成大事者，往往是那些历经重大挫折而依然斗志昂扬之人——比如大伙儿很熟悉的乔布斯同学。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../../2010/02/about-mental-model.html">“心智模式”系列：认识你自己——心智模式扫盲介绍</a>》<br/>《<a href="../../2010/04/how-to-attribute-success-failure.html">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>《<a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.html">读书笔记：＜反脆弱——从不确定性中获益＞</a>》<br/>《<a href="../06/book-review-road-less-traveled.html">书评：＜少有人走的路——心智成熟的旅程＞</a>》<br/>《<a href="../12/emperor-complex.html">天朝民众的心理分析：圣君情结</a>》<br/>《<a href="../06/stockholm-syndrome.html">天朝民众的心理分析：斯德哥尔摩综合症</a>》<div class="blogger-post-footer">
-</div>
-<hr/>
-</div>
-]]></description>
-    <pubDate>Mon, 14 Sep 2026 01:59:29 +0000</pubDate>
-    <guid isPermaLink="false">35</guid>
-</item>
-<item>
-    <title>网安知识 - 034 - 如何翻墙”系列：获取翻墙软件方法大全.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：16 分钟 (4516 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">“如何翻墙”系列：获取翻墙软件方法大全</a></h1>
-<div class="post-info"><span class="date-header">2011-03-13</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E7BFBBE5A299.html">IT.翻墙</a> </div>
-<hr/>
-<div class="post">
-<h2 class="sigil_not_in_toc">★先扯扯蛋</h2>
-<br/>　　开篇先扯蛋，不喜欢听俺扯蛋的网友，请直接跳到第2章节。<br/>天朝的互联网，向来对政治很敏感。比如2009年的五月，由于临近“六四”的20周年纪念，结果一大票网站被封（包括俺博客所在的 BlogSpot）；再比如党国的60大寿，又有一大票翻墙工具被干掉（包括 自由門、无界 等知名工具，俺当时是靠着<a href="../../2009/09/break-through-gfw-with-tor.html">TOR 的网桥中继</a>，才熬过那段苦难的日子，可惜TOR现在也不太灵光了）。<br/>　　最近几周，由于茉莉花绽放（不晓得“茉莉花”是咋回事，请翻墙参见“<a href="../02/jasmine-revolution-227-notice.html">这里</a>”），朝廷更加丧心病狂地封锁互联网。从3月初开始，Gmail和GoogleReader双双被列入黑名单。党国的意图其实已经很明显——<b>宁要社会主义的防火墙，不要资本主义的互联网</b>。<br/>　　难道俺能眼睁睁看着党国建成“天朝大局域网”吗？！像俺这种刁民，挖空心思也要在墙上戳几个窟窿出来。所以，俺今天再写个翻墙帖，帮大伙儿应对新一轮的网络封杀。<a name="more"></a><!--program-think--><br/>　　至于党国为啥和互联网如此水火不容，想知道的同学请看俺写的《<a href="../../2009/07/party-pk-internet.html">党和互联网的较量</a>》（需翻墙）。<br/><br/><h2 class="sigil_not_in_toc">★获取翻墙软件的重要性</h2>
-<br/>　　扯淡完毕，正题开讲。为了让大伙儿能重视本帖，先强调一下“获取翻墙工具”的重要性。<br/>　　眼下，中国大陆的网络环境越来越恶劣。不排除某一天，你手头正在用的那个翻墙工具，突然就失效了。当然，国外的反华势力（准确说，是反党势力），也不是吃素滴。他们会在某个翻墙工具失效之后，立马推出一个升级版本，给我等屁民使用。<br/>　　但是，这当中有一个很严重的时间差问题。如果你手头的工具失效了，而你尚未拿到新版本的工具，这时候你就处于孤立无援的危险境地。因为海外提供翻墙工具下载的网站，大都已经被GFＷ列入黑名单。而没有翻墙工具，你根本就访问不了这些网站。（这就好比，先有鸡还是先有蛋的问题）<br/>　　最近几天，俺费尽心思在琢磨这个问题，总结了如下招数。<br/><br/><h2 class="sigil_not_in_toc">★使用邮件获取</h2>
-<br/>　　首先要介绍的是——邮件穿墙。俺个人认为，这个招数效果显著，使用简单，不失为首选。<br/><br/><h3 class="sigil_not_in_toc">◇邮箱的选择</h3>
-<br/>　　先强调一点，此处介绍的邮件穿墙，必须得用<b>国外的邮箱</b>，才能确保安全并收到最好的效果。国内的邮箱，很有可能被党国审查。而且像腾讯之流，本来就助纣为虐，没准儿还主动帮着朝廷搞邮件审查。所以，国内的邮箱，万万使不得！<br/>　　考虑到Gmail已经被墙，当你用邮箱来获取翻墙工具时，首推 Hotmail（微软已经把它改名叫 LiveMail，不过俺叫 Hotmail叫惯了）。Hotmail 在2010年下半年，也学习 Gmail，引入了“<b>全程的HTTPS加密</b>”。此功能在防范 GFＷ 的敏感词过滤方面，疗效显著。不过，目前 Hotmail 的“全程 HTTPS 加密”功能，不是默认开启的。你需要到Hotmail的"选项"中手动开启一下。<br/><br/><h3 class="sigil_not_in_toc">◇Email如何能穿墙？</h3>
-<br/>　　由于国外的邮箱，其邮件服务器在国外，党国对其奈何不得。如果你用的邮箱还支持 HTTPS 全程加密（如 Gmail、Hotmail），GFＷ 连敏感词过滤的招数就使不上。<br/>　　在这种情况下，朝廷如果要对付 Email 穿墙，只有如下两招：<br/><br/>　　<b>1. 定点清除</b><br/>　　对某个具体的 Email 提供商进行屏蔽，比如近期针对 Gmail 的封杀就属于定点清除。但是全球有那么多的Email提供商，党国要想一个个干掉，还是有点困难。<br/><br/>　　<b>2. 全面封锁</b><br/>　　全面封锁有可能是彻底断网（像埃及、利比亚那样），也可能是引入屏蔽白名单（只能上党国允许你上的网站，其它都禁止）。不管是彻底断网还是引入白名单，动静都比较大。朝廷如果胆敢这么干，只会加速自己的灭亡。<br/><br/>　　综上所述，Email 穿墙在近期内，还是一种比较可靠、比较稳定（用来获取翻墙工具）的手段。<br/><br/><h3 class="sigil_not_in_toc">◇使用邮件获取翻墙工具</h3>
-<br/>　　有些提供翻墙软件的公司/组织，服务比较周到。他们会开设一个邮箱，用于自动回复翻墙工具。<br/>　　提供“自由門”的动态网公司，开设了 <b>freeget.one@gmail.com</b> 邮箱。给这个邮箱发信，即可自动回复"自.由.門"软件。<br/>　　对于另一个知名的翻墙工具 TOR，你可以发送标题为 help 的纯文本邮件到 gettor@torproject.org，也可以自动收到TOR的软件包。<br/><br/><h3 class="sigil_not_in_toc">◇使用邮件浏览网页</h3>
-<br/>　　有不少国外的公司或组织提供了“利用邮件上网”的功能。这个功能，可能很多同学没听说过，俺简单讲讲。<br/>　　假设你要访问某个网页，但是该网页在墙外，你看不到。咋办捏？你可以往某个特定的邮箱发一封邮件，在邮件的标题或者正文包含你要访问的URL网址，然后该邮箱就会自动给你回信，在信的内容或者附件中，就有你要看的网页了。<br/>　　俺 Google 了一下，找到几个抓网页的邮件地址，大伙儿可以试试看。<br/><blockquote>submit@web2pdfconvert.com<br/>browse@webinmail.com<br/>www4mail@wm.ictp.trieste.it<br/>www@web2mail.com<br/>send@webtomail.co.cc<br/>text@pagegetter.com<br/>page@grabpage.org</blockquote>
-　　如果你想帮助俺完善此帖，欢迎来信告知俺（<b>program.think@gmail.com</b>），上述这几个邮件地址，哪个能工作，哪个不能。如果你找到其它抓页面的邮箱，也欢迎告知俺。<br/>　　再啰嗦一下，用邮件方式浏览网页，建议用【纯文本格式】发邮件，把你要浏览的网址填写在邮件标题和邮件正文里。<br/>　　有了这个穿墙的渠道，你随时都可以获取俺写的“翻墙教程”（网址是 <a href="../../2009/05/how-to-break-through-gfw.html">https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html</a>），并了解翻墙技术的新动态。<br/><br/><br/><h2 class="sigil_not_in_toc">★使用 Web 代理获取</h2>
-<br/>　　说完邮件穿墙，再来说说 Web 代理。一旦手头的翻墙软件都失效，Web 代理是另一根救命稻草。<br/><br/><h3 class="sigil_not_in_toc">◇Web代理为何能穿墙？</h3>
-<br/>　　所谓的 Web 代理，通常指基于 HTTPS 协议的加密 Web 代理。由于它使用加密协议，GFＷ 不便于做敏感词过滤。所以，你有可能通过加密Web代理访问到被墙的网站。<br/><br/><h3 class="sigil_not_in_toc">◇如何操作？</h3>
-<br/>　　Web 代理的操作步骤简单，就三步。<br/><br/>　　<b>第1步</b><br/>　　你首先得有一个浏览器 :)。<br/><br/>　　<b>第2步</b><br/>　　其次，到网上找一个加密的 Web 代理（这步是关键，也是难点）。<br/>如何找 Web 代理，得看大伙儿各自的本事了。（通常，搜索引擎用得越溜的，越容易找到）。可能某些天真的同学会问俺，为啥不直接把俺知道的Web代理贴出来给大伙儿用捏？在此，俺要灰常严肃地告诉这些天真的同学们，朝廷的走狗早就在看俺这个博客了。俺如果在这里贴 Web 代理的网址，岂不是正撞到枪口上，便宜了这帮走狗，让它们去封代理。<br/><br/>　　<b>第3步</b><br/>　　假设你运气好，顺利找到一个 Web 代理，要赶紧上反动网站去下载翻墙工具。因为 Web代理通常很短命，用不了几天可能就失效了（被封了）。<br/><br/><br/><h2 class="sigil_not_in_toc">★使用P2P下载获取</h2>
-<br/>　　关于“P2P 下载”，想必大伙儿都很熟悉，俺就省点口水，不再扫盲P2P的概念了。<br/><br/><h3 class="sigil_not_in_toc">◇P2P为何能穿墙？</h3>
-<br/>　　P2P 应用，由于其分布式的特点，使得 GFＷ 无法对所有的 Peer 都赶尽杀绝。而且很多 P2P 协议是加密传输的，GFＷ 难以搞敏感词过滤。<br/><br/><h3 class="sigil_not_in_toc">◇以 eMule 为例</h3>
-<br/>　　P2P下载软件很多，俺就拿电骡来说事儿。<br/>　　eMule俗称电骡，是电驴（eDonkey）的进化版，其官网在“<a href="http://www.emule-project.net/" rel="nofollow" target="_blank">这里</a>”。该软件的相关介绍请看“<a href="https://en.wikipedia.org/wiki/EMule" rel="nofollow" target="_blank">维基百科</a>”，俺不再多费口水。用 Emule 获取翻墙工具，也分三步走。<br/><br/>　　<b>第1步</b><br/>　　首先，当然是装eMule啦。你可以到其官方网站下载。如果其官网被封，也可以到国内的软件下载站点去找。eMule名气很大，很容易找到滴 :)<br/><br/>　　<b>第2步</b><br/>　　装好了 eMul 软件之后，你得联上某个下载服务器，才能下载。eMule 软件默认内置了几个服务器，如果这几个内置的服务器联不上（可能是被封，也可能是连接的用户数满了），你可以通过搜索引擎再找其它的服务器。由于全球有N多的 eMule/eDonkey 服务器，所以 GFＷ 难以全部干掉。<br/><br/>　　<b>第3步</b><br/>　　联上某个 eMule 服务器之后，你就可以搜索上面的文件了。像 自由门、无界 之类，名气比较大的，应该不难找到。<br/><br/><h3 class="sigil_not_in_toc">◇注意事项</h3>
-<br/>　　通过 P2P 下载的翻墙工具，可能会含有病毒/木马之类的脏东西。下载后先用杀毒软件查一下。另外，“<a href="../12/gfw-wujie.html">无界</a>”、“<a href="../10/gfw-psiphon.html">赛风</a>”、“<a href="../../2010/03/choose-free-gate.html">自由門</a>”等翻墙工具的 exe 是含有数字签名的，通过查看数字签名，能判断该 exe 是否被篡改了（不会验证数字签名的同学，翻墙看“<a href="../../2010/02/introduce-digital-certificate-and-ca.html#verify_file">这里</a>”的介绍）。<br/><br/><br/><h2 class="sigil_not_in_toc">★通过图片文件方式获取</h2>
-<br/>　　用图片文件来传播翻墙工具，是一种新思路。具体细节请看俺写的《<a href="../05/use-image-hide-gfw-tool.html">用图片传播翻墙软件</a>》。<br/>　　简单地说，就是把包含翻墙工具的压缩文件，嵌入图片文件中。被嵌入的图片，格式上还是有效的。所以，大伙儿可以把这些图片上传到国内（墙内）那些支持贴图的网站。由于图片文件位于墙内，可以轻松下载。下载之后，用 <a href="http://www.7-zip.org/" rel="nofollow" target="_blank">7zip</a> 或 WinRAR 都可以直接打开。<br/>　　今后，在俺的 Twitter 帐号（<b><a href="https://twitter.com/programthink" target="_blank">@programthink</a></b>）会定期公布这些墙内的下载地址。<br/><br/><br/><h2 class="sigil_not_in_toc">★通过社会工程学手段获取</h2>
-<br/>　　前2年，俺曾经写过一个《<a href="../../2009/05/social-engineering-0-overview.html">社会工程学扫盲</a>》的系列。不过，这里说的“社会工程学”，泛指任何“用【非技术】手段获取翻墙工具”的招数。使用这些手段，不是靠技术能力，而是靠社交能力 :-)<br/><br/><h3 class="sigil_not_in_toc">◇依靠外企的朋友</h3>
-<br/>　　国内很多外企都有直通海外的网络专线，这个专线不会被 GFＷ 过滤。所以，如果你有朋友在外企上班，可以找他们帮忙下载翻墙工具，然后再拷给你。<br/><br/><h3 class="sigil_not_in_toc">◇找海外的朋友做人肉代理</h3>
-<br/>　　如果你碰巧有熟人在国外，可以找他们帮忙下载翻墙工具。然后再通过邮件发给你。提醒一下，用 Email 发送翻墙工具，为了避免被GFＷ识别出来，最好是压缩一下并【加个口令】。GFＷ已经有针对压缩文件的深度检测能力，我等屁民得警惕啊！<br/><br/><h3 class="sigil_not_in_toc">◇找个技术宅男帮忙</h3>
-<br/>　　假如周围有技术宅男，那你也可以找他要一个翻墙软件。据俺观察，在 IT 行业混的技术宅男，大都熟悉翻墙技能。如果你是个 MM 的话，这招的效果会更加理想 :)<br/><br/><h2 class="sigil_not_in_toc">★结尾</h2>
-<br/>　　党国经常教育我们，要与时俱进，要保鲜。在翻墙方面，俺一定得响应党国的号召，定期更新翻墙教程，保持翻墙教程的先进性。大伙儿如果觉得俺写的翻墙教程有用，不妨也转发给周围的朋友，让更多人学会翻墙。<br/>最后，还是那句话：<br/><b>祝愿墙内的网友们都能顺利掌握翻墙姿势，早日呼吸到互联网上自由的空气！</b><br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）：</b><br/><a href="../../2009/05/how-to-break-through-gfw.html">如何翻墙</a>（传说中的扫盲教程，定期更新）<br/><a href="../09/gfw-faq.html">常见翻墙问题答疑</a>（传说中的 FAQ，定期更新）<br/><a href="../../2013/04/gfw-vpngate.html">扫盲 VPN Gate——分布式的 VPN 服务器</a><br/><a href="../../2013/11/tor-faq.html">关于 TOR 的常见问题解答</a><br/><a href="../10/gfw-psiphon.html">双管齐下的赛风3</a><br/><a href="../../2010/03/choose-free-gate.html">自由門——TOR 被封之后的另一个选择</a><br/><a href="../12/gfw-wujie.html">新版本无界——赛风3失效后的另一个选择</a><br/><a href="../09/gfw-vpn-hotspot-shield.html">扫盲 VPN 翻墙——以 Hotspot Shield 为例</a><br/><a href="../../2009/09/break-through-gfw-with-tor.html">戴“套”翻墻的方法</a><br/><a href="../../2012/06/gfw-i2p.html">简单扫盲 I2P 的使用</a><br/><div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Mon, 07 Sep 2026 01:32:37 +0000</pubDate>
-    <guid isPermaLink="false">34</guid>
-</item>
-<item>
-    <title>管理科学 - 033 - 书评：《少有人走的路——心智成熟的旅程》.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：10 分钟 (2805 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">书评：《少有人走的路——心智成熟的旅程》</a></h1>
-<div class="post-info"><span class="date-header">2012-06-29</span><a class="tag" href="../../tags/E4B9A6E8AF842FE5BDB1E8AF84.html">书评/影评</a> <a class="tag" href="../../tags/E5BF83E79086E5ADA6.html">心理学</a> </div>
-<hr/>
-<div class="post">
-　　有好长时间没有写书评了，今天推荐一本心理学方面的佳作——《少有人走的路》，希望对大伙儿有帮助。<br/><a name="more"></a><!--program-think--><br/><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/33_4E9d4JcJgrjomF9AYJcmnV6G7MrCnk8egfAJPbiD7Y0qyTCl0VLN-0jrdwjCHgQhGvsg3PKKPynJjZLuJEiqoaTM_dbNLvKogzEappOUqJUPtlyACQ"/><br/><br/><h2 class="sigil_not_in_toc">★为啥推荐这本书？</h2>
-<br/><h3 class="sigil_not_in_toc">◇心理问题的严重性</h3>
-<br/>　　所谓的心理问题，也就是心理不健康。心理不健康跟生理不健康相比，呈现出如下特点：<br/><b>普遍性</b><br/>无论是天朝还是欧美发达国家，心理不健康的比例都非常高。<br/><b>隐蔽性</b><br/>很多心理不健康的人，并没有意识到自己的心理问题；有些人虽然意识到自己的心理不健康，但是碍于面子问题，既不愿意求助心理医生，也不愿意让家人知晓。<br/><b>长期性</b><br/>心理问题往往不会自行消失，而是会长期存在。而且很多心理问题，会由于恶性循环而不断加重。<br/><br/>　　由于上述特点，心理健康问题已经成为一个显著的社会问题，所以俺才会想起来要推荐这本书给列位看官。<br/><br/><h3 class="sigil_not_in_toc">◇心智不成熟是心理问题的根源之一</h3>
-<br/>　　导致心理问题的根源有很多，“心理不成熟”是其中一个主要原因。关于“心理不成熟”的表象及其危害性，俺引用本书中文版序言的如下几段话：<br/><br/><blockquote>十七八岁的高中生在大街上堂而皇之地用奶瓶喝水。——这是时髦、反叛，还是在逃避成熟？<br/>应届大学毕业生选择考研的动机仅仅是：害怕毕业。——他们是害怕毕业，还是在拒绝成熟？<br/>无数大龄青年不愿结婚。——他们真的是没选择好伴侣，还是害怕承担婚后的责任？<br/>数不清的成年人一遇到难题，就双手一摊：“这不是我的问题”——他们果真技不如人，还是不敢面对自己的问题？<br/>……<br/>人可以拒绝任何东西，但绝对不可以拒绝成熟。拒绝成熟，实际上就是在规避问题、逃避痛苦。规避问题和逃避痛苦的趋向，是人类心理疾病的根源，不及时处理，你就会为此付出沉重的代价，承受更大的痛苦。</blockquote>
-<br/><blockquote>在我们的现实生活中，逃避问题的人比比皆是：如果你是老板，你一定会知道你的手下有几人敢于承担自己的责任；如果你是父母，一定知道你的孩子为什么总是躲躲闪闪；如果你是公务员，你一定会知道，面临问题时，你是在积极主动解决，还是在消极回避……<br/>所有逃避者，都在阻碍自己心智的成熟；一切心智成熟者，他们的人生之旅都是从直面问题开始。</blockquote>
-<br/><h3 class="sigil_not_in_toc">◇如何解决“心智不成熟”？</h3>
-<br/>　　今天推荐的这本书，就是要告诉你，如何让心智成熟。<br/><br/><br/><h2 class="sigil_not_in_toc">★此书有啥特点？</h2>
-<br/><h3 class="sigil_not_in_toc">◇持久性</h3>
-<br/>　　俺写书评推荐的，通常都是经久不衰的老书（比如：《<a href="../../2009/06/book-review-1984.html">一九八四</a>》、《<a href="../../2009/07/book-review-are-your-lights-on.html">你的灯亮着吗</a>》、《<a href="../../2011/02/book-review-chinese-characteristics.html">中国人的性格</a>》）。今天推荐的这本也不例外——它是1978年出版的（或许比你还老）。在出版之后的头5年，它几乎是默默无闻。但是到了80年代中期，突然就火爆了——在《纽约时报》的畅销书排行榜待了20多年。它的畅销不是因为广告促销，而是因为读者之间的互相推荐。如此好的口碑，充分说明了读者对此书的认可。<br/>　　而且，能够在排行榜上待20多年，说明读者对此书的认可不是昙花一现。<br/><br/><h3 class="sigil_not_in_toc">◇通俗性</h3>
-<br/>　　作者斯科特·派克是一位资深的心理医生，有几十年的实战经验。他在书中举了形形色色的心理疾病的案例，而且没有掺杂晦涩难懂的心理学理论。所以，即使你是心理学的门外汉，看起来也不会太吃力。<br/><br/><br/><h2 class="sigil_not_in_toc">★内容简介</h2>
-<br/>　　下面稍微介绍一下本书的大致内容。<br/><br/><h3 class="sigil_not_in_toc">◇第1部分：自律</h3>
-<br/>　　俺认为这是本书最重要的部分——因为<b>建立【自律能力】，是达成心智成熟的关键</b>。<br/>　　缺乏“自律”的人，会一味地逃避问题，逃避痛苦。但是这样只是掩盖问题，而不能根本解决问题。那些逃避痛苦的人，最终会招致更大的痛苦；而建立了“自律”的人，就能够正视问题，直面痛苦，以积极的态度去解决问题。<br/>　　那么，如何建立自律能力捏？作者指出了4个要点：<b>推迟满足感、承担责任、尊重事实、保持平衡</b>。这4个要点具体该如何搞，请看书，俺就不浪费口水了。<br/><br/><h3 class="sigil_not_in_toc">◇第2部分：爱</h3>
-<br/>　　本书的第二部分，重点谈“爱”这个话题。（请注意，书中谈及的“爱”，是广义的。不要一看到这个字眼，就想到“性爱”）<br/>　　“爱”这个词汇，虽然人人都听说过，但是很多人（包括成年人）对“爱”的含义有片面的理解甚至错误的理解。<br/>　　举个“中国式父母”的例子：<br/><blockquote>孩子5岁，我给你报了少年宫<br/>孩子7岁，我给你报了奥数班<br/>孩子15岁，我给你报了重点中学<br/>孩子18岁，我给你报了高考突击班<br/>孩子23岁，我给你报了公务员<br/>孩子32岁，我给你报了《非诚勿扰》<br/>......</blockquote>
-　　如果你问这类父母这么做的动机，他们多半会说：因为他们【<b>爱</b>】自己的孩子。<br/>　　但其实捏，这些父母的上述举动，并不是源于真正的“爱”，而是源于【控制欲】——他们希望掌控孩子的成长轨迹。“爱”只不过是这类父母冠冕堂皇的借口而已。<br/>　　那么，到底什么是真正的爱？请看书。<br/><br/><h3 class="sigil_not_in_toc">◇第3部分：成长与宗教</h3>
-<br/>　　事先声明：俺是无神论者（或者说，不是任何宗教的信徒）。<br/>　　在这部分，作者聊宗教的时候，把科学也涵盖进去了。所以俺觉得：作者想说的是【信仰】问题。<br/>　　在相关章节中，作者通过几个案例来说明，信仰既可以起积极作用，也可能起消极作用。同时他也澄清了，什么样的信仰是健康的，什么样的信仰是病态的。<br/>　　谈到科学和宗教的关系，作者的如下几个观点，列出来供大伙儿参考：<br/><blockquote>科学家成熟的标志之一就是能意识到，和其它任何宗教一样，科学也可能流于教条主义。<br/>我坚定地认为，对于别人教给我们的一切，包括通常的文化观念以及一切陈规旧习，采取冷静和怀疑的态度，才是使心智成熟不可或缺的元素。科学本身也很容易成为文化偶像，我们亦应保持怀疑的态度。<br/>我们的思想可能很成熟，成熟到足以摆脱对上帝的信仰；与此同时，我们也可能成熟到去信仰上帝。</blockquote>
-<br/><h3 class="sigil_not_in_toc">◇第4部分：神奇的力量</h3>
-<br/>　　前面三部分提到的心智，都是“意识”层面的。最后这部分会讲到“潜意识”的问题以及“潜意识”和“意识”之间的互动。接着作者还谈到了两种力量（心灵的力量和政治的力量）。心灵的力量用于控制自己，政治的力量用于控制他人。<br/>......<br/>　　有必要提醒大伙儿的是，在第4部分的某些章节中，作者终于亮出了他的“有神论”观点。所以，像俺这种无神论者，自然不敢苟同。如果你也是无神论者，建议看的时候要有所取舍。<br/>　　另外，作者在谈及生命的“负熵”现象时，认为：生命导致的“负熵”违背热力学第二定律。并声称这是自然科学无法解释的现象。俺猜测：派克同学对于自然科学的某些领域（比如：耗散结构理论 / 自组织理论），涉足不深，才会发此谬论。这也算是本书的一个瑕疵吧。<br/><br/><br/><h2 class="sigil_not_in_toc">★结尾</h2>
-<br/>　　为了免去大伙儿买纸版书的开销和找电子书的麻烦，俺特地放上此书的 PDF 扫描版和 TXT 纯文字版（可惜 TXT 版只有前2部分）。想下载的同学，请猛击“<a href="https://github.com/programthink/books" target="_blank">俺收藏的电子书目录</a>”。 <br/>　　看完之后，如果有啥心得体会，可以到<a href="book-review-road-less-traveled.html">本文</a>留言。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../../2018/06/weekly-share-121.html">每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章</a>》<br/>《<a href="../../2010/02/about-mental-model.html">“心智模式”系列：认识你自己——心智模式扫盲介绍</a>》<br/>《<a href="../../2010/04/how-to-attribute-success-failure.html">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>《<a href="../01/stockdale-paradox.html">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Mon, 31 Aug 2026 01:56:02 +0000</pubDate>
-    <guid isPermaLink="false">33</guid>
-</item>
-<item>
-    <title>网安知识 - 032 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖（邮件地址变更）.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：4 分钟 (928 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">"如何翻墙"系列：通过邮件获取翻墙扫盲帖（邮件地址变更）</a></h1>
-<div class="post-info"><span class="date-header">2010-09-29</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E7BFBBE5A299.html">IT.翻墙</a> </div>
-<hr/>
-<div class="post">
-　　各位同学，在此郑重告知大伙儿一个好消息和一个坏消息。<br/>　　好消息是：自从俺在9月27日下午发布“<a href="use-email-get-gfw-howto.html">如何通过邮件获取翻墙扫盲帖</a>”，截止28日凌晨0点左右，已经收到并自动回复几百封邮件。这充分说明：翻墙是广大网友喜闻乐见的一项运动 :)<br/>　　坏消息是：原先那个邮箱（help.gfw@gmail.com）在28日零点左右，就再也无法登录了。界面的错误提示是：“该邮箱检测到异常活动”。<br/>　　俺当时就去找 Gmail 的管理员理论，他/她今天答复俺说：“<q>此帐户已停用，我们无法恢复。帐户被停用是因为我们认为帐户违反了 Google 服务条款</q>”。看来俺使用 Gmail 进行自动回复（且短时间内发出了大量的邮件），被 Google 的邮件系统当成垃圾邮件（SPAM）的发送工具 :(<br/>　　顺便问一下：是否有哪位高人晓得如何解决此类问题？知道的话，给俺指点一下迷津。博客留言或发邮件（<a href="mailto:program.think@gmail.com">program.think@gmail.com</a>）给俺皆可。<br/><br/>　　【不过俺是不会轻言放弃滴】，否则岂不是辜负了网友们的期望？所以，俺今天又另外申请了一个 Yahoo 邮箱。<a name="more"></a><!--program-think--><br/><br/><center><span style="font-weight:bold;font-size:150%;"><a href="mailto:help_gfw@yahoo.com">help_gfw@yahoo.com</a></span></center>
-<br/>　　跟上次那个邮箱类似，它也设置了<span style="color:red;">自动回复</span>功能。你只要往这个邮件地址随便发一封Email，立马可以收到一封自动回复的邮件。回信的内容是俺博客里，点击数最高、转载最广的帖子（原文在“<a href="../../2009/05/how-to-break-through-gfw.html">这里</a>”）。此帖通俗易懂、条例清晰，且附带翻墙工具的墙内下载地址。看完之后，基本可以掌握翻墙招数。<br/>　　如果你无法收到自动回信、或者有其它疑问、或者有啥建议，请用 <a href="mailto:program.think@gmail.com">program.think@gmail.com</a> 跟俺联系。<br/><br/>　　照例再啰嗦一下邮件 ISP 的问题。大伙儿不要用【国内】的邮箱收发翻墙相关的邮件，免得被党国监控。国外的邮件服务商相对靠谱一些。尤其要强烈推荐 Gmail。Gmail 不光隐私保护得好，还支持全程的【HTTPS】加密，能免遭 GFW 的敏感词过滤。<br/>　　不排除目前这个 Yahoo 邮箱再出意外。万一它也杯具了，俺还会继续换邮箱地址，然后把可用的自动回复邮箱，在本页面告知大伙儿。<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Mon, 24 Aug 2026 00:32:26 +0000</pubDate>
-    <guid isPermaLink="false">32</guid>
-</item>
-<item>
-    <title>管理科学 - 031 - 光环效应引发的认知误区.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：11 分钟 (3060 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">光环效应引发的认知误区</a></h1>
-<div class="post-info"><span class="date-header">2009-05-26</span><a class="tag" href="../../tags/E5BF83E79086E5ADA6.html">心理学</a> </div>
-<hr/>
-<div class="post">
-　　上次聊社会工程学中关于“<a href="social-engineering-3-influence.html">施加影响</a>”的话题，其中提到了心理学上的“光环效应”。今天想把这个话题深入地八卦一下。<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★什么是“光环效应”</h2>
-<br/>　　考虑到某些同学比较健忘，还考虑到某些同学没有看过<a href="social-engineering-3-influence.html">上次的帖子</a>，俺再啰嗦一下“光环效应”的解释。<br/>　　“光环效应”也叫“光晕效应”或“晕轮效应”，是指对某人的某个【显著的】局部特征的看法被盲目扩大化，变成对此人整体的看法。维基百科的解释在“<a href="https://en.wikipedia.org/wiki/Halo_effect" rel="nofollow" target="_blank">这里</a>”。<br/>　　上述这个定义是针对“人”而言的，不妨称之为<b>狭义的</b>光环效应。假如把上述定义中的“某人”替换成“某事物”，这种效应依然存在，俺暂且称之为<b>广义的</b>光环效应。<br/>　　另外，很多同学误以为光环效应中所说的“显著特征”就是指优点。其实捏，某些显著的缺点也会引起光环效应。后面的介绍中，俺会把优点引发的光环效应称为“【正向】光环效应”，反之则称为“【反向】光环效应”。<br/><br/><br/><h2 class="sigil_not_in_toc">★消极影响举例</h2>
-<br/>　　为了先给大伙儿一个较深刻印象，俺先来举几个例子。<br/><br/><h3 class="sigil_not_in_toc">◇偶像崇拜</h3>
-<br/>　　所谓的“偶像崇拜”，古今中外，屡见不鲜。随便举几个例子：比如当今的追星族（貌似各国都有）、比如文革时期的红卫兵崇拜毛太祖、比如纳粹德国的民众崇拜希特勒......<br/>　　上述这些（崇拜偶像的）人都是受到了“光环效应”的影响，而导致了这种狂热的行为。<br/><br/><h3 class="sigil_not_in_toc">◇技术口水战</h3>
-<br/>　　在IT领域有很多光环效应的例子（尤其是广义的光环效应），先来说说口水战这事儿。<br/>　　俺最深恶痛绝口水战首推“编程语言口水战”（所以俺凡是写编程语言的帖子，都很小心，生怕被口水淹死）。这类口水战常见诸于各大 BBS，且往往旷日持久。参与其中的狂热斗士，大都属于某个编程语言的 fans。当他/她开始学习这门编程语言的时候，由于被该语言相关的某个显著特点（比如语法、库、应用）所吸引，继而为之倾倒；然后光环效应开始在头脑中发酵，导致该 fans 对这门语言的缺点视而不见；然后这些 fans 但凡听到有人批评此语言的缺点就火冒三丈、暴跳如雷；然后口水战就轰轰烈烈地开打了......<br/>　　除了编程语言的口水战，IT 行业还有其它各种口水战。比如：<br/>桌面操作系统有“Windows vs Linux vs Mac”<br/>编辑器有“Emacs vs VI”<br/>POSIX 桌面环境有“KDE vs Gnome”<br/>手机系统有“Android vs iOS”<br/>......<br/>　　上述这个清单，俺还可以继续列出一大堆（貌似口水战在每一个 IT 领域都会出现）。虽说这些口水战所属的领域差别巨大，但导致其产生的心理学根源是类似的（后面会说）。<br/><br/><h3 class="sigil_not_in_toc">◇技术银弹</h3>
-<br/>　　关于啥是“银弹”，俺当初在点评《人月神话》的时候，有专门提到，请看“<a href="../03/book-review-mythical-man-month.html">这里</a>”。<br/>　　IT行业（尤其是软件业）经常充斥着各式各样的“银弹”，号称包治百病。比如软件行业曾经鼓吹过的银弹有如下：“面向对象、组件技术、设计模式、CMM、UML、敏捷开发、RAD、SOA、......”。当然，很多忽悠银弹的家伙，是出于商业目的，这与本贴的主题无关。但是忽悠出来的银弹还是有很多人相信，这就很有意思了。那些【被忽悠】的人，之所以对银弹的效果深信不疑，一定程度上也可归因于“光环效应”。<br/><br/><h3 class="sigil_not_in_toc">◇某些民族偏见</h3>
-<br/>　　前面几个例子都和“正向光环效应”有关，俺再来举一个“【反向】光环效应”的例子。在说这个例子之前先声明：俺不是哈日族，而且也不太喜欢日本文化。<br/>　　比如国内的很多人，对于日本人的看法都过于片面，陷入了“反向光环效应”的误区。这些人但凡提到和日本有关的东西，立马一脸的不屑，开口就是一顿贬谪之词。不把日本人骂得狗血喷头，誓不罢休。为啥会这样捏？俺斗胆揣测一番。<br/>　　大部分国人对日本（包括民族、文化等方面）的了解，都始于抗日战争相关的材料（比如小时候看的抗战题材电影、某些小学教材上的内容、等等）。由于这些资料都是刻意强化日本人丑陋的一面，接触久了，难免会引发“反向光环效应”，把日本在二战中的缺点盲目扩大到其它的方方面面，进而全面贬低/否定和日本相关的一切东西。<br/><br/><br/><h2 class="sigil_not_in_toc">★它是如何起作用的？</h2>
-<br/>　　前面举了这许多例子，足见光环效应的影响范围之广。俺结合自个儿的理解，分析一下这玩意儿的作用为啥这么强烈。<br/>　　事先声明：俺不是心理学专业的。所以下面的分析总结大伙儿姑且听之，可别跟俺较真哦 :-)<br/><br/><h3 class="sigil_not_in_toc">◇一致性原则</h3>
-<br/>　　有一本很经典的心理学书籍叫《<a href="https://docs.google.com/document/d/1PmNGkvoqtPWPwV63h5KMiQQWgGU-Mo3Zf4aFzX16om4/" target="_blank">影响力</a>》（在<a href="social-engineering-3-influence.html">之前的帖子</a>，俺大肆鼓吹过此书，建议没看过的同学一定要看看）。书中介绍了【一致性原则】。通俗地说就是：人的潜意识里有保持各种东东（包括观点、看法、立场......）一致性的倾向。具体表现在：当你正面评价某对象（包括人或事物）时，你在潜意识里会排斥该对象的负面评价；反之亦然。<br/>　　比如当你很喜欢自己的情人（或配偶）时，你在潜意识里面就会排斥掉对方的缺点和不足。这种排斥的行为是下意识（可能是“本我”）进行的，甚至你自己（也就是“自我”）都没有察觉到。<br/><br/><h3 class="sigil_not_in_toc">◇和“首因效应”相结合</h3>
-<br/>　　所谓的“首因效应”，通俗地说就是第一印象或先入为主。在你对某人（某事物）进行认知的过程中，第一印象会很深刻。如果这个第一印象所接收到的正好又是对方某个鲜明的特征，那“首因效应”和“光环效应”就会叠加起来，效果会更加明显。<br/>　　比如通常所说的“一见钟情”，往往是结合了首因效应和正面光环效应。<br/><br/><h3 class="sigil_not_in_toc">◇选择性“失察”和选择性“失忆”</h3>
-<br/>　　当某个对象的光环效应开始显现之后，有些人就会出现"选择性失察"或"选择性失忆"。这里所说的“失察”，就是对某些东西视而不见，听而不闻。比如前面提到的追星族，只观察到偶像的优点，而看不到偶像的缺点（也就是选择性失察）；即使偶像发生重大的丑闻/绯闻，很多追星族也会出现选择性失忆，对这些丑闻/绯闻，淡忘得特别快。<br/>　　选择性“失察”和选择性“失忆”的起因，可能是由“一致性原理”引起；而选择性“失察”和选择性“失忆”的结果，又强化了认知的一致性。两者形成正反馈，互相强化，使得认知的“光晕”越变越大。<br/><br/><br/><h2 class="sigil_not_in_toc">★如何避免它的负面影响</h2>
-<br/>　　看到这里，有些同学肯定在琢磨：要咋样防止光环效应的负面影响捏？下面来说说俺的几个方法（是否管用，因人而异）。<br/><br/><h3 class="sigil_not_in_toc">◇避免过早下结论</h3>
-<br/>　　当你初次接触某个对象时，切勿轻易下结论。草率下结论容易触发潜意识里面的“一致性原理”，进而影响你做出客观的判断。<br/>　　另外，初次接触某个对象时，前面提到的“首因效应”很有可能会干扰你的判断。这也是避免匆忙下结论的原因之一。<br/><br/><h3 class="sigil_not_in_toc">◇优缺点都有所了解，再下结论</h3>
-<br/>　　刚才说到不要过早下结论，那要等到啥时候才能定论捏？俺的习惯是：至少要收集某个东东的优点和缺点、正面和反面的信息之后，才会考虑去下结论。当你光了解某个对象的优点或者光知道其缺点，那做出的结论往往有失偏颇，不够客观。<br/><br/><h3 class="sigil_not_in_toc">◇适当考虑反面的特质</h3>
-<br/>　　当你非常喜欢/热衷某个东东（可能是某个或某事物）时，不妨反问一下自己，这个东东难道没有什么缺点吗？反之，如果你非常反感/厌恶某东东时，也可以刻意反问自己，这个东东难道没啥优点吗？<br/>　　通过这样的反思，或许有助于你发觉原先的认知偏差。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.html">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>《<a href="../../2014/05/fans-and-idolatry.html">不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害</a>》<br/>《<a href="../../2012/12/emperor-complex.html">天朝民众的心理分析：圣君情结</a>》<br/>《<a href="../../2012/06/stockholm-syndrome.html">天朝民众的心理分析：斯德哥尔摩综合症</a>》<br/>《<a href="../../2012/01/stockdale-paradox.html">“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”</a>》<br/>《<a href="../../2010/05/about-social-proof.html">关于社会认同和从众心理——从连环跳楼事件说起</a>》<br/>《<a href="../../2010/07/about-football-fans.html">说说世界杯的球迷——关于粉丝的心理</a>》<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Thu, 20 Aug 2026 01:12:39 +0000</pubDate>
-    <guid isPermaLink="false">31</guid>
-</item>
+
 <item>
     <title>网安知识 - 030 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：3 分钟 (843 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">"如何翻墙"系列：通过邮件获取翻墙扫盲帖</a></h1>
-<div class="post-info"><span class="date-header">2010-09-27</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E7BFBBE5A299.html">IT.翻墙</a> </div>
-<hr/>
-<div class="post">
-　　自从09年5月，俺博客所在的 BlogSpot（Google 旗下）被 GFW 封杀，俺就跟 GFW 干上了。俺在微软的 Live Spaces 上开了一个镜像博客（在“<a href="https://program-think.spaces.live.com/" target="_blank">这里</a>”），转贴俺写的各种翻墙教程；然后又在 Google Code 上开了一个站点（在“<a href="https://code.google.com/p/program-think/" target="_blank">这里</a>”），存放俺收集的各种翻墙工具。<br/>　　俺还算幸运，在将近一年半的时间里，GFW 没有注意到俺这个小人物。但是随着俺博客订阅数的增长，终于还是被 GFW 给盯上了。据俺本人测试及网友反馈，俺上述的几个站点，【皆已被封】。<br/>　　俗话说得好，不怕 GFW 封，就怕 GFW 惦记。俺如果继续在墙外开站点传播翻墙姿势，可能不出几天，又会上 GFW 的黑名单。开站点也不容易的说，好歹要折腾个一两天；而 GFW 把俺的站点封掉，只要一两分钟。时间成本相差太悬殊，对俺来说太不合算。<br/><br/>　　但是俺也不想轻易向 GFW 妥协。所以俺又想了一个新招数——【<b>通过邮件方式获取翻墙教程</b>】！俺为此专门申请了一个邮箱<br/><center><span style="font-weight:bold;font-size:150%;"> <a href="mailto:help_gfw@yahoo.com">help_gfw@yahoo.com</a></span></center>
-<a name="more"></a><!--program-think--><br/>　　该邮箱会<span style="color:red;">自动回复</span>翻墙扫盲教程。你只要往这个邮件地址随便发一封 Email，立马可以收到一封自动回复的邮件。回信的内容是俺博客里，点击数最高、转载最广的帖子（原文在“<a href="../../2009/05/how-to-break-through-gfw.html">这里</a>”）。此帖通俗易懂、条例清晰，且附带翻墙工具的墙内下载地址。看完之后，基本可以掌握翻墙招数。<br/><br/>　　为了保险起见，最好用【国外】的邮箱发送邮件。俺个人强烈推荐 Gmail 邮箱。用 Gmail 的时候记得打开【https】选项。如果你无法收到自动回信、或者有其它疑问、或者有啥建议，请用 <a href="mailto:program.think@gmail.com">program.think@gmail.com</a> 跟俺联系。<br/>　　另外，由于自动回复功能只支持简单的文本格式。所以，回信内容的排版和样式可能有点简陋，大伙儿凑合着看吧 :-)<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/><a href="../../2009/05/how-to-break-through-gfw.html">如何翻墙？——写在 BlogSpot 被封之后</a><div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：3 分钟 (843 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;"如何翻墙"系列：通过邮件获取翻墙扫盲帖&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2010-09-27&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E7BFBBE5A299.html"&gt;IT.翻墙&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　自从09年5月，俺博客所在的 BlogSpot（Google 旗下）被 GFW 封杀，俺就跟 GFW 干上了。俺在微软的 Live Spaces 上开了一个镜像博客（在“&lt;a href="https://program-think.spaces.live.com/" target="_blank"&gt;这里&lt;/a&gt;”），转贴俺写的各种翻墙教程；然后又在 Google Code 上开了一个站点（在“&lt;a href="https://code.google.com/p/program-think/" target="_blank"&gt;这里&lt;/a&gt;”），存放俺收集的各种翻墙工具。&lt;br/&gt;　　俺还算幸运，在将近一年半的时间里，GFW 没有注意到俺这个小人物。但是随着俺博客订阅数的增长，终于还是被 GFW 给盯上了。据俺本人测试及网友反馈，俺上述的几个站点，【皆已被封】。&lt;br/&gt;　　俗话说得好，不怕 GFW 封，就怕 GFW 惦记。俺如果继续在墙外开站点传播翻墙姿势，可能不出几天，又会上 GFW 的黑名单。开站点也不容易的说，好歹要折腾个一两天；而 GFW 把俺的站点封掉，只要一两分钟。时间成本相差太悬殊，对俺来说太不合算。&lt;br/&gt;&lt;br/&gt;　　但是俺也不想轻易向 GFW 妥协。所以俺又想了一个新招数——【&lt;b&gt;通过邮件方式获取翻墙教程&lt;/b&gt;】！俺为此专门申请了一个邮箱&lt;br/&gt;&lt;center&gt;&lt;span style="font-weight:bold;font-size:150%;"&gt; &lt;a href="mailto:help_gfw@yahoo.com"&gt;help_gfw@yahoo.com&lt;/a&gt;&lt;/span&gt;&lt;/center&gt;
+&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;　　该邮箱会&lt;span style="color:red;"&gt;自动回复&lt;/span&gt;翻墙扫盲教程。你只要往这个邮件地址随便发一封 Email，立马可以收到一封自动回复的邮件。回信的内容是俺博客里，点击数最高、转载最广的帖子（原文在“&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;这里&lt;/a&gt;”）。此帖通俗易懂、条例清晰，且附带翻墙工具的墙内下载地址。看完之后，基本可以掌握翻墙招数。&lt;br/&gt;&lt;br/&gt;　　为了保险起见，最好用【国外】的邮箱发送邮件。俺个人强烈推荐 Gmail 邮箱。用 Gmail 的时候记得打开【https】选项。如果你无法收到自动回信、或者有其它疑问、或者有啥建议，请用 &lt;a href="mailto:program.think@gmail.com"&gt;program.think@gmail.com&lt;/a&gt; 跟俺联系。&lt;br/&gt;　　另外，由于自动回复功能只支持简单的文本格式。所以，回信内容的排版和样式可能有点简陋，大伙儿凑合着看吧 :-)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;如何翻墙？——写在 BlogSpot 被封之后&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     <pubDate>Tue, 18 Aug 2026 00:37:51 +0000</pubDate>
     <guid isPermaLink="false">30</guid>
 </item>
-<item>
-    <title>管理科学 - 029 - 批判性思维扫盲：学会区分“事实”与“观点”.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：13 分钟 (3808 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">批判性思维扫盲：学会区分“事实”与“观点”</a></h1>
-<div class="post-info"><span class="date-header">2013-05-02</span><a class="tag" href="../../tags/E5ADA6E4BC9AE6809DE88083.html">学会思考</a> </div>
-<hr/>
-<div class="post">
-<h2 class="sigil_not_in_toc">★引子</h2>
-<br/>　　近期发了两篇博文《<a href="../04/weekly-share-48.html">每周转载：关于雅安地震的种种乱象</a>》《<a href="../04/more-supervision-less-thankfulness.html">为了地震灾民——多些“监督问责”，少些“煽情感动”</a>》，引来不少读者留言。某些网友甚至在博客留言中吵了起来。据俺观察，有些参与口水战的网友，不善于区分“事实陈述”和“观点陈述”。而区分这两者的能力，恰恰是批判性思维的基本功之一。所以，今天花点时间，扫盲一下这个话题。<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★为啥要区分“观点陈述”和“事实陈述”？</h2>
-<br/>　　批判性思维的其中一个要点是：你对外来的信息不能照单全收，要经过自己的【独立】思考，要经过一定的质疑。<br/>　　但是质疑的方式，会因对象而异。不同的信息，你必须采取不同的质疑方式。甚至有些信息（比如某些“观点陈述”），你是无需质疑的（后面会介绍为啥）。<br/>　　但如果连“观点”和“事实”都经常搞混淆，你又如何能进行正确的质疑捏？所以，区分“观点陈述”和“事实陈述”非常重要。<br/><br/><br/><h2 class="sigil_not_in_toc">★啥是“事实陈述”？</h2>
-<br/>　　顾名思义，“事实陈述”就是把【客观】事实说出来。<br/>　　比如——<q>俺这个博客是2009年1月份开张的</q>——这就属于“事实陈述”。<br/>　　那啥玩意儿才算“事实”捏？关键要看它是不是具有【客观性】。不具有客观性的东西，不能算“事实”。<br/><br/><br/><h2 class="sigil_not_in_toc">★“事实陈述”有啥特征？</h2>
-<br/><h3 class="sigil_not_in_toc">◇无“对错”、无“好坏”</h3>
-<br/>　　前面说了，“事实陈述”就是把“事实”说出来。而事实本身就【不】存在所谓的“对错”与“好坏”。所以，如果你去评价某个“事实陈述”的对错，是没有意义的，会显得很荒诞。<br/><br/><h3 class="sigil_not_in_toc">◇有“真假”</h3>
-<br/>　　虽然“事实陈述”没有“对错”与“好坏”的概念，但是有【真/假】的概念。这个应该好理解。符合事实的，就是“真”；反之就是“假”。<br/><br/>　　这里要提醒大伙儿注意啦（尤其是那些理工科的同学）。很多人喜欢用“非真即假”、“非黑即白”的眼光看问题。在某些理工科领域，或许可以这么干。但是在社会学领域，最好不要这样。因为社会学领域的很多问题，会涉及到“灰色地带”，【无法】用“非黑即白”的方式进行判定。<br/><br/><br/><h2 class="sigil_not_in_toc">★“事实”的可验证性</h2>
-<br/>　　这里的“可验证性”既包括“证实”，也包括“证伪”。<br/><br/><h3 class="sigil_not_in_toc">◇可验证，并且显然的</h3>
-<br/>　　有些事实属于很容易验证的，并且不易引发分歧。那么，针对这类事实的陈述，很容易就可以判断“真假”。比如：<q>2008年奥运会在北京举行</q>。<br/><br/><h3 class="sigil_not_in_toc">◇可验证，但不显然的</h3>
-<br/>　　比如某人声称自己拥有多少总资产。这个陈述不是很显然，但如果非要查实，多花点力气还是有可能验证的。<br/><br/><h3 class="sigil_not_in_toc">◇不可验证的</h3>
-<br/>　　还有一些事实，在现有的科技水平上，是无法验证的。<br/>　　比如发生在久远年代的历史事件的【细节】（除非发明时光机，或者当时正好有外星人到访并留下记录，否则无法验证）。<br/><br/><br/><h2 class="sigil_not_in_toc">★哪些“事实陈述”值得争论？</h2>
-<br/>　　刚才提到的三个类型：第一类，通常不需要争论；第三类，即使争论也不会有结果。<br/>　　所以，今后你如果要跟别人争执某个“事实陈述”的真假，先看看是不是属于第二类的。如果不是第二类的，还是省省吧。即使是第二类的事实陈述，也要看是否值得争论。只有【性价比】足够高的论题，才值得你花时间和精力去争论。<br/><br/><br/><h2 class="sigil_not_in_toc">★关于“事实陈述”的可信度</h2>
-<br/>　　要判断某个“事实陈述”是否可信，办法之一是你亲自去验证。<br/>　　但是这么干，比较费时费力。而且有的事实陈述，你是不可能亲自去验证的（比如对历史事件的陈述）。<br/>　　当你无法亲自验证的时候，就得换种方法——分析事实陈述的依据，由此来评估其可信度高不高。<br/><br/><h3 class="sigil_not_in_toc">◇依据的分类</h3>
-<br/>　　事实陈述的依据，大致可以分为两类。<br/><br/>　　<b>第一手资料</b><br/>　　所谓的“第一手资料”，就是说这个“事实陈述”是通过陈述者的感官直接获得信息。<br/>　　比如亲眼所见，亲耳所闻。<br/><br/>　　<b>第 N 手资料</b><br/>　　所谓的“第 N 手资料”，就是说这个“事实陈述”是从其它途径得到信息，然后再转述的。<br/>　　如果被转述的对象是第一手资料，那么这个陈述就是“第二手资料”；以此类推。<br/><br/>　　下面分别介绍两种依据的可信度问题。<br/><br/><h3 class="sigil_not_in_toc">◇第一手资料的可信度</h3>
-<br/>　　有句老话叫做“耳听为虚，眼见为实”。很多人受到这句老话的误导，以为第一手资料就是可信的——【其实未必】！<br/><br/>　　<b>认知的偏差问题</b><br/>　　所谓的“认知偏差”，就是指“亲眼所见/亲耳所闻”导致的偏差。<br/>　　比如当你观看魔术表演的时候，虽然是亲眼所见，但看到的依然是假象。因为魔术师可以通过种种方法来诱使你产生认知偏差。<br/>　　关于“认知偏差”的种类和成因是一个很大的话题，限于篇幅，就不展开了。有兴趣的话，可以引申阅读《<a href="../../2009/05/halo-effect.html">光环效应引发的认知误区</a>》，里面提到了“选择性失察”和“首因效应”导致的认知偏差。<br/><br/>　　<b>陈述者的诚信问题</b><br/>　　还有一种情况导致第一手资料的可信度下降，就是陈述者本身的信用问题。<br/>　　假如某个人是个老骗子，那么此人陈述的第一手资料，可信度就要打个折扣。<br/><br/><h3 class="sigil_not_in_toc">◇第 N 手资料的可信度</h3>
-<br/>　　评价第 N 手资料的可信度，需要同时考虑两方面：<br/>　　首先，第 N 手资料需要依赖于第一手资料的可信度。如果被依赖的第一手资料有问题，那衍生出来的第 N 手资料也好不到哪里去。<br/>　　其次，信息转手的次数越多，信息的衰减通常会越严重。<br/><br/><br/><h2 class="sigil_not_in_toc">★啥是“观点陈述”？</h2>
-<br/>　　简单地说，就是陈述自己【主观】的一些东西。<br/>　　“观点”和“事实”最大的不同就在于，“观点”受主观影响的，而“事实”【不】受主观影响。<br/><br/><br/><h2 class="sigil_not_in_toc">★“观点陈述”的分类？</h2>
-<br/><h3 class="sigil_not_in_toc">◇无需思考，得出的观点</h3>
-<br/>　　这类观点陈述，比较常见的有：感官体验、价值观偏好。<br/>　　感官体验，直接来自于人的动物本能。得出这类观点是不用经过大脑的，类似于条件反射。<br/>　　价值观偏好，主要来自于每个人的生活习惯、家庭环境、文化背景、等等。一旦形成了某种价值观偏好，就如同思维定式一般。作出评价也是不经过大脑的。<br/><br/>　　举例：<br/>　　<q>今天很热</q>（感官体验）<br/>　　<q>喜欢喝XX饮料</q>（价值观偏好）<br/><br/><h3 class="sigil_not_in_toc">◇经过某种思考，得出的观点</h3>
-<br/>　　思考的方式有很多种：<br/>　　最不靠谱的，就是完全靠猜测（拍脑袋），然后得到某个主观臆断。<br/>　　好一些的方法还有：<br/>　　依靠归纳法，总结出某个结论。<br/>　　依靠演绎法，通过逻辑推理得到某个推论。<br/>　　......<br/><br/><br/><h2 class="sigil_not_in_toc">★“观点陈述”有啥特征？</h2>
-<br/><h3 class="sigil_not_in_toc">◇对于“感官体验”的观点</h3>
-<br/>　　完全【不】存在“真假”、“对错”、“好坏”。<br/>　　比如同一时间同一地点，有人会觉得温度高，有人觉得温度低。你<b>不能说</b>某个人是对的，另一人是错的。<br/><br/><h3 class="sigil_not_in_toc">◇对于“价值观偏好”的观点</h3>
-<br/>　　如果“价值观偏好”纯属【私人领域】，就跟“感官体验”类似，也没有“真假”、“对错”、“好坏”之类的说法。<br/>　　比如喜欢什么颜色的服饰、喜欢什么口味的食物、等等。<br/><br/>　　但是，对于涉及到【公共领域】（比如政治领域、道德领域）的“价值观偏好”，就会有“好坏”之分。<br/>　　如果某个价值观在不同的历史时期、不同的文化中，都得到赞美，那么就可以称之为是“好”的；反之，都遭到批评就称为“坏”的。<br/>　　不过捏，能称得上“好的”价值观不多，能称得上“坏的”价值观也不多。大部分公共领域的价值观，都处于中间的灰色地带。这些价值观，可能在某些历史时期或某些文化中被赞同，而在另外的历史时期或另外的文化中，被排斥。比如“性取向的问题”就属于这种中间的灰色地带。<br/><br/><h3 class="sigil_not_in_toc">◇对于“经过思考得出的观点”</h3>
-<br/>　　这类观点，也会有“对错”之分。因为思考的过程是有可能出现偏差和谬误的。<br/>　　比如，用演绎法进行推理的时候，可能会出现推理的逻辑谬误。<br/>　　比如，用归纳法进行总结的时候，样本的片面性会导致结论的片面性。<br/>　　......<br/>　　（还有很多种谬误，恕不一一列举）<br/>　　关于思维方面的偏差和误区，有兴趣的话可以看看俺前几年的博文：<br/>《<a href="../../2012/03/think-what-how-why.html">用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲</a>》<br/>《<a href="../../2010/07/silent-proof.html">思维的误区：忽视沉默的大多数</a>》<br/>《<a href="../../2009/02/from-surface-to-essence.html">学会透过现象看本质，即使现象有时候挺诡异</a>》<br/><br/><br/><h2 class="sigil_not_in_toc">★哪些“观点陈述”值得质疑和争论？</h2>
-<br/>　　通过上述的分析，大伙儿应该比较清楚了：对于“感官体验”和“私人领域的价值观偏好”，质疑是没有意义的、争论是没有结果的。<br/>　　可惜的是，很多天朝的网民非常热衷于这类争论。比如：不同明星的追星族会互相争论、不同球队的球迷也常互相争论、甚至不同品牌手机的粉丝也会互相争论。<br/><br/>　　对于“经过思考得出的观点”，这方面是可以进行质疑和争论的。但要注意两点：<br/>　　1. 要考虑性价比——不要花太多时间和精力去质疑和争论一些鸡毛蒜皮的细节<br/>　　2. 反驳别人的观点要讲究境界<br/><br/>　　关于第二点提到的“境界”，大伙儿可以去读一下保罗·格雷汉姆（<a href="https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86" rel="nofollow" target="_blank">Paul Graham</a>）的文章《<a href="http://www.paulgraham.com/disagree.html" rel="nofollow" target="_blank">How to Disagree</a>》。考虑到某些同学不喜欢读洋文，附上如下的中文图解。<br/><center><img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/29_XyRgm02a3SnufE0prfZ-Rfk8QwKqLCIbvDK5HyYkmPqOl0p9HvLjShKCyI-q-GyxaoamNwG3aCiIOlOKex_Ril-T8p8SZxqJB-MDy35v2hAi-mpGvt-jrQDRWjPyGIa3exYm"/></center>
-<br/><br/><h2 class="sigil_not_in_toc">★结尾</h2>
-<br/>　　最后提醒一下：没看过《<a href="https://docs.google.com/document/d/14xEG3Uot3-uMML1ZQc7cMbNTxzpllxFQqcwr_n6FgQk/" target="_blank">学会提问——批判性思维指南</a>》的同学，【强烈建议】去看看。关于此书，俺曾经写过一篇书评，在<a href="../../2010/10/book-review-asking-right-questions.html">这里</a>。想下载电子版的同学，请翻墙看<a href="https://github.com/programthink/books" target="_blank">这里</a>。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../../2010/10/book-review-asking-right-questions.html">书评：＜学会提问——批判性思维指南＞</a>》<br/>《<a href="../../2011/03/logical-fallacies.html">谈谈逻辑谬误——以五毛言论为反面教材</a>》<br/>《<a href="../../2014/12/brainwash-using-real-data.html">比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠</a>》<br/>《<a href="../../2014/01/doublethink.html">比“欺骗”更有效的洗脑手法——基于【双重思想】的思维控制</a>》<br/>《<a href="../../2014/02/brainwash-and-idiot.html">聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”</a>》<br/>《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.html">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>《<a href="../../2015/05/Survivorship-Bias.html">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>《<a href="../../2010/07/silent-proof.html">思维的误区：忽视沉默的大多数</a>》<br/>《<a href="../../2009/05/halo-effect.html">光环效应引发的认知误区</a>》<br/>《<a href="../../2014/01/anti-brainwashing-and-enlightenment.html">如何用互联网进行“反洗脑”和“政治启蒙”——分享若干个人经验</a>》<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Mon, 17 Aug 2026 00:38:39 +0000</pubDate>
-    <guid isPermaLink="false">29</guid>
-</item>
-<item>
-    <title>网安知识 - 028 - 如何翻墙”系列：自由門——Tor 被封之后的另一个选择.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：7 分钟 (1928 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">“如何翻墙”系列：自由門——Tor 被封之后的另一个选择</a></h1>
-<div class="post-info"><span class="date-header">2010-03-10</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E7BFBBE5A299.html">IT.翻墙</a> <a class="tag" href="../../tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html">IT.软件介绍</a> </div>
-<hr/>
-<div class="post">
-　　最近也不知道是不是开两会的缘故，GFW 又开始发彪了。这次的矛头指向了大伙儿喜闻乐见的 Tor（也就是俗称的戴“套”）。因此，这几天陆陆续续收到很多网友的求助邮件，都是询问 Tor 的问题。俺为了偷懒，免去逐一的回答，特地写了这篇帖子。<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★Tor 到底咋啦？</h2>
-<br/>　　大约是三八妇女节的前2天，俺突然发现 Tor 很不稳定。紧接着就彻底联不上了。俺估摸着，大概是 GFW 把 Tor 的网桥中继，都给列入屏蔽黑名单了。毕竟，Tor 新增加的网桥中继，可以通过邮件和 Tor 的官方站点很容易地获取。所以 GFW 屏蔽它也不是什么难事。<br/>　　不过俺对 Tor 还是抱有信心。希望在它的后续版本中，能够有新的技术手段出现，帮助我等屁民突破党国的网络封锁。一旦 Tor 有啥新的动作，俺会在博客上通知大伙。关注此信息的同学，可以订阅俺博客（订阅地址：<a href="http://feeds2.feedburner.com/programthink">http://feeds2.feedburner.com/programthink</a>）。<br/><br/><br/><h2 class="sigil_not_in_toc">★事先声明</h2>
-<br/>　　接下来，俺要隆重介绍本文的主角：自由門软件。<br/>　　考虑到这玩意儿和法轮功有着某种程度的联系，因此俺有必要先来个郑重声明，以便撇清关系。<br/>　　虽然俺今天推荐大伙用自由門软件，但是本人和法轮功连半毛钱的关系都没有——毕竟俺是一个彻头彻尾的无神论者。<br/>　　另外，奉劝使用了自由門的同学，不要被其官方网站（也就是动态网）上的新闻及评论所忽悠。那上面的新闻/评论很多都不够客观，纯粹是“为了反共而反共”。想翻墙看新闻的同学，可以看看俺汇总的<a href="https://github.com/programthink/sites" target="_blank">海外新闻站点</a>。<br/><br/><br/><h2 class="sigil_not_in_toc">★为啥俺推荐自由門？</h2>
-<br/>　　俺推荐它，有如下几个主要的原因：<br/><br/><h3 class="sigil_not_in_toc">◇绿色软件，配置简易</h3>
-<br/>　　自由門是一个很小巧的绿色软件。只有单个的 exe 程序，大小也就1兆多。无需安装，配置也挺简便。<br/><br/><h3 class="sigil_not_in_toc">◇获取途径众多</h3>
-<br/>　　自由門的另一个好处是，具有多种获取的渠道。<br/>　　由于翻墙工具是 GFW 的克星，因此 GFW 总想把翻墙工具赶尽杀绝，让网友们拿不到翻墙工具。这时候，自由門的这个优点就很明显体现出来了。后面俺会细细介绍各种获取方式。<br/><br/><h3 class="sigil_not_in_toc">◇升级频繁</h3>
-<br/>　　这个好处也很重要。各种翻墙工具和 GFW 之间的斗争，是永不停息滴。双方都在不断升级技术手段，以超越对方。而自由門的升级比较频繁，基本上每月都有更新。虽然有时候也会被封，但是等到出了新版本，就又可以穿墙了。<br/><br/><br/><h2 class="sigil_not_in_toc">★自由門的获取</h2>
-<br/>　　鼓吹完几个好处，开始介绍如何获取该软件。<br/>　　先提醒一下，自由門的 exe 文件带有数字签名。不管你用后面介绍的何种途径获取它，为了安全起见，都要验证一下数字签名。关于如何验证数字签名，请看“<a href="../02/introduce-digital-certificate-and-ca.html#verify_file">这里</a>”。<br/><br/><h3 class="sigil_not_in_toc">◇Web 下载</h3>
-<br/>　　它的官方站点（动态网）在“<a href="http://dongtaiwang.com/" rel="nofollow" target="_blank">这里</a>”（此网址早已被墙），你可以先翻墙上动态网，然后就可以下载到该翻墙工具。<br/><br/><h3 class="sigil_not_in_toc">◇邮件获取</h3>
-<br/>　　万一你手头没有现成的翻墙工具，那可咋办捏？还有一招，就是通过邮件方式获取。你可以通过发邮件给 fg@dongtaiwang.com 来获取它。<br/>　　强烈建议各位同学：<br/>1. 使用加密的 【<b>https</b>】 方式访问 Gmail 邮箱<br/>2. 尽量【不要】用国内的免费邮箱（国内的邮件服务器会屏蔽动态网的邮箱地址）<br/><br/><h3 class="sigil_not_in_toc">◇通过 Skype 获取</h3>
-<br/>　　除了通过邮件方式获取，还有第三个招数——用 Skype 获取。如果你已经在用 Skype 这个 IM 工具，那就好办啦。具体步骤如下：<br/>1. 搜索 Skype 用户；<br/>2. 输入 <b>dongtaiwang.com</b>，然后查找；<br/>3. 查找到后，“添加Skype联系人”。<br/>　　一旦添加了联系人，只要给它发送任意消息，即可获取自由門软件。如果你从来没有用过 Skype 软件，请到<a href="https://download.skype.com/" rel="nofollow" target="_blank">https://download.skype.com/</a>下载。记住，千万【不要】用“TOM 版”或“光明方正版”的 Skype。那俩玩意儿是 Skype 跟国内公司成立的合资公司开发的，有后门，会被党国监控！<br/><br/><br/><h2 class="sigil_not_in_toc">★自由門的配置</h2>
-<br/>　　考虑到自由門全中文的图形界面，且操作也相对容易，俺在此就一笔带过。搞不定的同学，可以给俺发邮件。<br/>　　自由門默认开启本地（127.0.0.1）的 <b>8580</b> 端口。无论你用哪种浏览器，都只要设置 HTTP 代理到上述地址和端口即可。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）：</b><br/><a href="../../2009/05/how-to-break-through-gfw.html">如何翻墙</a>（传说中的扫盲教程，定期更新）<br/><a href="../../2011/09/gfw-faq.html">常见翻墙问题答疑</a>（传说中的 FAQ，定期更新）<br/><a href="../../2011/03/how-to-get-gfw-tools.html">获取翻墙软件方法大全</a>（教你在无法翻墙的情况下拿到翻墙软件）<br/><a href="../../2011/10/gfw-psiphon.html">双管齐下的赛风3</a><br/><a href="../../2011/12/gfw-wujie.html">新版本无界——赛风3失效后的另一个选择</a><br/><a href="../../2011/05/through-gfw-with-skype.html">基于 Skype 翻墙</a><br/><a href="../../2011/09/gfw-vpn-hotspot-shield.html">扫盲 VPN 翻墙——以 Hotspot Shield 为例</a><div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
-    <pubDate>Thu, 13 Aug 2026 01:04:17 +0000</pubDate>
-    <guid isPermaLink="false">28</guid>
-</item>
+
 <item>
     <title>管理科学 - 027 - 比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：21 分钟 (6241 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠</a></h1>
-<div class="post-info"><span class="date-header">2014-12-25</span><a class="tag" href="../../tags/E5ADA6E4BC9AE6809DE88083.html">学会思考</a> <a class="tag" href="../../tags/E694BFE6B2BB.html">政治</a> <a class="tag" href="../../tags/E694BFE6B2BB.E79C9FE79086E983A8.html">政治.真理部</a> </div>
-<hr/>
-<div class="post">
-　　大约一年前，俺发了一篇《<a href="../01/doublethink.html">比“欺骗”更有效的洗脑手法——基于“双重思想”的思维控制</a>》。今天这篇继续来聊聊——比“欺骗”更高级的忽悠——用【真实的】数据来对你进行误导。<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★选择性披露信息</h2>
-<br/><h3 class="sigil_not_in_toc">◇说明</h3>
-<br/>　　所谓的“选择性披露”就是——有些事实告诉你，但有些不告诉你。这两部分是通过精心挑选滴，以此来达到洗脑的效果。<br/><br/><h3 class="sigil_not_in_toc">◇举例——新闻联播</h3>
-<br/>　　比如说：《新闻联播》里面通常只报道天朝的好事儿，也通常只报道外国的坏事儿——就属于这种手法。<br/>　　后来网友们总结了“《新闻联播》三段论”：<br/>开头10分钟——天朝领导的工作很忙碌<br/>中间10分钟——天朝人民的生活很幸福<br/>最后10分钟——外国人民的生活很悲惨<br/><br/>　　俺印象比较深刻的一次，是2012年12月。在同一天，美国康涅狄格州和中国的河南省，都发生了校园惨案。但是中国官方媒体（尤其是 CCAV）大肆报道美国校园枪击案，却很少提及河南幼儿园的惨案。<br/>　　为啥官方媒体不去关心本国发生的人道灾难，却花大量精力去报道美国的人道灾难？本质上就是为了洗脑。<br/><br/><h3 class="sigil_not_in_toc">◇举例——孔庆东替文革的辩护</h3>
-<br/>　　关心政治的网友应该都知道孔庆东的大名——此人绰号“孔三妈”，是知名的毛粉。<br/>　　他在新浪微博发了一段话，摘录如下：<br/><blockquote>根据《历史的审判》中最高人民检察院的材料，文革中‘被迫害致死’者3万4千多人。假设这一数字是可靠的，那么平均每年是3千多人。对比一下美国，仅仅因为枪支泛滥，每年致死人数超过3万，等于10个文革。再按照两国人口比例换算，则等于40个文革。</blockquote>
-　　大伙儿先独立思考一下，这段话的谬误在哪里？<br/><br/>　　这段话有好几个坑。比如开头部分引用的数据（3万4千多人），很可能就是伪造的（人为缩水的）。连孔三妈自己也底气不足，所以他特地注明了“假设这一数字是可靠的”。因为本文不讨论“造假”，所以这个数字是否伪造，今天暂且不谈。<br/>　　本章节先谈谈这段话的后半段——美国死于枪支的人数。在这里，孔三妈使用的，就是【选择性披露】的忽悠手法。他只提到美国每年死于枪支的人数超过3万。但是捏，后来有网民指出：这3万人里面，超过2万是死于【自杀】。<br/>　　为啥孔三妈闭口不谈自杀人数捏？显然是为了忽悠——让你误以为这3万人都死于他杀。这类忽悠的高明之处在于——他用的确实是真实数据。<br/>　　（孔三妈这段话里面，还有另外的谬误，本文其它章节会提到）<br/><br/><br/><h2 class="sigil_not_in_toc">★只谈表面现象，不谈【深层】原因</h2>
-<br/><h3 class="sigil_not_in_toc">◇说明</h3>
-<br/>　　这种手法，建立在“受众”对某个领域不够了解。于是忽悠者就可以拿表面现象来掩盖深层原因。<br/><br/><h3 class="sigil_not_in_toc">◇举例——以”城镇化“来论证房地产市场的“刚需”</h3>
-<br/>　　在天朝，有些人极力鼓吹“房价长期走高”、“房价只涨不跌”。在这些人的论据里面，其中一个论据是：“大规模城镇化”会引入大量新的“城市住房需求”。<br/>　　这个论据靠谱吗？<br/>　　下面俺引用英国《金融时报》的一篇报道（链接在“<a href="http://m.ftchinese.com/story/001056876" rel="nofollow" target="_blank">这里</a>”）。引文中的粗体是俺标注滴。<br/><blockquote>许多人用城镇人口的增加和需要更新改善的房屋数量来估算住房的“刚需”大数。我们认为，用新增城镇人口来估算城镇化带来的新增住房需求会高估“刚需”。这是因为<b>在新增城镇人口之中，只有一小部分来自城镇户籍人口的自然增长，而百分之四十以上来自于城镇行政区域扩大或变更带来的农村人口划转</b>。这种“行政”性的城镇化意味着新增人口原来就有住宅，而并不是全部都会拆除重建。<b>另外 40% 多来自于常住非户籍人口的增加，但是这部分人由于购买力低下，绝大部分都无法参与到城镇住房市场</b>（我们假设其中 10% 的人能买房），而且因为户籍问题也不能享受社会保障房。</blockquote>
-<br/><br/><h2 class="sigil_not_in_toc">★基于不同的【统计术语】</h2>
-<br/>　　大部分人都是“统计学”的门外汉。对统计学术语缺乏基础的认识。于是捏，某些人（政府、商家）就可以利用这些术语，来误导你。<br/><br/><h3 class="sigil_not_in_toc">◇“平均数”的误导性</h3>
-<br/>　　在谈这几个统计学术语之前，先说个段子。<br/>　　比尔·盖茨长期霸占“世界首富”的宝座之后，IT 界出现一个调侃：<q>当比尔·盖茨走进某个普通的酒吧，一瞬间，酒吧里面的所有人都变成亿万富翁（平均数意义上的）。</q><br/>　　如果你看不懂这个调侃，俺来解释一下：盖茨的资产是几百亿美金。假设这个酒吧里面不到100人，那么当盖茨进入酒吧后，里面的【人均财产】至少是几亿美金。<br/>　　这个段子说明啥问题捏？那就是“平均数”在某些情况下具有很强的误导性（尤其是当某个领域的数据出现严重的【分布不均】）<br/><br/><h3 class="sigil_not_in_toc">◇平均数 VS <a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BD%8D%E6%95%B8" rel="nofollow" target="_blank">中位数</a> VS <a href="https://zh.wikipedia.org/wiki/%E4%BC%97%E6%95%B0_%28%E6%95%B0%E5%AD%A6%29" rel="nofollow" target="_blank">众数</a></h3>
-<br/>　　在统计学上，除了“平均数”这个术语，还有“中位数”和“众数”。关于后两者的含义，俺在本小节的标题处给出了链接，请自行查看这俩词条的解释。<br/>　　当数据的分布【极度不均匀】时，看“平均数”不如看“中位数”和“众数”。<br/>　　在咱们天朝，财富是非常严重的两极分化，所以，朝廷方面发布一些统计数据（比如“人均居住面积、人均存款”等等），更喜欢用“平均数”而不是“中位数”或“众数”。这样就能给出一些“看上去很美”的统计结果。<br/>　　说到这里，引用一句精辟的话（某读者在评论中补充了出处，在”<a href="https://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics" rel="nofollow" target="_blank">这里</a>“）<br/><blockquote>世界上有三种谎言——谎言、可耻的谎言、中国官方统计数字</blockquote>
-<br/><h3 class="sigil_not_in_toc">◇举例</h3>
-<br/>　　为了让大伙儿有一个直观的认识，俺虚构个例子来做一下实际的计算。<br/><blockquote>（以下例子纯属虚构，如有雷同，那是巧合）<br/>假设有一家工厂，里面有5个股东，25个经理，70个工头，200个高级技工，250个普通技工，300个实习生。<br/>股东年收入1000万<br/>经理年收入50万<br/>工头年收入10万<br/>高级技工年收入8万<br/>普通技工年收入4万<br/>实习生年收入2万</blockquote>
-　　对上述人群的收入，平均数是11.94万，中位数是4万，众数是2万。结果相差好几倍啊。<br/>　　假设某个地方衙门需要上报该工厂的收入情况，那么上报“平均数”就显得非常和谐。而上报“众数”就很不和谐。<br/><br/><h3 class="sigil_not_in_toc">◇引申阅读</h3>
-<br/>　　俺的网盘上分享了一本《<a href="https://docs.google.com/document/d/1_hU4SiYELWIaehraIeTe4VHO4fqmJUPYHcvX3gI9VM4/" target="_blank">统计陷阱</a>》（洋文名：How to Lie with Statistics），里面介绍了许多种基于统计学的忽悠，建议大伙儿看一下。<br/><br/><br/><h2 class="sigil_not_in_toc">★不恰当的对比——基于不同的【前提】</h2>
-<br/><h3 class="sigil_not_in_toc">◇说明</h3>
-<br/>　　对比两个事物的时候，如果前提不同，那么对比就没有意义。<br/>　　但是很多洗脑的手法，恰恰是利用了【不同前提】的对比。而且在对比的过程中，刻意隐瞒前提的差异性。<br/><br/><h3 class="sigil_not_in_toc">◇举例——孔庆东替文革的辩护</h3>
-<br/>　　刚才举了孔庆东的谬论作为反面教材，指出了其中一处谬误。现在来指出另一处谬误。<br/>　　孔庆东拿“美国死于枪支的人数”来跟“文革造成的非正常死亡人数”作对比。<b>这样的对比是没有意义的</b>。<br/>　　“文革造成的非正常死亡人数”，其性质是“专制政权的暴政”；“美国死于枪支的人数”，其中大部分是自杀（跟暴政无关），少部分是枪杀案（属于犯罪，同样跟“暴政”无关）。<br/><br/><h3 class="sigil_not_in_toc">◇举例——李世默替中共政权的辩护</h3>
-<br/>　　李世默属于高级自干五，而且还是“海龟”，而且还长得人模狗样的（此处是褒义词），而且还上了 TED 演讲——迷惑性大大滴（肯定大过<a href="../10/weekly-share-75.html">周小平</a>）<br/>　　此人在演讲中举出的一个论据是：根据国际清廉质数（以下简称“TII”），中国比许多民主国家更清廉。<br/>　　看到这里，估计有很多读者要哑然失笑了。<br/>　　但是咱们不能仅仅停留在“嘲笑”的层面，要从更深层次了解，为啥中国的 TII 指标会比某些成熟民主国家更好？猫腻在哪儿？<br/>　　在这个问题上，俺直接引用经济学家黄亚生对李世默的反驳（因为黄亚生的反驳已经一针见血，俺就不用浪费口水了）。原文摘录如下（粗体是俺加的），链接在“<a href="http://www.chinainperspective.com/ArtShow.aspx?AID=30013" rel="nofollow" target="_blank">这里</a>”（需翻墙）。<br/><blockquote>我一直认为用清廉指数来为一个不透明的政治体系辩护是很讽刺的。<br/>......<br/>下面要讲的是一个基本的观点：在民主国家中的腐败要远远多于我们知道的在那些集权国家中的腐败，因为民主国家按照定义就更透明，并且有更透明的数据。我更相信在民主国家中比较腐败程度，而不是机械的套用在中国与其他民主国家的比较中，这就像李世默所不断重复做的，但从根本上说是有缺陷的。<b>他的方法混淆了两种效果：一个国家透明程度如何以及一个国家腐败程度如何。</b>我不是说民主国家就一定比中国干净，我说的是李用的数据不能作为得出上述任何一个方向的结论的基本依据。<b>在这个问题上想要得出结论的正确方法是：在给定同样的透明度下（以及同样水平的许多其他指标，比如收入）中国有/没有比民主国家腐败。</b><br/>一个简单的例子就会阐明这种观点。在2010年，两个印度企业家成立了一个网站叫“我行贿”。这个网站让帖子以匿名的方式张贴印度公民不得不行贿的例子。截止到2012年8月，这个网站记录了20，000起腐败的报告。一些中国企业试着做同样的事情，比如他们创造了“I Made a Bribe”和“522phone.com”。但是这些网站很快就被中国政府强行关闭了。正确的结论并不是像李的逻辑所说的——中国比印度更干净，因为他有着零纪录的腐败案例，而印度政府有着20，000起腐败案件。</blockquote>
-　　李世默这个高级自干五，他故意不提“透明指数”，然后大谈“腐败指数”的对比——这种对比是没有意义的，因为前提不同了。<br/><br/><br/><h2 class="sigil_not_in_toc">★用“纵向对比”替代“横向对比”</h2>
-<br/><h3 class="sigil_not_in_toc">◇说明</h3>
-<br/>　　所谓的“纵向对比”，就是指时间上的对比。比如拿现在跟过去对比；所谓的“横向对比”，是指【同一时期】，不同国家/地区的对比。<br/>　　“纵向对比”的意义不大——因为人类社会总是在不断发展，不断进步的。现在比过去好，那是应该的，也是很正常的。<br/>　　相对而言，“横向对比”会更加有说服力。但是真理部却很喜欢使用“纵向对比”。<br/><br/><h3 class="sigil_not_in_toc">◇举例——毛腊肉时代的“忆苦思甜”</h3>
-<br/>　　在毛腊肉时代，非常流行所谓的“忆苦思甜”。也就是反复强调1949年之前的“旧社会”有多么多么糟糕；然后再粉饰所谓的“新社会”有多么多么好。这就是典型的“纵向对比”。<br/>　　为啥毛时代总是搞“纵向对比”？其实毛腊肉也曾经想过要搞“横向对比”。比如大跃进时代，打出口号说，多少多少年，要实现“超英赶美”。结果捏，“大跃进”给搞成了“大饥荒”，堂堂天朝变成了人间地狱（关于这段历史，参见俺之前的系列《<a href="../../2012/05/three-years-famine-0.html">谈谈三年大饥荒</a>》）估计从那之后，腊肉就怂了，不敢再搞“横向对比”，于是就让真理部专注于“纵向对比”的忽悠。<br/><br/><br/><h2 class="sigil_not_in_toc">★不恰当的对比——基于不同的【历史时期】</h2>
-<br/><h3 class="sigil_not_in_toc">◇说明</h3>
-<br/>　　前面提到了“横向对比”。这种对比方式的重要前提是“同一时期”。如果少掉这个前提，对比的意义会大打折扣。<br/><br/><h3 class="sigil_not_in_toc">◇举例——香港占中运动期间，某官员的“美国黑奴论”</h3>
-<br/>　　查史美伦是香港金融发展局主席。她以美国黑奴为例，说道：“1861年美国解放黑奴，大约100年后，1968年黑人才可获投票权。”<br/>　　为啥说这个言论是谬误滴？因为英国、美国是民主化的先驱。他们没有前人可以借鉴，处于摸索阶段，自然要花比较长的时间。比如俺之前的博文《<a href="../04/history-china-fallen-behind-europe.html">中国是从哪个朝代开始落后于西方？</a>》列出了欧洲现代化进程的时间表。英国从“自由大宪章”到“光荣革命”胜利，当中花了超过400年的时间。<br/>　　而如今捏，民主化浪潮已经席卷全球，有很多前车之鉴可以供参考，当然不用再花那么长的时间。比如：日本二战战败之后，用很短的时间就建立了“君主立宪”的政体。设想一下：如果某个日本官员说“英国搞出君主立宪花了400年，日本也需要花400年”——那岂不是笑话？<br/><br/><br/><h2 class="sigil_not_in_toc">★通过【追加定语】来提升排名</h2>
-<br/><h3 class="sigil_not_in_toc">◇说明</h3>
-<br/>　　所谓“追加定语”是一种修辞方面的语言技巧。这种技巧如果运用得当，也可以很好地进行忽悠。<br/><br/><h3 class="sigil_not_in_toc">◇举例——对“嫦娥登月”的报道</h3>
-<br/>　　去年（2013）嫦娥三号实施登月计划之后，官方媒体反复强调：<q>中国成为继美国和前苏联之后，第3个实现【月面软着陆】的国家”</q><br/>　　这个说法本身没有错，但是会给人（尤其是不太了解宇航技术的人）一种强烈的误解，以为中国是第3个登上月球的国家。<br/>　　其实捏，以“月面着陆”来计算，中国排在第5位——前面4个分别是：美国、苏联、日本（1990）、印度（2008）。但改为“月面软着陆”这个定语，一下子就挤进前三名啦。<br/>　　补充说明：欧洲空间局“月面着陆”的时间也早于中国，但是“欧洲”不能算单独的国家，所以俺没有把“欧洲空间局”的登月计算在内。<br/><br/>　　为了说明“定语”的效果，请你品味如下几句话——体会一下唬人的程度，有啥差异。<br/>嫦娥三号成功登月，中国是第3个实现“月面软着陆”的国家。<br/>嫦娥三号成功登月，中国是第5个实现“月面着陆”的国家。<br/>嫦娥三号成功登月，它是第31个在月球软着陆的探测器。<br/>嫦娥三号成功登月，它是第115个月球探测器。<br/>　　详细的“月球探测器清单”请看维基百科词条（链接在“<a href="https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8" rel="nofollow" target="_blank">这里</a>”）。这个清单包含了所有跟月球相关的探测器（包括“绕月的”和“着陆的”）。<br/><br/>　　顺便给大伙儿聊点宇航方面的科普：<br/>　　以如今的宇航技术，“月球探测”的难度其实远远小于其它几项（比如：火星探测、彗星探测、小行星探测）。<br/>　　咱们以“火星探测”为例：<br/>　　截止俺写本文的2014年，成功进行火星任务的机构（按时间顺序）是：俄罗斯的 RSA（俄罗斯空间局）、美国的 NASA（美国宇航局）、欧洲的 ESA（欧洲空间局）、印度的 ISRO（印度空间研究组织）。如果以国家排名（欧洲不算“国家”），印度排第三（不愧是印度阿三）。值得一提的是：到目前为止，尝试过火星任务的机构，除了印度的 ISRO，其它机构第一次尝试都失败了。<br/>苏联第一次尝试（火星1A号，1960），失败<br/>美国第一次尝试（水手3号，1964），失败<br/>日本第一次尝试（希望号，1998），失败<br/>英国第一次尝试（小猎犬2号，2003），失败<br/>中国第一次尝试（萤火一号，2011），失败<br/>（以上资料摘自维基百科词条，链接在“<a href="https://zh.wikipedia.org/wiki/%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8" rel="nofollow" target="_blank">这里</a>”）<br/>　　苏联和美国的失败，还情有可原——因为上世纪60年代的宇航技术还很粗糙。但是中国和印度的火星任务，时间上很接近（相差2年），有可比性。<br/>　　俺为啥特别强调印度？因为它的空间技术实力，绝对不可小看。比如说：印度的火星计划，技术都是自己研发，而且成本是全球最低（七千四百万美元，相当于 NASA 同时期类似计划的 1/10 成本）。这些可不是俺瞎掰的，不信请看<a href="https://zh.wikipedia.org/wiki/%E7%81%AB%E6%98%9F%E8%BB%8C%E9%81%93%E6%8E%A2%E6%B8%AC%E5%99%A8" rel="nofollow" target="_blank">这个维基词条</a>。<br/>　　但如果你只听官方报道，肯定意识不到这一点。从某种意义上讲，印度对中国的威胁，比日本更大（这个话题以后再聊）。<br/><br/><h3 class="sigil_not_in_toc">◇举例——锤子手机的广告</h3>
-<br/>　　话说上个月在马路边看到一广告牌，用特别醒目的大字体写着：<br/><blockquote>双十一天猫购物节<br/>锤子手机全国销量第二</blockquote>
-　　当时俺吃了一惊，心想：几天功夫，老罗的锤子手机咋变得这么牛逼啊。然后走近一看，在这2行大字的中间，还夹着一行很小的字体，写着——2000元以上的国产手机<br/>　　俺估计这个广告牌忽悠了不少人——稍微站远一点，根本看不见那行小字。但你又没法说它造假。这就是狡猾之处啊。<br/>　　顺便搜了一下，发现好多人都有同感。比如这篇《<a href="http://it.sohu.com/20141116/n406071872.shtml" rel="nofollow" target="_blank">锤子手机广告再现机智——偷换概念，口活无敌 @ 搜狐 IT</a>》<br/>　　补充说明：<br/>　　某读者发了长篇留言，论证俺这个例子放在本文不合适。为了避免引起误解，俺补充说明一下：本人既不是锤子黑，也不是锤子粉。这个例子只是用来说明某种忽悠的手法。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../01/doublethink.html">比“欺骗”更有效的洗脑——基于【双重思想】的思维控制</a>》<br/>《<a href="../02/brainwash-and-idiot.html">聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”</a>》<br/>《<a href="../../2013/05/difference-between-fact-and-opinion.html">批判性思维扫盲：学会区分“事实”与“观点”</a>》<br/>《<a href="../../2013/08/korean-war.html">谈谈真理部对朝鲜战争的忽悠</a>》<br/>《<a href="../../2010/09/sino-japanese-war.html">谈谈真理部对抗战历史的篡改</a>》<br/>《<a href="../../2012/12/emperor-complex.html">天朝民众的心理分析：圣君情结</a>》<br/>《<a href="../../2012/06/stockholm-syndrome.html">天朝民众的心理分析：斯德哥尔摩综合症</a>》<br/>《<a href="../03/propaganda-for-patriotism.html">分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言</a>》<div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：21 分钟 (6241 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2014-12-25&lt;/span&gt;&lt;a class="tag" href="../../tags/E5ADA6E4BC9AE6809DE88083.html"&gt;学会思考&lt;/a&gt; &lt;a class="tag" href="../../tags/E694BFE6B2BB.html"&gt;政治&lt;/a&gt; &lt;a class="tag" href="../../tags/E694BFE6B2BB.E79C9FE79086E983A8.html"&gt;政治.真理部&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　大约一年前，俺发了一篇《&lt;a href="../01/doublethink.html"&gt;比“欺骗”更有效的洗脑手法——基于“双重思想”的思维控制&lt;/a&gt;》。今天这篇继续来聊聊——比“欺骗”更高级的忽悠——用【真实的】数据来对你进行误导。&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★选择性披露信息&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇说明&lt;/h3&gt;
+&lt;br/&gt;　　所谓的“选择性披露”就是——有些事实告诉你，但有些不告诉你。这两部分是通过精心挑选滴，以此来达到洗脑的效果。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——新闻联播&lt;/h3&gt;
+&lt;br/&gt;　　比如说：《新闻联播》里面通常只报道天朝的好事儿，也通常只报道外国的坏事儿——就属于这种手法。&lt;br/&gt;　　后来网友们总结了“《新闻联播》三段论”：&lt;br/&gt;开头10分钟——天朝领导的工作很忙碌&lt;br/&gt;中间10分钟——天朝人民的生活很幸福&lt;br/&gt;最后10分钟——外国人民的生活很悲惨&lt;br/&gt;&lt;br/&gt;　　俺印象比较深刻的一次，是2012年12月。在同一天，美国康涅狄格州和中国的河南省，都发生了校园惨案。但是中国官方媒体（尤其是 CCAV）大肆报道美国校园枪击案，却很少提及河南幼儿园的惨案。&lt;br/&gt;　　为啥官方媒体不去关心本国发生的人道灾难，却花大量精力去报道美国的人道灾难？本质上就是为了洗脑。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——孔庆东替文革的辩护&lt;/h3&gt;
+&lt;br/&gt;　　关心政治的网友应该都知道孔庆东的大名——此人绰号“孔三妈”，是知名的毛粉。&lt;br/&gt;　　他在新浪微博发了一段话，摘录如下：&lt;br/&gt;&lt;blockquote&gt;根据《历史的审判》中最高人民检察院的材料，文革中‘被迫害致死’者3万4千多人。假设这一数字是可靠的，那么平均每年是3千多人。对比一下美国，仅仅因为枪支泛滥，每年致死人数超过3万，等于10个文革。再按照两国人口比例换算，则等于40个文革。&lt;/blockquote&gt;
+　　大伙儿先独立思考一下，这段话的谬误在哪里？&lt;br/&gt;&lt;br/&gt;　　这段话有好几个坑。比如开头部分引用的数据（3万4千多人），很可能就是伪造的（人为缩水的）。连孔三妈自己也底气不足，所以他特地注明了“假设这一数字是可靠的”。因为本文不讨论“造假”，所以这个数字是否伪造，今天暂且不谈。&lt;br/&gt;　　本章节先谈谈这段话的后半段——美国死于枪支的人数。在这里，孔三妈使用的，就是【选择性披露】的忽悠手法。他只提到美国每年死于枪支的人数超过3万。但是捏，后来有网民指出：这3万人里面，超过2万是死于【自杀】。&lt;br/&gt;　　为啥孔三妈闭口不谈自杀人数捏？显然是为了忽悠——让你误以为这3万人都死于他杀。这类忽悠的高明之处在于——他用的确实是真实数据。&lt;br/&gt;　　（孔三妈这段话里面，还有另外的谬误，本文其它章节会提到）&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★只谈表面现象，不谈【深层】原因&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇说明&lt;/h3&gt;
+&lt;br/&gt;　　这种手法，建立在“受众”对某个领域不够了解。于是忽悠者就可以拿表面现象来掩盖深层原因。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——以”城镇化“来论证房地产市场的“刚需”&lt;/h3&gt;
+&lt;br/&gt;　　在天朝，有些人极力鼓吹“房价长期走高”、“房价只涨不跌”。在这些人的论据里面，其中一个论据是：“大规模城镇化”会引入大量新的“城市住房需求”。&lt;br/&gt;　　这个论据靠谱吗？&lt;br/&gt;　　下面俺引用英国《金融时报》的一篇报道（链接在“&lt;a href="http://m.ftchinese.com/story/001056876" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”）。引文中的粗体是俺标注滴。&lt;br/&gt;&lt;blockquote&gt;许多人用城镇人口的增加和需要更新改善的房屋数量来估算住房的“刚需”大数。我们认为，用新增城镇人口来估算城镇化带来的新增住房需求会高估“刚需”。这是因为&lt;b&gt;在新增城镇人口之中，只有一小部分来自城镇户籍人口的自然增长，而百分之四十以上来自于城镇行政区域扩大或变更带来的农村人口划转&lt;/b&gt;。这种“行政”性的城镇化意味着新增人口原来就有住宅，而并不是全部都会拆除重建。&lt;b&gt;另外 40% 多来自于常住非户籍人口的增加，但是这部分人由于购买力低下，绝大部分都无法参与到城镇住房市场&lt;/b&gt;（我们假设其中 10% 的人能买房），而且因为户籍问题也不能享受社会保障房。&lt;/blockquote&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★基于不同的【统计术语】&lt;/h2&gt;
+&lt;br/&gt;　　大部分人都是“统计学”的门外汉。对统计学术语缺乏基础的认识。于是捏，某些人（政府、商家）就可以利用这些术语，来误导你。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇“平均数”的误导性&lt;/h3&gt;
+&lt;br/&gt;　　在谈这几个统计学术语之前，先说个段子。&lt;br/&gt;　　比尔·盖茨长期霸占“世界首富”的宝座之后，IT 界出现一个调侃：&lt;q&gt;当比尔·盖茨走进某个普通的酒吧，一瞬间，酒吧里面的所有人都变成亿万富翁（平均数意义上的）。&lt;/q&gt;&lt;br/&gt;　　如果你看不懂这个调侃，俺来解释一下：盖茨的资产是几百亿美金。假设这个酒吧里面不到100人，那么当盖茨进入酒吧后，里面的【人均财产】至少是几亿美金。&lt;br/&gt;　　这个段子说明啥问题捏？那就是“平均数”在某些情况下具有很强的误导性（尤其是当某个领域的数据出现严重的【分布不均】）&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇平均数 VS &lt;a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E4%BD%8D%E6%95%B8" rel="nofollow" target="_blank"&gt;中位数&lt;/a&gt; VS &lt;a href="https://zh.wikipedia.org/wiki/%E4%BC%97%E6%95%B0_%28%E6%95%B0%E5%AD%A6%29" rel="nofollow" target="_blank"&gt;众数&lt;/a&gt;&lt;/h3&gt;
+&lt;br/&gt;　　在统计学上，除了“平均数”这个术语，还有“中位数”和“众数”。关于后两者的含义，俺在本小节的标题处给出了链接，请自行查看这俩词条的解释。&lt;br/&gt;　　当数据的分布【极度不均匀】时，看“平均数”不如看“中位数”和“众数”。&lt;br/&gt;　　在咱们天朝，财富是非常严重的两极分化，所以，朝廷方面发布一些统计数据（比如“人均居住面积、人均存款”等等），更喜欢用“平均数”而不是“中位数”或“众数”。这样就能给出一些“看上去很美”的统计结果。&lt;br/&gt;　　说到这里，引用一句精辟的话（某读者在评论中补充了出处，在”&lt;a href="https://en.wikipedia.org/wiki/Lies,_damned_lies,_and_statistics" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;“）&lt;br/&gt;&lt;blockquote&gt;世界上有三种谎言——谎言、可耻的谎言、中国官方统计数字&lt;/blockquote&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例&lt;/h3&gt;
+&lt;br/&gt;　　为了让大伙儿有一个直观的认识，俺虚构个例子来做一下实际的计算。&lt;br/&gt;&lt;blockquote&gt;（以下例子纯属虚构，如有雷同，那是巧合）&lt;br/&gt;假设有一家工厂，里面有5个股东，25个经理，70个工头，200个高级技工，250个普通技工，300个实习生。&lt;br/&gt;股东年收入1000万&lt;br/&gt;经理年收入50万&lt;br/&gt;工头年收入10万&lt;br/&gt;高级技工年收入8万&lt;br/&gt;普通技工年收入4万&lt;br/&gt;实习生年收入2万&lt;/blockquote&gt;
+　　对上述人群的收入，平均数是11.94万，中位数是4万，众数是2万。结果相差好几倍啊。&lt;br/&gt;　　假设某个地方衙门需要上报该工厂的收入情况，那么上报“平均数”就显得非常和谐。而上报“众数”就很不和谐。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇引申阅读&lt;/h3&gt;
+&lt;br/&gt;　　俺的网盘上分享了一本《&lt;a href="https://docs.google.com/document/d/1_hU4SiYELWIaehraIeTe4VHO4fqmJUPYHcvX3gI9VM4/" target="_blank"&gt;统计陷阱&lt;/a&gt;》（洋文名：How to Lie with Statistics），里面介绍了许多种基于统计学的忽悠，建议大伙儿看一下。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★不恰当的对比——基于不同的【前提】&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇说明&lt;/h3&gt;
+&lt;br/&gt;　　对比两个事物的时候，如果前提不同，那么对比就没有意义。&lt;br/&gt;　　但是很多洗脑的手法，恰恰是利用了【不同前提】的对比。而且在对比的过程中，刻意隐瞒前提的差异性。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——孔庆东替文革的辩护&lt;/h3&gt;
+&lt;br/&gt;　　刚才举了孔庆东的谬论作为反面教材，指出了其中一处谬误。现在来指出另一处谬误。&lt;br/&gt;　　孔庆东拿“美国死于枪支的人数”来跟“文革造成的非正常死亡人数”作对比。&lt;b&gt;这样的对比是没有意义的&lt;/b&gt;。&lt;br/&gt;　　“文革造成的非正常死亡人数”，其性质是“专制政权的暴政”；“美国死于枪支的人数”，其中大部分是自杀（跟暴政无关），少部分是枪杀案（属于犯罪，同样跟“暴政”无关）。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——李世默替中共政权的辩护&lt;/h3&gt;
+&lt;br/&gt;　　李世默属于高级自干五，而且还是“海龟”，而且还长得人模狗样的（此处是褒义词），而且还上了 TED 演讲——迷惑性大大滴（肯定大过&lt;a href="../10/weekly-share-75.html"&gt;周小平&lt;/a&gt;）&lt;br/&gt;　　此人在演讲中举出的一个论据是：根据国际清廉质数（以下简称“TII”），中国比许多民主国家更清廉。&lt;br/&gt;　　看到这里，估计有很多读者要哑然失笑了。&lt;br/&gt;　　但是咱们不能仅仅停留在“嘲笑”的层面，要从更深层次了解，为啥中国的 TII 指标会比某些成熟民主国家更好？猫腻在哪儿？&lt;br/&gt;　　在这个问题上，俺直接引用经济学家黄亚生对李世默的反驳（因为黄亚生的反驳已经一针见血，俺就不用浪费口水了）。原文摘录如下（粗体是俺加的），链接在“&lt;a href="http://www.chinainperspective.com/ArtShow.aspx?AID=30013" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”（需翻墙）。&lt;br/&gt;&lt;blockquote&gt;我一直认为用清廉指数来为一个不透明的政治体系辩护是很讽刺的。&lt;br/&gt;......&lt;br/&gt;下面要讲的是一个基本的观点：在民主国家中的腐败要远远多于我们知道的在那些集权国家中的腐败，因为民主国家按照定义就更透明，并且有更透明的数据。我更相信在民主国家中比较腐败程度，而不是机械的套用在中国与其他民主国家的比较中，这就像李世默所不断重复做的，但从根本上说是有缺陷的。&lt;b&gt;他的方法混淆了两种效果：一个国家透明程度如何以及一个国家腐败程度如何。&lt;/b&gt;我不是说民主国家就一定比中国干净，我说的是李用的数据不能作为得出上述任何一个方向的结论的基本依据。&lt;b&gt;在这个问题上想要得出结论的正确方法是：在给定同样的透明度下（以及同样水平的许多其他指标，比如收入）中国有/没有比民主国家腐败。&lt;/b&gt;&lt;br/&gt;一个简单的例子就会阐明这种观点。在2010年，两个印度企业家成立了一个网站叫“我行贿”。这个网站让帖子以匿名的方式张贴印度公民不得不行贿的例子。截止到2012年8月，这个网站记录了20，000起腐败的报告。一些中国企业试着做同样的事情，比如他们创造了“I Made a Bribe”和“522phone.com”。但是这些网站很快就被中国政府强行关闭了。正确的结论并不是像李的逻辑所说的——中国比印度更干净，因为他有着零纪录的腐败案例，而印度政府有着20，000起腐败案件。&lt;/blockquote&gt;
+　　李世默这个高级自干五，他故意不提“透明指数”，然后大谈“腐败指数”的对比——这种对比是没有意义的，因为前提不同了。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★用“纵向对比”替代“横向对比”&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇说明&lt;/h3&gt;
+&lt;br/&gt;　　所谓的“纵向对比”，就是指时间上的对比。比如拿现在跟过去对比；所谓的“横向对比”，是指【同一时期】，不同国家/地区的对比。&lt;br/&gt;　　“纵向对比”的意义不大——因为人类社会总是在不断发展，不断进步的。现在比过去好，那是应该的，也是很正常的。&lt;br/&gt;　　相对而言，“横向对比”会更加有说服力。但是真理部却很喜欢使用“纵向对比”。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——毛腊肉时代的“忆苦思甜”&lt;/h3&gt;
+&lt;br/&gt;　　在毛腊肉时代，非常流行所谓的“忆苦思甜”。也就是反复强调1949年之前的“旧社会”有多么多么糟糕；然后再粉饰所谓的“新社会”有多么多么好。这就是典型的“纵向对比”。&lt;br/&gt;　　为啥毛时代总是搞“纵向对比”？其实毛腊肉也曾经想过要搞“横向对比”。比如大跃进时代，打出口号说，多少多少年，要实现“超英赶美”。结果捏，“大跃进”给搞成了“大饥荒”，堂堂天朝变成了人间地狱（关于这段历史，参见俺之前的系列《&lt;a href="../../2012/05/three-years-famine-0.html"&gt;谈谈三年大饥荒&lt;/a&gt;》）估计从那之后，腊肉就怂了，不敢再搞“横向对比”，于是就让真理部专注于“纵向对比”的忽悠。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★不恰当的对比——基于不同的【历史时期】&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇说明&lt;/h3&gt;
+&lt;br/&gt;　　前面提到了“横向对比”。这种对比方式的重要前提是“同一时期”。如果少掉这个前提，对比的意义会大打折扣。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——香港占中运动期间，某官员的“美国黑奴论”&lt;/h3&gt;
+&lt;br/&gt;　　查史美伦是香港金融发展局主席。她以美国黑奴为例，说道：“1861年美国解放黑奴，大约100年后，1968年黑人才可获投票权。”&lt;br/&gt;　　为啥说这个言论是谬误滴？因为英国、美国是民主化的先驱。他们没有前人可以借鉴，处于摸索阶段，自然要花比较长的时间。比如俺之前的博文《&lt;a href="../04/history-china-fallen-behind-europe.html"&gt;中国是从哪个朝代开始落后于西方？&lt;/a&gt;》列出了欧洲现代化进程的时间表。英国从“自由大宪章”到“光荣革命”胜利，当中花了超过400年的时间。&lt;br/&gt;　　而如今捏，民主化浪潮已经席卷全球，有很多前车之鉴可以供参考，当然不用再花那么长的时间。比如：日本二战战败之后，用很短的时间就建立了“君主立宪”的政体。设想一下：如果某个日本官员说“英国搞出君主立宪花了400年，日本也需要花400年”——那岂不是笑话？&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★通过【追加定语】来提升排名&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇说明&lt;/h3&gt;
+&lt;br/&gt;　　所谓“追加定语”是一种修辞方面的语言技巧。这种技巧如果运用得当，也可以很好地进行忽悠。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——对“嫦娥登月”的报道&lt;/h3&gt;
+&lt;br/&gt;　　去年（2013）嫦娥三号实施登月计划之后，官方媒体反复强调：&lt;q&gt;中国成为继美国和前苏联之后，第3个实现【月面软着陆】的国家”&lt;/q&gt;&lt;br/&gt;　　这个说法本身没有错，但是会给人（尤其是不太了解宇航技术的人）一种强烈的误解，以为中国是第3个登上月球的国家。&lt;br/&gt;　　其实捏，以“月面着陆”来计算，中国排在第5位——前面4个分别是：美国、苏联、日本（1990）、印度（2008）。但改为“月面软着陆”这个定语，一下子就挤进前三名啦。&lt;br/&gt;　　补充说明：欧洲空间局“月面着陆”的时间也早于中国，但是“欧洲”不能算单独的国家，所以俺没有把“欧洲空间局”的登月计算在内。&lt;br/&gt;&lt;br/&gt;　　为了说明“定语”的效果，请你品味如下几句话——体会一下唬人的程度，有啥差异。&lt;br/&gt;嫦娥三号成功登月，中国是第3个实现“月面软着陆”的国家。&lt;br/&gt;嫦娥三号成功登月，中国是第5个实现“月面着陆”的国家。&lt;br/&gt;嫦娥三号成功登月，它是第31个在月球软着陆的探测器。&lt;br/&gt;嫦娥三号成功登月，它是第115个月球探测器。&lt;br/&gt;　　详细的“月球探测器清单”请看维基百科词条（链接在“&lt;a href="https://zh.wikipedia.org/wiki/%E6%9C%88%E7%90%83%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”）。这个清单包含了所有跟月球相关的探测器（包括“绕月的”和“着陆的”）。&lt;br/&gt;&lt;br/&gt;　　顺便给大伙儿聊点宇航方面的科普：&lt;br/&gt;　　以如今的宇航技术，“月球探测”的难度其实远远小于其它几项（比如：火星探测、彗星探测、小行星探测）。&lt;br/&gt;　　咱们以“火星探测”为例：&lt;br/&gt;　　截止俺写本文的2014年，成功进行火星任务的机构（按时间顺序）是：俄罗斯的 RSA（俄罗斯空间局）、美国的 NASA（美国宇航局）、欧洲的 ESA（欧洲空间局）、印度的 ISRO（印度空间研究组织）。如果以国家排名（欧洲不算“国家”），印度排第三（不愧是印度阿三）。值得一提的是：到目前为止，尝试过火星任务的机构，除了印度的 ISRO，其它机构第一次尝试都失败了。&lt;br/&gt;苏联第一次尝试（火星1A号，1960），失败&lt;br/&gt;美国第一次尝试（水手3号，1964），失败&lt;br/&gt;日本第一次尝试（希望号，1998），失败&lt;br/&gt;英国第一次尝试（小猎犬2号，2003），失败&lt;br/&gt;中国第一次尝试（萤火一号，2011），失败&lt;br/&gt;（以上资料摘自维基百科词条，链接在“&lt;a href="https://zh.wikipedia.org/wiki/%E7%81%AB%E6%98%9F%E6%8E%A2%E6%B5%8B%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”）&lt;br/&gt;　　苏联和美国的失败，还情有可原——因为上世纪60年代的宇航技术还很粗糙。但是中国和印度的火星任务，时间上很接近（相差2年），有可比性。&lt;br/&gt;　　俺为啥特别强调印度？因为它的空间技术实力，绝对不可小看。比如说：印度的火星计划，技术都是自己研发，而且成本是全球最低（七千四百万美元，相当于 NASA 同时期类似计划的 1/10 成本）。这些可不是俺瞎掰的，不信请看&lt;a href="https://zh.wikipedia.org/wiki/%E7%81%AB%E6%98%9F%E8%BB%8C%E9%81%93%E6%8E%A2%E6%B8%AC%E5%99%A8" rel="nofollow" target="_blank"&gt;这个维基词条&lt;/a&gt;。&lt;br/&gt;　　但如果你只听官方报道，肯定意识不到这一点。从某种意义上讲，印度对中国的威胁，比日本更大（这个话题以后再聊）。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇举例——锤子手机的广告&lt;/h3&gt;
+&lt;br/&gt;　　话说上个月在马路边看到一广告牌，用特别醒目的大字体写着：&lt;br/&gt;&lt;blockquote&gt;双十一天猫购物节&lt;br/&gt;锤子手机全国销量第二&lt;/blockquote&gt;
+　　当时俺吃了一惊，心想：几天功夫，老罗的锤子手机咋变得这么牛逼啊。然后走近一看，在这2行大字的中间，还夹着一行很小的字体，写着——2000元以上的国产手机&lt;br/&gt;　　俺估计这个广告牌忽悠了不少人——稍微站远一点，根本看不见那行小字。但你又没法说它造假。这就是狡猾之处啊。&lt;br/&gt;　　顺便搜了一下，发现好多人都有同感。比如这篇《&lt;a href="http://it.sohu.com/20141116/n406071872.shtml" rel="nofollow" target="_blank"&gt;锤子手机广告再现机智——偷换概念，口活无敌 @ 搜狐 IT&lt;/a&gt;》&lt;br/&gt;　　补充说明：&lt;br/&gt;　　某读者发了长篇留言，论证俺这个例子放在本文不合适。为了避免引起误解，俺补充说明一下：本人既不是锤子黑，也不是锤子粉。这个例子只是用来说明某种忽悠的手法。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;《&lt;a href="../01/doublethink.html"&gt;比“欺骗”更有效的洗脑——基于【双重思想】的思维控制&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../02/brainwash-and-idiot.html"&gt;聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2013/05/difference-between-fact-and-opinion.html"&gt;批判性思维扫盲：学会区分“事实”与“观点”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2013/08/korean-war.html"&gt;谈谈真理部对朝鲜战争的忽悠&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2010/09/sino-japanese-war.html"&gt;谈谈真理部对抗战历史的篡改&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/12/emperor-complex.html"&gt;天朝民众的心理分析：圣君情结&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/06/stockholm-syndrome.html"&gt;天朝民众的心理分析：斯德哥尔摩综合症&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../03/propaganda-for-patriotism.html"&gt;分析爱国主义忽悠的常见类型——顺便戳穿几个流传很广的谣言&lt;/a&gt;》&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
     <pubDate>Tue, 11 Aug 2026 00:56:40 +0000</pubDate>
     <guid isPermaLink="false">27</guid>
 </item>
+
+<item>
+    <title>网安知识 - 038 - 如何翻墙”系列：用图片传播翻墙软件.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：4 分钟 (1130 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：用图片传播翻墙软件&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2011-05-28&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E7BFBBE5A299.html"&gt;IT.翻墙&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+&lt;h2 class="sigil_not_in_toc"&gt;★传播翻墙工具的困难&lt;/h2&gt;
+&lt;br/&gt;　　大部分网友翻墙，碰到的第一个困难就是获取翻墙工具。为了帮助菜鸟网友，俺还专门写了一个“&lt;a href="../03/how-to-get-gfw-tools.html"&gt;获取翻墙软件方法大全&lt;/a&gt;”的帖子，普及这方面知识（本帖的内容，也会补充到那里面）。&lt;br/&gt;　　以前，为了传播翻墙工具，俺用微软的 SkyDrive 收藏了常见翻墙工具的每一个新版本。但是，每增加一个新的翻墙软件，过不了几天，其下载链接就被墙了（党国封杀的效率还挺高滴）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★新的传播方式——基于图片传播&lt;/h2&gt;
+&lt;br/&gt;　　考虑到党国的封锁日益严厉，翻墙的形势也得与时俱进。最近，俺想了一个新的办法，&lt;b&gt;用图片来传播翻墙工具&lt;/b&gt;。简单地说，就是把翻墙工具嵌入到图片中（具体的实现技术，俺在&lt;a href="../06/use-image-hide-information.html"&gt;下一个帖子&lt;/a&gt;介绍），然后在国内的网站发布该图片。由于图片放在国内的网站（也就是墙内），ＧＦW无法拦截，大伙儿可以尽情地下载。万一该图片被国内网站的管理员删除了，重新上传也很容易——无非就是打一枪换一个地方 :)&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;　　每一个翻墙工具的图片，都会上传了2份：一份放到 Google Docs 上（永久的，但会被墙），一份放到国内网站（不会被墙，但说不定哪天就被删了）。如果网友们愿意帮助俺传播翻墙工具，可以把这些图片复制到国内那些能贴图的网站，然后把 URL 链接告诉俺（&lt;a href="mailto:program.think@gmail.com" rel="nofollow" target="_blank"&gt;program.think@gmail.com&lt;/a&gt;）。俺验证没问题之后，会把链接发布在博客上。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★注意事项&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于文件格式&lt;/h3&gt;
+&lt;br/&gt;　　嵌入到图片中的，其实是一个 &lt;b&gt;7z&lt;/b&gt; 格式的压缩文件。下载图片之后，你可以用 &lt;a href="http://www.7-zip.org/" rel="nofollow" target="_blank"&gt;7zip&lt;/a&gt; 或者 WinRAR 打开它，然后把里面的翻墙工具解压缩出来——非常简单！&lt;br/&gt;　　如果系统里的压缩软件已经关联了 7z 这个扩展名，也可以直接把图片的扩展名改为 7z，然后双击直接打开。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于解压缩失败&lt;/h3&gt;
+&lt;br/&gt;　　如果解压失败，有可能是图片比较大，没有下载完全。请重新下载。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于数字签名&lt;/h3&gt;
+&lt;br/&gt;　　解压缩出来的翻墙工具，本身都是有数字签名的。建议你再验证一下数字签名，以确保这些 exe 文件没有被篡改（没有被植入木马/病毒）。不懂得验证数字签名的同学，请翻墙看“&lt;a href="../../2010/02/introduce-digital-certificate-and-ca.html#verify_file"&gt;这里&lt;/a&gt;”的介绍。&lt;br/&gt;有些网友碰到 世界通 的数字签名显示“证书已吊销”，请看“&lt;a href="use-image-hide-gfw-tool.html"&gt;基于 Skype 翻墙&lt;/a&gt;”这个帖子后续的补充说明。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★翻墙软件下载链接&lt;/h2&gt;
+&lt;br/&gt;　　先放世界通和赛风作为试点，让大伙儿体验一下这种新的传播方式：&lt;br/&gt;&lt;a href="https://lh6.googleusercontent.com/r-As65oVYJnV8dO9lXS7B1n1MPfzxqB_6SpF0lMgvtKEQr1JTI3Cu7ffA7X2_MbeGVcdZAAlO3WC_2tHBeRT1eh74YWElhu_2m72Bdj43-FOaBokFRuobR9cImFahzi1564lqz0n" rel="nofollow" target="_blank"&gt;世界通 4.10&lt;/a&gt;&lt;br/&gt;&lt;a href="https://lh4.googleusercontent.com/mS8e6wTeG7LmGl_46PpQovzj5i0L_7KYzY5hlla3yvDVYNjat35aW8X2L-9JS-pcofn3rCzjaX0d5m41RRhgvU4ar6YJSTBSx4O7ryKVxd89kECLoV9KlgugBHV3mR6eSurdNiBw" rel="nofollow" target="_blank"&gt;赛风 3.42&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;　　最后，祝各位不会翻墙的同学，早日呼吸到互联网上自由的空气！&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;&lt;a href="../06/use-image-hide-information.html"&gt;用图片隐藏信息的技术实现&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;如何翻墙&lt;/a&gt;（传说中的扫盲教程，定期更新）&lt;br/&gt;&lt;a href="../09/gfw-faq.html"&gt;常见翻墙问题答疑&lt;/a&gt;（传说中的FAQ，定期更新）&lt;br/&gt;&lt;a href="../03/how-to-get-gfw-tools.html"&gt;获取翻墙软件方法大全&lt;/a&gt;（教你在无法翻墙的情况下拿到翻墙软件）&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Thu, 24 Sep 2026 01:45:47 +0000</pubDate>
+    <guid isPermaLink="false">38</guid>
+</item>
+
+<item>
+    <title>管理科学 - 031 - 光环效应引发的认知误区.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：11 分钟 (3060 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;光环效应引发的认知误区&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2009-05-26&lt;/span&gt;&lt;a class="tag" href="../../tags/E5BF83E79086E5ADA6.html"&gt;心理学&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　上次聊社会工程学中关于“&lt;a href="social-engineering-3-influence.html"&gt;施加影响&lt;/a&gt;”的话题，其中提到了心理学上的“光环效应”。今天想把这个话题深入地八卦一下。&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★什么是“光环效应”&lt;/h2&gt;
+&lt;br/&gt;　　考虑到某些同学比较健忘，还考虑到某些同学没有看过&lt;a href="social-engineering-3-influence.html"&gt;上次的帖子&lt;/a&gt;，俺再啰嗦一下“光环效应”的解释。&lt;br/&gt;　　“光环效应”也叫“光晕效应”或“晕轮效应”，是指对某人的某个【显著的】局部特征的看法被盲目扩大化，变成对此人整体的看法。维基百科的解释在“&lt;a href="https://en.wikipedia.org/wiki/Halo_effect" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”。&lt;br/&gt;　　上述这个定义是针对“人”而言的，不妨称之为&lt;b&gt;狭义的&lt;/b&gt;光环效应。假如把上述定义中的“某人”替换成“某事物”，这种效应依然存在，俺暂且称之为&lt;b&gt;广义的&lt;/b&gt;光环效应。&lt;br/&gt;　　另外，很多同学误以为光环效应中所说的“显著特征”就是指优点。其实捏，某些显著的缺点也会引起光环效应。后面的介绍中，俺会把优点引发的光环效应称为“【正向】光环效应”，反之则称为“【反向】光环效应”。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★消极影响举例&lt;/h2&gt;
+&lt;br/&gt;　　为了先给大伙儿一个较深刻印象，俺先来举几个例子。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇偶像崇拜&lt;/h3&gt;
+&lt;br/&gt;　　所谓的“偶像崇拜”，古今中外，屡见不鲜。随便举几个例子：比如当今的追星族（貌似各国都有）、比如文革时期的红卫兵崇拜毛太祖、比如纳粹德国的民众崇拜希特勒......&lt;br/&gt;　　上述这些（崇拜偶像的）人都是受到了“光环效应”的影响，而导致了这种狂热的行为。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇技术口水战&lt;/h3&gt;
+&lt;br/&gt;　　在IT领域有很多光环效应的例子（尤其是广义的光环效应），先来说说口水战这事儿。&lt;br/&gt;　　俺最深恶痛绝口水战首推“编程语言口水战”（所以俺凡是写编程语言的帖子，都很小心，生怕被口水淹死）。这类口水战常见诸于各大 BBS，且往往旷日持久。参与其中的狂热斗士，大都属于某个编程语言的 fans。当他/她开始学习这门编程语言的时候，由于被该语言相关的某个显著特点（比如语法、库、应用）所吸引，继而为之倾倒；然后光环效应开始在头脑中发酵，导致该 fans 对这门语言的缺点视而不见；然后这些 fans 但凡听到有人批评此语言的缺点就火冒三丈、暴跳如雷；然后口水战就轰轰烈烈地开打了......&lt;br/&gt;　　除了编程语言的口水战，IT 行业还有其它各种口水战。比如：&lt;br/&gt;桌面操作系统有“Windows vs Linux vs Mac”&lt;br/&gt;编辑器有“Emacs vs VI”&lt;br/&gt;POSIX 桌面环境有“KDE vs Gnome”&lt;br/&gt;手机系统有“Android vs iOS”&lt;br/&gt;......&lt;br/&gt;　　上述这个清单，俺还可以继续列出一大堆（貌似口水战在每一个 IT 领域都会出现）。虽说这些口水战所属的领域差别巨大，但导致其产生的心理学根源是类似的（后面会说）。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇技术银弹&lt;/h3&gt;
+&lt;br/&gt;　　关于啥是“银弹”，俺当初在点评《人月神话》的时候，有专门提到，请看“&lt;a href="../03/book-review-mythical-man-month.html"&gt;这里&lt;/a&gt;”。&lt;br/&gt;　　IT行业（尤其是软件业）经常充斥着各式各样的“银弹”，号称包治百病。比如软件行业曾经鼓吹过的银弹有如下：“面向对象、组件技术、设计模式、CMM、UML、敏捷开发、RAD、SOA、......”。当然，很多忽悠银弹的家伙，是出于商业目的，这与本贴的主题无关。但是忽悠出来的银弹还是有很多人相信，这就很有意思了。那些【被忽悠】的人，之所以对银弹的效果深信不疑，一定程度上也可归因于“光环效应”。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇某些民族偏见&lt;/h3&gt;
+&lt;br/&gt;　　前面几个例子都和“正向光环效应”有关，俺再来举一个“【反向】光环效应”的例子。在说这个例子之前先声明：俺不是哈日族，而且也不太喜欢日本文化。&lt;br/&gt;　　比如国内的很多人，对于日本人的看法都过于片面，陷入了“反向光环效应”的误区。这些人但凡提到和日本有关的东西，立马一脸的不屑，开口就是一顿贬谪之词。不把日本人骂得狗血喷头，誓不罢休。为啥会这样捏？俺斗胆揣测一番。&lt;br/&gt;　　大部分国人对日本（包括民族、文化等方面）的了解，都始于抗日战争相关的材料（比如小时候看的抗战题材电影、某些小学教材上的内容、等等）。由于这些资料都是刻意强化日本人丑陋的一面，接触久了，难免会引发“反向光环效应”，把日本在二战中的缺点盲目扩大到其它的方方面面，进而全面贬低/否定和日本相关的一切东西。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★它是如何起作用的？&lt;/h2&gt;
+&lt;br/&gt;　　前面举了这许多例子，足见光环效应的影响范围之广。俺结合自个儿的理解，分析一下这玩意儿的作用为啥这么强烈。&lt;br/&gt;　　事先声明：俺不是心理学专业的。所以下面的分析总结大伙儿姑且听之，可别跟俺较真哦 :-)&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇一致性原则&lt;/h3&gt;
+&lt;br/&gt;　　有一本很经典的心理学书籍叫《&lt;a href="https://docs.google.com/document/d/1PmNGkvoqtPWPwV63h5KMiQQWgGU-Mo3Zf4aFzX16om4/" target="_blank"&gt;影响力&lt;/a&gt;》（在&lt;a href="social-engineering-3-influence.html"&gt;之前的帖子&lt;/a&gt;，俺大肆鼓吹过此书，建议没看过的同学一定要看看）。书中介绍了【一致性原则】。通俗地说就是：人的潜意识里有保持各种东东（包括观点、看法、立场......）一致性的倾向。具体表现在：当你正面评价某对象（包括人或事物）时，你在潜意识里会排斥该对象的负面评价；反之亦然。&lt;br/&gt;　　比如当你很喜欢自己的情人（或配偶）时，你在潜意识里面就会排斥掉对方的缺点和不足。这种排斥的行为是下意识（可能是“本我”）进行的，甚至你自己（也就是“自我”）都没有察觉到。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇和“首因效应”相结合&lt;/h3&gt;
+&lt;br/&gt;　　所谓的“首因效应”，通俗地说就是第一印象或先入为主。在你对某人（某事物）进行认知的过程中，第一印象会很深刻。如果这个第一印象所接收到的正好又是对方某个鲜明的特征，那“首因效应”和“光环效应”就会叠加起来，效果会更加明显。&lt;br/&gt;　　比如通常所说的“一见钟情”，往往是结合了首因效应和正面光环效应。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇选择性“失察”和选择性“失忆”&lt;/h3&gt;
+&lt;br/&gt;　　当某个对象的光环效应开始显现之后，有些人就会出现"选择性失察"或"选择性失忆"。这里所说的“失察”，就是对某些东西视而不见，听而不闻。比如前面提到的追星族，只观察到偶像的优点，而看不到偶像的缺点（也就是选择性失察）；即使偶像发生重大的丑闻/绯闻，很多追星族也会出现选择性失忆，对这些丑闻/绯闻，淡忘得特别快。&lt;br/&gt;　　选择性“失察”和选择性“失忆”的起因，可能是由“一致性原理”引起；而选择性“失察”和选择性“失忆”的结果，又强化了认知的一致性。两者形成正反馈，互相强化，使得认知的“光晕”越变越大。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★如何避免它的负面影响&lt;/h2&gt;
+&lt;br/&gt;　　看到这里，有些同学肯定在琢磨：要咋样防止光环效应的负面影响捏？下面来说说俺的几个方法（是否管用，因人而异）。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇避免过早下结论&lt;/h3&gt;
+&lt;br/&gt;　　当你初次接触某个对象时，切勿轻易下结论。草率下结论容易触发潜意识里面的“一致性原理”，进而影响你做出客观的判断。&lt;br/&gt;　　另外，初次接触某个对象时，前面提到的“首因效应”很有可能会干扰你的判断。这也是避免匆忙下结论的原因之一。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇优缺点都有所了解，再下结论&lt;/h3&gt;
+&lt;br/&gt;　　刚才说到不要过早下结论，那要等到啥时候才能定论捏？俺的习惯是：至少要收集某个东东的优点和缺点、正面和反面的信息之后，才会考虑去下结论。当你光了解某个对象的优点或者光知道其缺点，那做出的结论往往有失偏颇，不够客观。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇适当考虑反面的特质&lt;/h3&gt;
+&lt;br/&gt;　　当你非常喜欢/热衷某个东东（可能是某个或某事物）时，不妨反问一下自己，这个东东难道没有什么缺点吗？反之，如果你非常反感/厌恶某东东时，也可以刻意反问自己，这个东东难道没啥优点吗？&lt;br/&gt;　　通过这样的反思，或许有助于你发觉原先的认知偏差。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;《&lt;a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.html"&gt;思维的误区：从“沉没成本谬误”到“损失厌恶情结”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2014/05/fans-and-idolatry.html"&gt;不要成为“粉丝”——谈谈“偶像崇拜”的成因和危害&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/12/emperor-complex.html"&gt;天朝民众的心理分析：圣君情结&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/06/stockholm-syndrome.html"&gt;天朝民众的心理分析：斯德哥尔摩综合症&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/01/stockdale-paradox.html"&gt;“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2010/05/about-social-proof.html"&gt;关于社会认同和从众心理——从连环跳楼事件说起&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2010/07/about-football-fans.html"&gt;说说世界杯的球迷——关于粉丝的心理&lt;/a&gt;》&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Thu, 20 Aug 2026 01:12:39 +0000</pubDate>
+    <guid isPermaLink="false">31</guid>
+</item>
+
+<item>
+    <title>网安知识 - 028 - 如何翻墙”系列：自由門——Tor 被封之后的另一个选择.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (1928 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：自由門——Tor 被封之后的另一个选择&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2010-03-10&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E7BFBBE5A299.html"&gt;IT.翻墙&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html"&gt;IT.软件介绍&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　最近也不知道是不是开两会的缘故，GFW 又开始发彪了。这次的矛头指向了大伙儿喜闻乐见的 Tor（也就是俗称的戴“套”）。因此，这几天陆陆续续收到很多网友的求助邮件，都是询问 Tor 的问题。俺为了偷懒，免去逐一的回答，特地写了这篇帖子。&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★Tor 到底咋啦？&lt;/h2&gt;
+&lt;br/&gt;　　大约是三八妇女节的前2天，俺突然发现 Tor 很不稳定。紧接着就彻底联不上了。俺估摸着，大概是 GFW 把 Tor 的网桥中继，都给列入屏蔽黑名单了。毕竟，Tor 新增加的网桥中继，可以通过邮件和 Tor 的官方站点很容易地获取。所以 GFW 屏蔽它也不是什么难事。&lt;br/&gt;　　不过俺对 Tor 还是抱有信心。希望在它的后续版本中，能够有新的技术手段出现，帮助我等屁民突破党国的网络封锁。一旦 Tor 有啥新的动作，俺会在博客上通知大伙。关注此信息的同学，可以订阅俺博客（订阅地址：&lt;a href="http://feeds2.feedburner.com/programthink"&gt;http://feeds2.feedburner.com/programthink&lt;/a&gt;）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★事先声明&lt;/h2&gt;
+&lt;br/&gt;　　接下来，俺要隆重介绍本文的主角：自由門软件。&lt;br/&gt;　　考虑到这玩意儿和法轮功有着某种程度的联系，因此俺有必要先来个郑重声明，以便撇清关系。&lt;br/&gt;　　虽然俺今天推荐大伙用自由門软件，但是本人和法轮功连半毛钱的关系都没有——毕竟俺是一个彻头彻尾的无神论者。&lt;br/&gt;　　另外，奉劝使用了自由門的同学，不要被其官方网站（也就是动态网）上的新闻及评论所忽悠。那上面的新闻/评论很多都不够客观，纯粹是“为了反共而反共”。想翻墙看新闻的同学，可以看看俺汇总的&lt;a href="https://github.com/programthink/sites" target="_blank"&gt;海外新闻站点&lt;/a&gt;。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★为啥俺推荐自由門？&lt;/h2&gt;
+&lt;br/&gt;　　俺推荐它，有如下几个主要的原因：&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇绿色软件，配置简易&lt;/h3&gt;
+&lt;br/&gt;　　自由門是一个很小巧的绿色软件。只有单个的 exe 程序，大小也就1兆多。无需安装，配置也挺简便。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇获取途径众多&lt;/h3&gt;
+&lt;br/&gt;　　自由門的另一个好处是，具有多种获取的渠道。&lt;br/&gt;　　由于翻墙工具是 GFW 的克星，因此 GFW 总想把翻墙工具赶尽杀绝，让网友们拿不到翻墙工具。这时候，自由門的这个优点就很明显体现出来了。后面俺会细细介绍各种获取方式。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇升级频繁&lt;/h3&gt;
+&lt;br/&gt;　　这个好处也很重要。各种翻墙工具和 GFW 之间的斗争，是永不停息滴。双方都在不断升级技术手段，以超越对方。而自由門的升级比较频繁，基本上每月都有更新。虽然有时候也会被封，但是等到出了新版本，就又可以穿墙了。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★自由門的获取&lt;/h2&gt;
+&lt;br/&gt;　　鼓吹完几个好处，开始介绍如何获取该软件。&lt;br/&gt;　　先提醒一下，自由門的 exe 文件带有数字签名。不管你用后面介绍的何种途径获取它，为了安全起见，都要验证一下数字签名。关于如何验证数字签名，请看“&lt;a href="../02/introduce-digital-certificate-and-ca.html#verify_file"&gt;这里&lt;/a&gt;”。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇Web 下载&lt;/h3&gt;
+&lt;br/&gt;　　它的官方站点（动态网）在“&lt;a href="http://dongtaiwang.com/" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”（此网址早已被墙），你可以先翻墙上动态网，然后就可以下载到该翻墙工具。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇邮件获取&lt;/h3&gt;
+&lt;br/&gt;　　万一你手头没有现成的翻墙工具，那可咋办捏？还有一招，就是通过邮件方式获取。你可以通过发邮件给 fg@dongtaiwang.com 来获取它。&lt;br/&gt;　　强烈建议各位同学：&lt;br/&gt;1. 使用加密的 【&lt;b&gt;https&lt;/b&gt;】 方式访问 Gmail 邮箱&lt;br/&gt;2. 尽量【不要】用国内的免费邮箱（国内的邮件服务器会屏蔽动态网的邮箱地址）&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇通过 Skype 获取&lt;/h3&gt;
+&lt;br/&gt;　　除了通过邮件方式获取，还有第三个招数——用 Skype 获取。如果你已经在用 Skype 这个 IM 工具，那就好办啦。具体步骤如下：&lt;br/&gt;1. 搜索 Skype 用户；&lt;br/&gt;2. 输入 &lt;b&gt;dongtaiwang.com&lt;/b&gt;，然后查找；&lt;br/&gt;3. 查找到后，“添加Skype联系人”。&lt;br/&gt;　　一旦添加了联系人，只要给它发送任意消息，即可获取自由門软件。如果你从来没有用过 Skype 软件，请到&lt;a href="https://download.skype.com/" rel="nofollow" target="_blank"&gt;https://download.skype.com/&lt;/a&gt;下载。记住，千万【不要】用“TOM 版”或“光明方正版”的 Skype。那俩玩意儿是 Skype 跟国内公司成立的合资公司开发的，有后门，会被党国监控！&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★自由門的配置&lt;/h2&gt;
+&lt;br/&gt;　　考虑到自由門全中文的图形界面，且操作也相对容易，俺在此就一笔带过。搞不定的同学，可以给俺发邮件。&lt;br/&gt;　　自由門默认开启本地（127.0.0.1）的 &lt;b&gt;8580&lt;/b&gt; 端口。无论你用哪种浏览器，都只要设置 HTTP 代理到上述地址和端口即可。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）：&lt;/b&gt;&lt;br/&gt;&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;如何翻墙&lt;/a&gt;（传说中的扫盲教程，定期更新）&lt;br/&gt;&lt;a href="../../2011/09/gfw-faq.html"&gt;常见翻墙问题答疑&lt;/a&gt;（传说中的 FAQ，定期更新）&lt;br/&gt;&lt;a href="../../2011/03/how-to-get-gfw-tools.html"&gt;获取翻墙软件方法大全&lt;/a&gt;（教你在无法翻墙的情况下拿到翻墙软件）&lt;br/&gt;&lt;a href="../../2011/10/gfw-psiphon.html"&gt;双管齐下的赛风3&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2011/12/gfw-wujie.html"&gt;新版本无界——赛风3失效后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2011/05/through-gfw-with-skype.html"&gt;基于 Skype 翻墙&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2011/09/gfw-vpn-hotspot-shield.html"&gt;扫盲 VPN 翻墙——以 Hotspot Shield 为例&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Thu, 13 Aug 2026 01:04:17 +0000</pubDate>
+    <guid isPermaLink="false">28</guid>
+</item>
+
+<item>
+<title><![CDATA[电工知识 - 186 - 第1部分 电工电路的基础知识.epub]]></title>
+<description><![CDATA[<p style='color:#888;'>⏱ 预计阅读时间：6 分钟 (1778 字)</p><hr><div class="chapter" id="chapter"><div></div>
+<h1 class="kindle-cn-heading1">
+<a href="text00005.html#ch7">
+<span class="da">第<span class="lp1">1</span>
+ 部分</span>
+<br/>
+电工电路的基础知识</a>
+</h1>
+<div></div>
+<p class="pagebreak"></p>
+<h2 class="kindle-cn-heading2" id="hh2-0"><a id="pg2"></a>
+<a href="text00005.html#ch7-0">
+<span class="lp1">1.1</span>
+ 　<span class="small">电和磁</span>
+</a>
+</h2>
+<p class="kindle-cn-para-left">变化的电流可以产生变化的磁场，变化的磁场也可以感应变化的电流。下面我们学习电和磁的基本概念及电与磁之间的关系。</p>
+<h3 class="kindle-cn-heading3" id="hh3-1">
+<a href="text00005.html#ch7-1"><img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00004.jpg"/>
+ 1.1.1　电和磁的基本概念</a>
+</h3>
+<p class="kindle-cn-para-left">电流与磁场可以通过某种方式互换，在学习电与磁之间的关系之前，我们先了解电、磁的基本概念。</p>
+<h4 class="kindle-cn-heading4">
+<span class="lp2">1　电的基本概念</span>
+</h4>
+<p class="kindle-cn-para-left">电具有同性相斥、异性相吸的特性，如图1-1所示，当使用带正电的玻璃棒靠近带正电的软木球时会相互排斥；当使用带负电的橡胶棒靠近带正电的软木球时，会相互吸引。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00005.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-1　电的性质】</p>
+<p class="kindle-cn-para-left"><a id="pg3"></a>
+ 电根据种类及特性可分为直流电和交流电。直流电包括直流电流和直流电压；交流电包括交流电流和交流电压。因此，我们有必要先了解一下电流和电压的概念。图1-2为电流和电压的关系。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00006.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-2　电流和电压的关系】</p>
+<p class="kindle-cn-para-left"><a id="pg4"></a>
+ 一般由电池、蓄电瓶等产生的电流为直流，即电流的大小和方向不随时间变化，也就是说，正、负极始终不改变，记为“DC”或“dc”，如图1-3所示。</p>
+<p class="kindle-cn-para-left">交流电的电流大小和方向（即正、负极性）会随时间的变化而变化，用“AC”或“ac”表示。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00007.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-3　直流电与交流电】</p>
+<h4 class="kindle-cn-heading4"><a id="pg5"></a>
+<span class="lp2">2　磁的基本概念</span>
+</h4>
+<p class="kindle-cn-para-left">一般提起磁，很多人便会想到磁石或磁铁能吸引铁质物体，指南针会自动指示南北方向。一般物质被称为无磁性或非磁性物体（或材料）。事实上，任何物质都具有磁性，只是有的物质磁性强，有的物质磁性弱；任何空间都存在磁场，只是有的空间磁场强度高，有的空间磁场强度低。图1-4为磁的基本性质。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00008.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-4　磁的基本性质】</p>
+<h3 class="kindle-cn-heading3" id="hh3-2"><a id="pg6"></a>
+<a href="text00005.html#ch7-2"><img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00009.jpg"/>
+ 1.1.2　电和磁的关系</a>
+</h3>
+<p class="kindle-cn-para-left">电流与磁场可以通过某种方式互换，即电流感应出磁场或磁场感应出电流。</p>
+<h4 class="kindle-cn-heading4">
+<span class="lp2">1　电流感应磁场</span>
+</h4>
+<p class="kindle-cn-para-left">电流感应磁场的过程如图1-5所示。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00010.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-5　电流感应磁场】</p>
+<h4 class="kindle-cn-heading4"><a id="pg7"></a>
+<span class="lp2">2　磁场感应电流</span>
+</h4>
+<p class="kindle-cn-para-left">磁场感应电流的过程如图1-6所示。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00011.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-6　磁场感应电流】</p>
+<h2 class="kindle-cn-heading2" id="hh2-3"><a id="pg8"></a>
+<a href="text00005.html#ch7-3">
+<span class="lp1">1.2</span>
+ 　<span class="small">交流电与交流电路</span>
+</a>
+</h2>
+<p class="kindle-cn-para-left">我们生活中使用的大部分电器产品都需要有交流电才可以正常工作，并且是直接使用交流220V为其供电。</p>
+<h3 class="kindle-cn-heading3" id="hh3-4">
+<a href="text00005.html#ch7-4"><img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00012.jpg"/>
+ 1.2.1　认识交流电</a>
+</h3>
+<p class="kindle-cn-para-left">交流电（Alternating current，AC）一般是指电流的大小和方向随时间做周期性的变化。日常生活中所有的电器产品都需要有供电电源才能正常工作，大多数的电器设备都由市电交流220V、50 Hz作为供电电源。这是我国公共用电的统一标准。交流220V电压是指火线对零线的电压。交流电是由交流发电机产生的。交流发电机可以产生单相和多相交流电压，如图1-7所示。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00013.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-7　单相交流电和多相交流电的产生】</p>
+<h4 class="kindle-cn-heading4">
+<span class="lp2">1　单相交流电</span>
+</h4>
+<p class="kindle-cn-para-left">单相交流电是以一个交变电动势作为电源的电力系统，在单相交流电路中，只具有单一的交流电压，电流和电压都按一定的频率随时间变化，如图1-8所示。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00014.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-8　单相交流电】</p>
+<h4 class="kindle-cn-heading4"><a id="pg9"></a>
+<span class="lp2">2　多相交流电</span>
+</h4>
+<p class="kindle-cn-para-left">实用于电力传输和电力设备中的为单相交流电和三相交流电两种，如图1-9所示。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00015.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-9　多相交流电】</p>
+<h3 class="kindle-cn-heading3" id="hh3-5"><a id="pg10"></a>
+<a href="text00005.html#ch7-5"><img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00016.jpg"/>
+ 1.2.2　交流电路的应用</a>
+</h3>
+<p class="kindle-cn-para-left">根据交流电供电相数的不同，所应用的交流电路也不相同。大部分单相交流电路应用于照明或家庭用电；多相交流电路应用于工业生产、输电或供配电领域。</p>
+<h4 class="kindle-cn-heading4">
+<span class="lp2">1　单相交流电路的应用</span>
+</h4>
+<p class="kindle-cn-para-left">单相交流电路是由单相电源、单相负载和线路组成的，有一根火线和一根零线，为了安全可再加一根地线。一般情况下，单相交流电源的电压为220V。图1-10为家庭中单相交流电的分配情况。其中，空调器、洗衣机、风扇等对电压稳定性要求不高的电器分为一个支路；电视机、电脑等信息类电器分为一个支路；电灯、微波炉等分为一个支路。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00017.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-10　单相交流电路的应用】</p>
+<h4 class="kindle-cn-heading4"><a id="pg11"></a>
+<span class="lp2">2　三相交流电路的应用</span>
+</h4>
+<p class="kindle-cn-para-left">三相交流电路应用的范围较广，在不同的环境中，三相交流电路的连接方法与负载的连接方法有所区别。图1-11为三相交流电路的不同连接方法。</p>
+<p class="kindle-cn-para-left">用来产生对称三相电动势的电源称为对称三相电源。三相电源具有结构上对称的三相绕组A-X、B-Y、C-Z，分别称为A相、B相和C相。A、B、C称为三相绕组的首端，X、Y、Z称为三相绕组的末端，每相绕组电动势的正方向由末端指向首端。</p>
+<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00018.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-11　三相交流电路的不同连接方法】</p>
+<div class="kindle-cn-image"><a id="pg12"></a>
+<img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00019.jpg" style="width:100%"/>
+</div>
+<p class="kindle-cn-caption">【图1-11　三相交流电路的不同连接方法（续）】</p>
+</div>
+]]></description>
+<pubDate>Thu, 01 Oct 2026 06:01:20 +0000</pubDate>
+<guid isPermaLink="false">epub-42</guid>
+</item>
+<item>
+    <title>管理科学 - 033 - 书评：《少有人走的路——心智成熟的旅程》.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：10 分钟 (2805 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;书评：《少有人走的路——心智成熟的旅程》&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2012-06-29&lt;/span&gt;&lt;a class="tag" href="../../tags/E4B9A6E8AF842FE5BDB1E8AF84.html"&gt;书评/影评&lt;/a&gt; &lt;a class="tag" href="../../tags/E5BF83E79086E5ADA6.html"&gt;心理学&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　有好长时间没有写书评了，今天推荐一本心理学方面的佳作——《少有人走的路》，希望对大伙儿有帮助。&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/33_4E9d4JcJgrjomF9AYJcmnV6G7MrCnk8egfAJPbiD7Y0qyTCl0VLN-0jrdwjCHgQhGvsg3PKKPynJjZLuJEiqoaTM_dbNLvKogzEappOUqJUPtlyACQ"/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★为啥推荐这本书？&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇心理问题的严重性&lt;/h3&gt;
+&lt;br/&gt;　　所谓的心理问题，也就是心理不健康。心理不健康跟生理不健康相比，呈现出如下特点：&lt;br/&gt;&lt;b&gt;普遍性&lt;/b&gt;&lt;br/&gt;无论是天朝还是欧美发达国家，心理不健康的比例都非常高。&lt;br/&gt;&lt;b&gt;隐蔽性&lt;/b&gt;&lt;br/&gt;很多心理不健康的人，并没有意识到自己的心理问题；有些人虽然意识到自己的心理不健康，但是碍于面子问题，既不愿意求助心理医生，也不愿意让家人知晓。&lt;br/&gt;&lt;b&gt;长期性&lt;/b&gt;&lt;br/&gt;心理问题往往不会自行消失，而是会长期存在。而且很多心理问题，会由于恶性循环而不断加重。&lt;br/&gt;&lt;br/&gt;　　由于上述特点，心理健康问题已经成为一个显著的社会问题，所以俺才会想起来要推荐这本书给列位看官。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇心智不成熟是心理问题的根源之一&lt;/h3&gt;
+&lt;br/&gt;　　导致心理问题的根源有很多，“心理不成熟”是其中一个主要原因。关于“心理不成熟”的表象及其危害性，俺引用本书中文版序言的如下几段话：&lt;br/&gt;&lt;br/&gt;&lt;blockquote&gt;十七八岁的高中生在大街上堂而皇之地用奶瓶喝水。——这是时髦、反叛，还是在逃避成熟？&lt;br/&gt;应届大学毕业生选择考研的动机仅仅是：害怕毕业。——他们是害怕毕业，还是在拒绝成熟？&lt;br/&gt;无数大龄青年不愿结婚。——他们真的是没选择好伴侣，还是害怕承担婚后的责任？&lt;br/&gt;数不清的成年人一遇到难题，就双手一摊：“这不是我的问题”——他们果真技不如人，还是不敢面对自己的问题？&lt;br/&gt;……&lt;br/&gt;人可以拒绝任何东西，但绝对不可以拒绝成熟。拒绝成熟，实际上就是在规避问题、逃避痛苦。规避问题和逃避痛苦的趋向，是人类心理疾病的根源，不及时处理，你就会为此付出沉重的代价，承受更大的痛苦。&lt;/blockquote&gt;
+&lt;br/&gt;&lt;blockquote&gt;在我们的现实生活中，逃避问题的人比比皆是：如果你是老板，你一定会知道你的手下有几人敢于承担自己的责任；如果你是父母，一定知道你的孩子为什么总是躲躲闪闪；如果你是公务员，你一定会知道，面临问题时，你是在积极主动解决，还是在消极回避……&lt;br/&gt;所有逃避者，都在阻碍自己心智的成熟；一切心智成熟者，他们的人生之旅都是从直面问题开始。&lt;/blockquote&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇如何解决“心智不成熟”？&lt;/h3&gt;
+&lt;br/&gt;　　今天推荐的这本书，就是要告诉你，如何让心智成熟。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★此书有啥特点？&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇持久性&lt;/h3&gt;
+&lt;br/&gt;　　俺写书评推荐的，通常都是经久不衰的老书（比如：《&lt;a href="../../2009/06/book-review-1984.html"&gt;一九八四&lt;/a&gt;》、《&lt;a href="../../2009/07/book-review-are-your-lights-on.html"&gt;你的灯亮着吗&lt;/a&gt;》、《&lt;a href="../../2011/02/book-review-chinese-characteristics.html"&gt;中国人的性格&lt;/a&gt;》）。今天推荐的这本也不例外——它是1978年出版的（或许比你还老）。在出版之后的头5年，它几乎是默默无闻。但是到了80年代中期，突然就火爆了——在《纽约时报》的畅销书排行榜待了20多年。它的畅销不是因为广告促销，而是因为读者之间的互相推荐。如此好的口碑，充分说明了读者对此书的认可。&lt;br/&gt;　　而且，能够在排行榜上待20多年，说明读者对此书的认可不是昙花一现。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇通俗性&lt;/h3&gt;
+&lt;br/&gt;　　作者斯科特·派克是一位资深的心理医生，有几十年的实战经验。他在书中举了形形色色的心理疾病的案例，而且没有掺杂晦涩难懂的心理学理论。所以，即使你是心理学的门外汉，看起来也不会太吃力。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★内容简介&lt;/h2&gt;
+&lt;br/&gt;　　下面稍微介绍一下本书的大致内容。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇第1部分：自律&lt;/h3&gt;
+&lt;br/&gt;　　俺认为这是本书最重要的部分——因为&lt;b&gt;建立【自律能力】，是达成心智成熟的关键&lt;/b&gt;。&lt;br/&gt;　　缺乏“自律”的人，会一味地逃避问题，逃避痛苦。但是这样只是掩盖问题，而不能根本解决问题。那些逃避痛苦的人，最终会招致更大的痛苦；而建立了“自律”的人，就能够正视问题，直面痛苦，以积极的态度去解决问题。&lt;br/&gt;　　那么，如何建立自律能力捏？作者指出了4个要点：&lt;b&gt;推迟满足感、承担责任、尊重事实、保持平衡&lt;/b&gt;。这4个要点具体该如何搞，请看书，俺就不浪费口水了。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇第2部分：爱&lt;/h3&gt;
+&lt;br/&gt;　　本书的第二部分，重点谈“爱”这个话题。（请注意，书中谈及的“爱”，是广义的。不要一看到这个字眼，就想到“性爱”）&lt;br/&gt;　　“爱”这个词汇，虽然人人都听说过，但是很多人（包括成年人）对“爱”的含义有片面的理解甚至错误的理解。&lt;br/&gt;　　举个“中国式父母”的例子：&lt;br/&gt;&lt;blockquote&gt;孩子5岁，我给你报了少年宫&lt;br/&gt;孩子7岁，我给你报了奥数班&lt;br/&gt;孩子15岁，我给你报了重点中学&lt;br/&gt;孩子18岁，我给你报了高考突击班&lt;br/&gt;孩子23岁，我给你报了公务员&lt;br/&gt;孩子32岁，我给你报了《非诚勿扰》&lt;br/&gt;......&lt;/blockquote&gt;
+　　如果你问这类父母这么做的动机，他们多半会说：因为他们【&lt;b&gt;爱&lt;/b&gt;】自己的孩子。&lt;br/&gt;　　但其实捏，这些父母的上述举动，并不是源于真正的“爱”，而是源于【控制欲】——他们希望掌控孩子的成长轨迹。“爱”只不过是这类父母冠冕堂皇的借口而已。&lt;br/&gt;　　那么，到底什么是真正的爱？请看书。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇第3部分：成长与宗教&lt;/h3&gt;
+&lt;br/&gt;　　事先声明：俺是无神论者（或者说，不是任何宗教的信徒）。&lt;br/&gt;　　在这部分，作者聊宗教的时候，把科学也涵盖进去了。所以俺觉得：作者想说的是【信仰】问题。&lt;br/&gt;　　在相关章节中，作者通过几个案例来说明，信仰既可以起积极作用，也可能起消极作用。同时他也澄清了，什么样的信仰是健康的，什么样的信仰是病态的。&lt;br/&gt;　　谈到科学和宗教的关系，作者的如下几个观点，列出来供大伙儿参考：&lt;br/&gt;&lt;blockquote&gt;科学家成熟的标志之一就是能意识到，和其它任何宗教一样，科学也可能流于教条主义。&lt;br/&gt;我坚定地认为，对于别人教给我们的一切，包括通常的文化观念以及一切陈规旧习，采取冷静和怀疑的态度，才是使心智成熟不可或缺的元素。科学本身也很容易成为文化偶像，我们亦应保持怀疑的态度。&lt;br/&gt;我们的思想可能很成熟，成熟到足以摆脱对上帝的信仰；与此同时，我们也可能成熟到去信仰上帝。&lt;/blockquote&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇第4部分：神奇的力量&lt;/h3&gt;
+&lt;br/&gt;　　前面三部分提到的心智，都是“意识”层面的。最后这部分会讲到“潜意识”的问题以及“潜意识”和“意识”之间的互动。接着作者还谈到了两种力量（心灵的力量和政治的力量）。心灵的力量用于控制自己，政治的力量用于控制他人。&lt;br/&gt;......&lt;br/&gt;　　有必要提醒大伙儿的是，在第4部分的某些章节中，作者终于亮出了他的“有神论”观点。所以，像俺这种无神论者，自然不敢苟同。如果你也是无神论者，建议看的时候要有所取舍。&lt;br/&gt;　　另外，作者在谈及生命的“负熵”现象时，认为：生命导致的“负熵”违背热力学第二定律。并声称这是自然科学无法解释的现象。俺猜测：派克同学对于自然科学的某些领域（比如：耗散结构理论 / 自组织理论），涉足不深，才会发此谬论。这也算是本书的一个瑕疵吧。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★结尾&lt;/h2&gt;
+&lt;br/&gt;　　为了免去大伙儿买纸版书的开销和找电子书的麻烦，俺特地放上此书的 PDF 扫描版和 TXT 纯文字版（可惜 TXT 版只有前2部分）。想下载的同学，请猛击“&lt;a href="https://github.com/programthink/books" target="_blank"&gt;俺收藏的电子书目录&lt;/a&gt;”。 &lt;br/&gt;　　看完之后，如果有啥心得体会，可以到&lt;a href="book-review-road-less-traveled.html"&gt;本文&lt;/a&gt;留言。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;《&lt;a href="../../2018/06/weekly-share-121.html"&gt;每周转载：德鲁克谈【自我管理】——＜哈佛商业评论＞史上最受欢迎的文章&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2010/02/about-mental-model.html"&gt;“心智模式”系列：认识你自己——心智模式扫盲介绍&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2010/04/how-to-attribute-success-failure.html"&gt;“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../01/stockdale-paradox.html"&gt;“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”&lt;/a&gt;》&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Mon, 31 Aug 2026 01:56:02 +0000</pubDate>
+    <guid isPermaLink="false">33</guid>
+</item>
+
+<item>
+    <title>网安知识 - 040 - 如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：12 分钟 (3524 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2011-09-30&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E7BFBBE5A299.html"&gt;IT.翻墙&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html"&gt;IT.软件介绍&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　临近国庆，GFW 封锁家具了。所以俺就多写点翻墙帖。《&lt;a href="../06/june-fourth-incident-0.html"&gt;回顾六四&lt;/a&gt;》系列的下一篇打算在国庆假期发出。期待此系列的网友，请见谅 :(&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★为啥要介绍 Hotspot Shield？&lt;/h2&gt;
+&lt;br/&gt;　　在各种翻墙工具中，VPN 是一个大类。为了让大伙儿（尤其是“技术菜鸟”）了解这种翻墙方式，俺特地以“Hotspot Shield”为例，来普及 VPN 翻墙的方式。&lt;br/&gt;　　&lt;b&gt;本文虽然是针对 Hotspot Shield 写的，但你一定善于【举一反三】。因为本文介绍的翻墙姿势，同样适用于其它类型的 VPN。&lt;/b&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★VPN 简介&lt;/h2&gt;
+&lt;br/&gt;　　VPN的学名叫虚拟专用网，洋文叫“Virtual Private Network”。维基百科的介绍在“&lt;a href="https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”。本来这玩意儿主要是用于商业公司，为了让那些不在公司里的员工（比如出差在外的）能够方便地访问公司的内部网络。为了防止黑客冒充公司的员工，从外部访问公司的内部网络，VPN 软件都会提供强大的加密功能。而这个加密功能，也就让它顺便成为翻墙的利器。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇VPN 的翻墙原理&lt;/h3&gt;
+&lt;br/&gt;　　使用 VPN 通常需要先安装客户端软件。当你运行 VPN 客户端，它会尝试联到 VPN 服务器（这点跟加密代理类似）。一旦和 VPN 服务器建立连接，VPN 客户端就会在你的系统中建立了一个虚拟局域网。而且，你的系统中也会多出一个虚拟网卡（在 Windows 下，可以用 ipconfig /all 命令，看到这多出来的网卡）。这样一来，你的系统中就有不止一块网卡。这就引出一个问题：那些访问网络的程序，它的数据流应该通过哪个网卡进出？&lt;br/&gt;　　为了解决此问题，VPN 客户端通常会修改你系统的&lt;b&gt;路由表&lt;/b&gt;，让那些数据流，优先从虚拟的网卡进出。由于虚拟的网卡是通往 VPN 服务器的，当数据流到达 VPN 服务器之后，VPN 服务器再帮你把数据流转向到真正的目的地。&lt;br/&gt;　　前面说了，VPN 为了保证安全，都采用强加密的方式传输数据。这样一来，GFW 就无法分析你的网络数据流，进行敏感词过滤。所以，使用墙外的VPN服务器，无形中就能达到翻墙的效果。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇VPN的优点&lt;/h3&gt;
+&lt;br/&gt;　　由于 VPN 客户端会建立虚拟局域网并修改路由表，所以系统中所有涉及到网络的应用程序（比如：浏览器、邮件客户端、聊天工具）都会通过这个虚拟局域网来访问互联网。也就是说，你无需进行额外的配置，就可以让各种软件翻墙。这就是 VPN 翻墙同加密代理翻墙，最主要的区别。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇VPN的缺点&lt;/h3&gt;
+&lt;br/&gt;　　VPN 的缺点主要有2个：&lt;br/&gt;　　其一。很多 VPN 是通过客户端软件来建立虚拟局域网的。这些客户端软件通常都需要在系统中装驱动。因此，这类 VPN 的客户端软件都不是绿色软件，而且还需要管理员权限才能安装。这样一来，那些通过网吧上网的同学，就无福享用此类VPN了。像俺这样，非常偏爱绿色软件的，估计也不太喜欢这类 VPN。（某些基于 PPTP/L2TP/IPsec 的 VPN，由于无需安装客户端软件，没有此缺点）&lt;br/&gt;　　其二。虽然 GFW 对 VPN 加密的数据流无可奈何。但是别忘了，GFW 还有另外的招数——域名封锁和 IP 封锁。如果某个 VPN 用的人太多，GFW会针对这个VPN的服务器进行域名封锁和 IP 封锁。让这 个VPN 彻底用不了。&lt;br/&gt;&lt;br/&gt;　　在此顺便一下提醒各位：今天介绍的 HSS，虽然目前还能用，但是保不准哪天就失效了。不过捏，HSS 是非常老牌的 VPN（貌似有4、5年历史了），定期会出新版本。一旦 HSS 杯具了，你可以等它出新版本的时候，升级一下；也可以改用其它 VPN。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★如何获取？&lt;/h2&gt;
+&lt;br/&gt;　　如果你能翻墙，直接上官方网站（在“&lt;a href="http://www.hotspotshield.com/" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”），会下载到一个名叫 DM-XXX.exe 的东西，这货不是 HSS，而是 HSS 的下载器。拿到下载器之后，为了保险起见，可以先验证一下它的数字签名。验证无误，运行之。然后它会帮你下载到完整的 HSS 安装包（也带有数字签名）。&lt;br/&gt;　　其它的 VPN 翻墙工具，通常都会在其官网提供“VPN 客户端”的下载安装包。再次罗嗦一下：不管你用的是那一款 VPN，尽量从【官网】下载安装包，比较保险（来路不明的安装包，或许有“病毒/木马”）。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★如何安装？&lt;/h2&gt;
+&lt;br/&gt;　　前面说了，VPN 客户端都需要装驱动。因此，要使用管理员用户进行安装。安装界面第一步先选择中文，后续安装步骤比较傻瓜化，菜鸟用户也能搞定，俺就不浪费口水了。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★如何使用？&lt;/h2&gt;
+&lt;br/&gt;　　安装好之后，到开始菜单里面，点击“Hotspot Shield Launch”，就启动了 HSS。启动之后，系统托盘会出现一个 HSS 的图标。如果能正常连接到 VPN 服务器，该图标会变为绿色。之后，你就可以尽情享受翻墙带来的乐趣。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★如何修改路由？&lt;/h2&gt;
+&lt;br/&gt;　　前面说了，一旦 VPN 装好，所有软件无需额外设置，都能够翻墙了。但是，这也引来新的问题。有些网友比较看重性能：希望能够不经过 VPN，直接访问&lt;b&gt;国内的&lt;/b&gt;网站；只有国外的网站才走 VPN。这时候，前面提到的“路由表”就排上用场了。&lt;br/&gt;　　如果你没有 IT 技术背景，听到“路由表”这么高深的词汇，估计心里发虚。不过没关系，天朝不乏热心的网友，已经帮大伙儿做好了傻瓜化的工具。不需要对路由表有深入的理解，便可搞定。&lt;br/&gt;1. 首先，向大伙儿隆重介绍 chnroutes 开源项目（网站在“&lt;a href="http://code.google.com/p/chnroutes/" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”）。该项目提供了预先定制好的路由表，能够做到国内网站自联，国外网站走VPN&lt;br/&gt;2. 到该网站的“&lt;a href="http://code.google.com/p/chnroutes/downloads/detail?name=pre_created_for_win.zip" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”，下载一个压缩包（名为 pre_created_for_win.zip）。只有8.5K，一眨眼就下载完。&lt;br/&gt;3. 把压缩包解开，里面有4个文件，咱们只需要俩（vpnup.bat 和 vpndown.bat）。&lt;br/&gt;4. 当你需要调整路由的时候，（以管理员身份）双击 vpnup.bat &lt;br/&gt;5. 当你需要把路由表复原的时候，就（以管理员身份）双击 vpndown.bat&lt;br/&gt;（运行上述俩脚本，大约需要几分钟，快慢与否取决于你电脑的性能）&lt;br/&gt;怎么样？是不是很简单？懂技术的网友，可以用 tracert 命令来验证路由表修改后的路由效果。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★VPN 常见疑难问题解答&lt;/h2&gt;
+&lt;br/&gt;　　以下列举一些 VPN 翻墙的常见问题。这些问题，不光 HSS 会碰到，其它 VPN 工具也会碰到。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇用 VPN 翻墙后，某些网站（比如：推特）还是无法访问，咋办？&lt;/h3&gt;
+&lt;br/&gt;　　首先，再次检查你的 VPN 是否确实联通了。如果确实联通了，还是无法访问某些网站，那么非常有可能是因为你的 DNS 服务器没有正确设置。&lt;br/&gt;　　如果你使用的是国内的 DNS 服务器（比如电信运营商默认提供给你的），那么，就存在“域名劫持”的风险。简而言之，就是说这些国内的 DNS 服务器里面，故意包含了错误的 DNS 记录（当然是针对那些敏感网站）。如此一来，如果你通过国内的 DNS 服务器进行查询，就会得到错误的 IP 地址。然后你尝试翻墙访问这些错误的 IP，自然是一无所获。&lt;br/&gt;　　除了“DNS劫持/域名劫持”，还有一种阴招叫做“DNS 污染”。详细介绍可以参见俺后来写的博文《&lt;a href="../../2014/01/dns.html"&gt;扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”&lt;/a&gt;》。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇VPN 是否有流量限制，咋解决？&lt;/h3&gt;
+&lt;br/&gt;　　比如 HSS 就有流量限制。貌似每个月有几 GB。如果纯粹浏览网页，不看视频不下载大文件，应该是够用的。&lt;br/&gt;　　万一你的流量超了，可以通过修改网卡的 MAC 地址来绕过。（不懂得修改 MAC 地址的同学，请自行 Google 一下）。好多 VPN 翻墙可以也可以用这招 :)&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★补充说明&lt;/h2&gt;
+&lt;br/&gt;　　今天提到的某些内容，会增加到俺写的翻墙扫盲教程——《&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;如何翻墙&lt;/a&gt;》以及《&lt;a href="gfw-faq.html"&gt;常见翻墙问题答疑&lt;/a&gt;》。这两份文档，俺会不定期更新，力图做到与时俱进。&lt;br/&gt;　　另外，如果翻墙碰到困难或者有啥翻墙招数要跟俺分享，欢迎来信交流（&lt;a href="mailto:program.think@gmail.com"&gt;program.think@gmail.com&lt;/a&gt;）。要记得用&lt;b&gt;国外邮箱&lt;/b&gt;收发，以免被墙。另外，为了避免被误判为垃圾邮件，请在来信的标题中，体现出"翻墙"的字样。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）：&lt;/b&gt;&lt;br/&gt;&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;如何翻墙&lt;/a&gt;（传说中的扫盲教程，定期更新）&lt;br/&gt;&lt;a href="gfw-faq.html"&gt;常见翻墙问题答疑&lt;/a&gt;（传说中的FAQ，定期更新）&lt;br/&gt;&lt;a href="../03/how-to-get-gfw-tools.html"&gt;获取翻墙软件方法大全&lt;/a&gt;（教你在无法翻墙的情况下拿到翻墙软件）&lt;br/&gt;&lt;a href="../../2014/01/dns.html"&gt;扫盲 DNS 原理，兼谈“域名劫持”和“域名欺骗/域名污染”&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2013/04/gfw-vpngate.html"&gt;扫盲 VPN Gate——分布式的 VPN 服务器&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2013/11/tor-faq.html"&gt;关于 TOR 的常见问题解答&lt;/a&gt;&lt;br/&gt;&lt;a href="../10/gfw-psiphon.html"&gt;双管齐下的赛风3&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2010/03/choose-free-gate.html"&gt;自由門——TOR 被封之后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../12/gfw-wujie.html"&gt;新版本无界——赛风3失效后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2009/09/break-through-gfw-with-tor.html"&gt;戴“套”翻墻的方法&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2012/06/gfw-i2p.html"&gt;简单扫盲 I2P 的使用&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Mon, 28 Sep 2026 02:05:28 +0000</pubDate>
+    <guid isPermaLink="false">40</guid>
+</item>
+
+<item>
+    <title>网安知识 - 032 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖（邮件地址变更）.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：4 分钟 (928 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;"如何翻墙"系列：通过邮件获取翻墙扫盲帖（邮件地址变更）&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2010-09-29&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E7BFBBE5A299.html"&gt;IT.翻墙&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　各位同学，在此郑重告知大伙儿一个好消息和一个坏消息。&lt;br/&gt;　　好消息是：自从俺在9月27日下午发布“&lt;a href="use-email-get-gfw-howto.html"&gt;如何通过邮件获取翻墙扫盲帖&lt;/a&gt;”，截止28日凌晨0点左右，已经收到并自动回复几百封邮件。这充分说明：翻墙是广大网友喜闻乐见的一项运动 :)&lt;br/&gt;　　坏消息是：原先那个邮箱（help.gfw@gmail.com）在28日零点左右，就再也无法登录了。界面的错误提示是：“该邮箱检测到异常活动”。&lt;br/&gt;　　俺当时就去找 Gmail 的管理员理论，他/她今天答复俺说：“&lt;q&gt;此帐户已停用，我们无法恢复。帐户被停用是因为我们认为帐户违反了 Google 服务条款&lt;/q&gt;”。看来俺使用 Gmail 进行自动回复（且短时间内发出了大量的邮件），被 Google 的邮件系统当成垃圾邮件（SPAM）的发送工具 :(&lt;br/&gt;　　顺便问一下：是否有哪位高人晓得如何解决此类问题？知道的话，给俺指点一下迷津。博客留言或发邮件（&lt;a href="mailto:program.think@gmail.com"&gt;program.think@gmail.com&lt;/a&gt;）给俺皆可。&lt;br/&gt;&lt;br/&gt;　　【不过俺是不会轻言放弃滴】，否则岂不是辜负了网友们的期望？所以，俺今天又另外申请了一个 Yahoo 邮箱。&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;center&gt;&lt;span style="font-weight:bold;font-size:150%;"&gt;&lt;a href="mailto:help_gfw@yahoo.com"&gt;help_gfw@yahoo.com&lt;/a&gt;&lt;/span&gt;&lt;/center&gt;
+&lt;br/&gt;　　跟上次那个邮箱类似，它也设置了&lt;span style="color:red;"&gt;自动回复&lt;/span&gt;功能。你只要往这个邮件地址随便发一封Email，立马可以收到一封自动回复的邮件。回信的内容是俺博客里，点击数最高、转载最广的帖子（原文在“&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;这里&lt;/a&gt;”）。此帖通俗易懂、条例清晰，且附带翻墙工具的墙内下载地址。看完之后，基本可以掌握翻墙招数。&lt;br/&gt;　　如果你无法收到自动回信、或者有其它疑问、或者有啥建议，请用 &lt;a href="mailto:program.think@gmail.com"&gt;program.think@gmail.com&lt;/a&gt; 跟俺联系。&lt;br/&gt;&lt;br/&gt;　　照例再啰嗦一下邮件 ISP 的问题。大伙儿不要用【国内】的邮箱收发翻墙相关的邮件，免得被党国监控。国外的邮件服务商相对靠谱一些。尤其要强烈推荐 Gmail。Gmail 不光隐私保护得好，还支持全程的【HTTPS】加密，能免遭 GFW 的敏感词过滤。&lt;br/&gt;　　不排除目前这个 Yahoo 邮箱再出意外。万一它也杯具了，俺还会继续换邮箱地址，然后把可用的自动回复邮箱，在本页面告知大伙儿。&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Mon, 24 Aug 2026 00:32:26 +0000</pubDate>
+    <guid isPermaLink="false">32</guid>
+</item>
+
+<item>
+    <title>网安知识 - 036 - 如何翻墙”系列：基于 Skype 翻墙.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：12 分钟 (3552 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：基于 Skype 翻墙&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2011-05-22&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E7BFBBE5A299.html"&gt;IT.翻墙&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E8BDAFE4BBB6E4BB8BE7BB8D.html"&gt;IT.软件介绍&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　在开讲之前，先祝贺一下大名鼎鼎的方校长（也就是 GFW 它爹）。这家伙前几天在武汉大学，享受了“被人扔鸡蛋/扔鞋”的待遇。在此之前，能够享受如此待遇的党国大员，恐怕也只有爱流泪的影帝温宝宝了。&lt;br/&gt;　　言归正传，话说天朝最敏感的日子——五月3５日——已经临近了。往年从5月中旬开始，GFW 都会加大封锁的力度，今年也不例外。最近2周，自由门和无界都不太稳定。对俺最大的影响就是——找俺求助的邮件在最近1周猛增。为了免去逐一回复邮件的麻烦，俺今天再给大伙儿普及另外一个翻墙的法子——基于 Skype 翻墙。&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_iyRkO8GFIZUjywAXqnATbuak9le338MCK430N_YIQa8AOPAuXz0q70siA6Yi-D_RAOX_dqC5SXyxW7H4EWzPfcWJdCwPf0G8DUEJEZQikZFs3hbwdeuhqud7jgUMvB0dEFTq6qiC"/&gt;&lt;/center&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★Skype 是啥？&lt;/h2&gt;
+&lt;br/&gt;　　由于 QQ 在天朝过于普及，导致很多菜鸟网友，只知道 QQ 这一种聊天工具。所以，俺有必要先普及一下 Skype 的基础知识。已经了解 Skype 的同学，可以跳过这一节。&lt;br/&gt;　　Skype 是一个 IM（即时通讯）工具。它和其它 IM 相比，最大的特色就是语音通讯的能力。用 Skype 来打电话，既省钱，质量还不差。因为 Skype 本身也是一个 P2P 的软件，它依靠 P2P 技术，来实现语音的高质量传输。&lt;br/&gt;　　由于 Skype 的上述特点，用户数猛增。近1-2年，Skype 已经超过 MSN Messenger，号称全球用户数最多的 IM 工具（没有之一）。&lt;br/&gt;　　顺便说一下：就在2周前（11年5月10号），财大气粗的微软宣布以85亿美金收购 Skype。如今 Skype 的新东家已经是微软了。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★为啥俺推荐 Skype 翻墙？&lt;/h2&gt;
+&lt;br/&gt;　　跟其它翻墙方式相比，Skype 翻墙的显著的好处是——难以彻底封杀。&lt;br/&gt;　　很多翻墙方式都依赖于设立在海外的代理服务器。如果 GFW 把所有的代理服务器都列入 IP 黑名单，那这种翻墙方式就会失效。自由門 不稳定，可能是因为很多 自由門 的服务器被屏蔽。而 Skype 是基于 P2P 的，Skype 的节点数量巨多，GFW 难以屏蔽所有节点。&lt;br/&gt;　　另外，Skype 的用户数量很大，貌似国内有上千万用户。退一步说，即使 GFW 能通过技术手段把 Skype 网络彻底干掉，那影响会比较大。因此，党国会有所顾忌。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★操作步骤&lt;/h2&gt;
+&lt;br/&gt;　　扫盲完 SKype，开始切入正题。&lt;br/&gt;　　要用 Skype 翻墙，除了要有 Skype 软件，还得搭配一个基于 Skype 的翻墙工具。目前，有多款翻墙软件都可以通过 Skype 来穿越 GFW。比较老牌的有世界通（洋文叫 ＧPass）和花园网络（洋文叫 ＧTunnel）。考虑到世界通是绿色的，仅有单一的 exe 文件，且 exe 文件带有数字签名。所以，俺下面拿世界通 来举例说明。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇找到 Skype 的国际版&lt;/h3&gt;
+&lt;br/&gt;　　第一步，自然是先搞到 Skype 软件。&lt;br/&gt;　　Skype 有2个版本，一个是国际版，一个是 TOM 版。TOM 版是 Skype 公司跟 TOM 网站合搞的，严格来说，也算是国产的（关于国产 IM 的危险，请翻墙看“&lt;a href="../../2010/04/howto-cover-your-tracks-2.html"&gt;这里&lt;/a&gt;”的介绍）。俺今天再一次强调：&lt;b&gt;千万别用 TOM 网站提供的 TOM 版 Skype&lt;/b&gt;。这个版本是植入后门的，会导致你传输的信息被党国监控。&lt;br/&gt;　　在天朝，如果你直接访问 Skype 的官网（&lt;a href="http://www.skype.com/" rel="nofollow" target="_blank"&gt;www.skype.com&lt;/a&gt;），会被自动重定向到 TOM 网站。因此，你必须得通过翻墙方式访问官网并下载。如果你无法翻墙上它的官网，可以到国内的软件下载站点去找，很容易找到国际版。&lt;br/&gt;　　提醒一下，在国内网站找到的 Skype 安装程序，最好要验证一下 exe 文件的数字签名，以免中病毒或木马。不懂得验证数字签名的同学，请翻墙看“&lt;a href="../../2010/02/introduce-digital-certificate-and-ca.html#verify_file"&gt;这里&lt;/a&gt;”的介绍。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇安装 Skype&lt;/h3&gt;
+&lt;br/&gt;　　安装过程比较简单，俺就不细说了。&lt;br/&gt;　　装好之后要判断装 Skype 是 TOM 版还是国际版？很简单：只需点菜单"帮助"，再点"关于 Skype"，弹出"关于对话框"。如果在对话框中看到有 TOM 字样，就是 TOM 版；否则，就是国际版。&lt;br/&gt;　　如果还没有 Skype 帐号，安装结束时会提示你免费注册一个 Skype 用户。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇安装世界通&lt;/h3&gt;
+&lt;br/&gt;　　其实，世界通是绿色软件，无须安装滴。&lt;br/&gt;　　它的官方站点在“&lt;a href="http://gpass1.com/" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”（早已被墙）。如果你无法翻墙上它的官网，可以参考俺之前的帖子“&lt;b&gt;&lt;a href="../03/how-to-get-gfw-tools.html"&gt;获取翻墙软件方法大全&lt;/a&gt;&lt;/b&gt;”。只要你开动脑筋，总有办法搞到。&lt;br/&gt;　　再啰嗦一次，世界通的 exe 文件，也是有数字签名的。运行之前，先验证一下，比较保险。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇配置世界通&lt;/h3&gt;
+&lt;br/&gt;　　首先，点左边的"设置选项"。然后，你可以看到世界通支持的几种翻墙方式，包括：基于世界通自己的代理服务器、基于 Skype、基于 TOR，基于第三方的 SOCKS 代理。具体请看如下截图。&lt;br/&gt;&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_a2shUBbZ7OuRh_6kcuN11Y_k4p-Zvm7r6dRpwZlqK55VlLX1gnQHE_VBdepe-yjzTXG6T_v2LWDN0ZiYUrhuOt0tl6BiHZAyUhZO6ko6bvR0IYsCjUpsA9zit-_xhU5ivwtA5hm1"/&gt;&lt;/center&gt;
+&lt;br/&gt;&lt;br/&gt;　　除了 Skype，另外那几种方式，貌似都不灵光了。所以，你当然要选"Skype"选项，然后点下方的"启用"按钮。接着，点左边的"上网程序"，会看到世界通正在搜索加密通道，如下图所示。这时候，世界通显示在 Windows 系统托盘的图标是灰色的。&lt;br/&gt;&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_OYu30mJ60ZnlZ48jswSTGhcnYxo0swJ2Wtpvi2If7E0vuM_3UUbplTZdbrbKD8nwRkfdV9A4MdRyAg0bJzvbArnytlJO9wpPrGAFIZht51QREWh6X-0_dPpRTrM5HgLYbJA2Qxtw"/&gt;&lt;/center&gt;
+&lt;br/&gt;　　一旦世界通搜索到加密通道并建立了加密连接，这时候，世界通会显示如下信息。同时，在系统托盘里的图标会变亮。&lt;br/&gt;&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_pFWnAnK7RAeQD4Q2Xyzak0W0FjI3wNOccmGBGCmgolGbM-XYX2zne14yycb88-3qq6PJBBLGA4s6nzB2zsShg3s_rp1hDbyuwSEqsmSFdgksAD7S9NPKBlfcgfEK05O3tZbRbyKs"/&gt;&lt;/center&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇让应用程序基于世界通翻墙&lt;/h3&gt;
+&lt;br/&gt;　　有2种方式，可以让某个应用程序利用世界通来翻墙。&lt;br/&gt;1、&lt;br/&gt;在刚才的截图中，你可以点"添加"按钮，把某个程序（比如：IE、Firefox、MSN）加入世界通的上网程序列表中。以后，就可以直接在世界通界面上启动该程序。被世界通启动的程序，就可以通过世界通的加密通道翻墙。&lt;br/&gt;&lt;br/&gt;2、&lt;br/&gt;世界通会开启代理端口，端口号 8000（显示在刚才那张截图下方）。以浏览器为例，你可以在浏览器中设置 HTTP 代理，代理的地址设为 127.0.0.1，代理的端口号设为 8000。这样，也可以让浏览器通过世界通翻墙。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★一些注意事项&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于 exe 文件的数字签名&lt;/h3&gt;
+&lt;br/&gt;　　由于世界通的数字签名显示为“证书已吊销”。为了保险起见，俺再附上该 ＧPass-4.1.0.exe 文件的散列值如下：&lt;br/&gt;&lt;b&gt;SHA1&lt;/b&gt;&lt;br/&gt;0aa2a7cb91df25ea42e5b5345a2281a160f0464f&lt;br/&gt;&lt;b&gt;MD5&lt;/b&gt;&lt;br/&gt;62ded78920c5075fbd6ada41ce651bc5&lt;br/&gt;&lt;b&gt;CRC32&lt;/b&gt;&lt;br/&gt;7b65c4a6&lt;br/&gt;&lt;br/&gt;　　假如你计算了手头的 exe 文件，各种散列值和上述相符，那就说明你手头的世界通是正宗的（没有中毒、没有被篡改）。&lt;br/&gt;　　手头没有计算散列值工具的同学，可以到&lt;a href="http://support.microsoft.com/kb/841290" rel="nofollow" target="_blank"&gt;微软官网下载&lt;/a&gt;FCIV——该工具可以用来计算 SHA1 和 MD5。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于网速&lt;/h3&gt;
+&lt;br/&gt;　　俺最近一周，一直在体验这种翻墙方式。总体感觉是，速度的波动比较大。快的时候，看视频都可以；慢的时候，感觉像在用 Modem 拨号。当你碰到网速慢的时候，可以点"通道状态"里面，靠右边的那个按钮。如下图。&lt;br/&gt;&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/36_EpbDQgGN8iaeVli28Cv7roZRXjoMOjyqaNOKei_wNMO69ii9nnJj1ImHGfLKXmAf9Das_lPSlWwOWn9n5NZZz_q4OqHiguoZcOsCFNj4spOKPZRqyIKszSUHIl2gVam-ucszDfd5"/&gt;&lt;/center&gt;
+&lt;br/&gt;&lt;br/&gt;　　然后世界通就会断开当前连接，重新建立新的可用连接。运气好的话，第一建立的连接就够快；倒霉的话，可能重试了很多次，依然很慢。&lt;br/&gt;　　假如你用了 Skype 翻墙，速度从来就没快过，那也有可能跟你家或你公司所在的网络环境有关系。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于 Skype 帐号的申请&lt;/h3&gt;
+&lt;br/&gt;　　如果你还没有 Skype 帐号，要记得去 Skype 的官方网站（&lt;a href="https://www.skype.com/" rel="nofollow" target="_blank"&gt;www.skype.com&lt;/a&gt;）注册，而&lt;b&gt;不要去“TOM网”注册&lt;/b&gt;。&lt;br/&gt;　　Skype 的官网需要翻墙访问，否则会被自动跳转到 TOM 网站。尚无翻墙能力的同学，可以先找一个 Web 代理。通过 Web 代理访问 Skype 的官网并注册帐号。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于 Skype 帐号的安全&lt;/h3&gt;
+&lt;br/&gt;　　如果你翻墙之后仅仅是浏览网页，那倒没啥关系。&lt;br/&gt;　　假设你跟俺一样，翻墙之后要干一些对不起党国的事情，那就要小心了。在这种情况下，强烈建议你，不要拿自己平常用的 Skype 帐号来翻墙。最好是重新注册一个帐号，专门用于翻墙，比较保险。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇关于其它的翻墙问题&lt;/h3&gt;
+&lt;br/&gt;　　碰到关于翻墙的疑难问题，请看俺写的《&lt;a href="../09/gfw-faq.html"&gt;常见翻墙问题答疑&lt;/a&gt;》。&lt;br/&gt;　　如果还搞不定，也可以直接找俺帮忙。俺的邮箱是：&lt;b&gt;&lt;a href="mailto:program.think@gmail.com"&gt;program.think@gmail.com&lt;/a&gt;&lt;/b&gt; 同样要记得用&lt;b&gt;国外&lt;/b&gt;邮箱收发。为了避免被误判为垃圾邮件，请在来信的标题中，体现出“翻墙”的字样。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;如何翻墙&lt;/a&gt;（传说中的扫盲教程，定期更新）&lt;br/&gt;&lt;a href="../09/gfw-faq.html"&gt;常见翻墙问题答疑&lt;/a&gt;（传说中的FAQ，定期更新）&lt;br/&gt;&lt;a href="../03/how-to-get-gfw-tools.html"&gt;获取翻墙软件方法大全&lt;/a&gt;（教你在无法翻墙的情况下拿到翻墙软件）&lt;br/&gt;&lt;a href="../../2013/04/gfw-vpngate.html"&gt;扫盲 VPN Gate——分布式的 VPN 服务器&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2013/11/tor-faq.html"&gt;关于 TOR 的常见问题解答&lt;/a&gt;&lt;br/&gt;&lt;a href="../10/gfw-psiphon.html"&gt;双管齐下的赛风3&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2010/03/choose-free-gate.html"&gt;自由門——TOR 被封之后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../12/gfw-wujie.html"&gt;新版本无界——赛风3失效后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../09/gfw-vpn-hotspot-shield.html"&gt;扫盲 VPN 翻墙——以 Hotspot Shield 为例&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2009/09/break-through-gfw-with-tor.html"&gt;戴“套”翻墻的方法&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2012/06/gfw-i2p.html"&gt;简单扫盲 I2P 的使用&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Mon, 21 Sep 2026 01:59:13 +0000</pubDate>
+    <guid isPermaLink="false">36</guid>
+</item>
+
+<item>
+    <title>管理科学 - 029 - 批判性思维扫盲：学会区分“事实”与“观点”.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：13 分钟 (3808 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;批判性思维扫盲：学会区分“事实”与“观点”&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2013-05-02&lt;/span&gt;&lt;a class="tag" href="../../tags/E5ADA6E4BC9AE6809DE88083.html"&gt;学会思考&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+&lt;h2 class="sigil_not_in_toc"&gt;★引子&lt;/h2&gt;
+&lt;br/&gt;　　近期发了两篇博文《&lt;a href="../04/weekly-share-48.html"&gt;每周转载：关于雅安地震的种种乱象&lt;/a&gt;》《&lt;a href="../04/more-supervision-less-thankfulness.html"&gt;为了地震灾民——多些“监督问责”，少些“煽情感动”&lt;/a&gt;》，引来不少读者留言。某些网友甚至在博客留言中吵了起来。据俺观察，有些参与口水战的网友，不善于区分“事实陈述”和“观点陈述”。而区分这两者的能力，恰恰是批判性思维的基本功之一。所以，今天花点时间，扫盲一下这个话题。&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★为啥要区分“观点陈述”和“事实陈述”？&lt;/h2&gt;
+&lt;br/&gt;　　批判性思维的其中一个要点是：你对外来的信息不能照单全收，要经过自己的【独立】思考，要经过一定的质疑。&lt;br/&gt;　　但是质疑的方式，会因对象而异。不同的信息，你必须采取不同的质疑方式。甚至有些信息（比如某些“观点陈述”），你是无需质疑的（后面会介绍为啥）。&lt;br/&gt;　　但如果连“观点”和“事实”都经常搞混淆，你又如何能进行正确的质疑捏？所以，区分“观点陈述”和“事实陈述”非常重要。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★啥是“事实陈述”？&lt;/h2&gt;
+&lt;br/&gt;　　顾名思义，“事实陈述”就是把【客观】事实说出来。&lt;br/&gt;　　比如——&lt;q&gt;俺这个博客是2009年1月份开张的&lt;/q&gt;——这就属于“事实陈述”。&lt;br/&gt;　　那啥玩意儿才算“事实”捏？关键要看它是不是具有【客观性】。不具有客观性的东西，不能算“事实”。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★“事实陈述”有啥特征？&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇无“对错”、无“好坏”&lt;/h3&gt;
+&lt;br/&gt;　　前面说了，“事实陈述”就是把“事实”说出来。而事实本身就【不】存在所谓的“对错”与“好坏”。所以，如果你去评价某个“事实陈述”的对错，是没有意义的，会显得很荒诞。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇有“真假”&lt;/h3&gt;
+&lt;br/&gt;　　虽然“事实陈述”没有“对错”与“好坏”的概念，但是有【真/假】的概念。这个应该好理解。符合事实的，就是“真”；反之就是“假”。&lt;br/&gt;&lt;br/&gt;　　这里要提醒大伙儿注意啦（尤其是那些理工科的同学）。很多人喜欢用“非真即假”、“非黑即白”的眼光看问题。在某些理工科领域，或许可以这么干。但是在社会学领域，最好不要这样。因为社会学领域的很多问题，会涉及到“灰色地带”，【无法】用“非黑即白”的方式进行判定。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★“事实”的可验证性&lt;/h2&gt;
+&lt;br/&gt;　　这里的“可验证性”既包括“证实”，也包括“证伪”。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇可验证，并且显然的&lt;/h3&gt;
+&lt;br/&gt;　　有些事实属于很容易验证的，并且不易引发分歧。那么，针对这类事实的陈述，很容易就可以判断“真假”。比如：&lt;q&gt;2008年奥运会在北京举行&lt;/q&gt;。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇可验证，但不显然的&lt;/h3&gt;
+&lt;br/&gt;　　比如某人声称自己拥有多少总资产。这个陈述不是很显然，但如果非要查实，多花点力气还是有可能验证的。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇不可验证的&lt;/h3&gt;
+&lt;br/&gt;　　还有一些事实，在现有的科技水平上，是无法验证的。&lt;br/&gt;　　比如发生在久远年代的历史事件的【细节】（除非发明时光机，或者当时正好有外星人到访并留下记录，否则无法验证）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★哪些“事实陈述”值得争论？&lt;/h2&gt;
+&lt;br/&gt;　　刚才提到的三个类型：第一类，通常不需要争论；第三类，即使争论也不会有结果。&lt;br/&gt;　　所以，今后你如果要跟别人争执某个“事实陈述”的真假，先看看是不是属于第二类的。如果不是第二类的，还是省省吧。即使是第二类的事实陈述，也要看是否值得争论。只有【性价比】足够高的论题，才值得你花时间和精力去争论。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★关于“事实陈述”的可信度&lt;/h2&gt;
+&lt;br/&gt;　　要判断某个“事实陈述”是否可信，办法之一是你亲自去验证。&lt;br/&gt;　　但是这么干，比较费时费力。而且有的事实陈述，你是不可能亲自去验证的（比如对历史事件的陈述）。&lt;br/&gt;　　当你无法亲自验证的时候，就得换种方法——分析事实陈述的依据，由此来评估其可信度高不高。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇依据的分类&lt;/h3&gt;
+&lt;br/&gt;　　事实陈述的依据，大致可以分为两类。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第一手资料&lt;/b&gt;&lt;br/&gt;　　所谓的“第一手资料”，就是说这个“事实陈述”是通过陈述者的感官直接获得信息。&lt;br/&gt;　　比如亲眼所见，亲耳所闻。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第 N 手资料&lt;/b&gt;&lt;br/&gt;　　所谓的“第 N 手资料”，就是说这个“事实陈述”是从其它途径得到信息，然后再转述的。&lt;br/&gt;　　如果被转述的对象是第一手资料，那么这个陈述就是“第二手资料”；以此类推。&lt;br/&gt;&lt;br/&gt;　　下面分别介绍两种依据的可信度问题。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇第一手资料的可信度&lt;/h3&gt;
+&lt;br/&gt;　　有句老话叫做“耳听为虚，眼见为实”。很多人受到这句老话的误导，以为第一手资料就是可信的——【其实未必】！&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;认知的偏差问题&lt;/b&gt;&lt;br/&gt;　　所谓的“认知偏差”，就是指“亲眼所见/亲耳所闻”导致的偏差。&lt;br/&gt;　　比如当你观看魔术表演的时候，虽然是亲眼所见，但看到的依然是假象。因为魔术师可以通过种种方法来诱使你产生认知偏差。&lt;br/&gt;　　关于“认知偏差”的种类和成因是一个很大的话题，限于篇幅，就不展开了。有兴趣的话，可以引申阅读《&lt;a href="../../2009/05/halo-effect.html"&gt;光环效应引发的认知误区&lt;/a&gt;》，里面提到了“选择性失察”和“首因效应”导致的认知偏差。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;陈述者的诚信问题&lt;/b&gt;&lt;br/&gt;　　还有一种情况导致第一手资料的可信度下降，就是陈述者本身的信用问题。&lt;br/&gt;　　假如某个人是个老骗子，那么此人陈述的第一手资料，可信度就要打个折扣。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇第 N 手资料的可信度&lt;/h3&gt;
+&lt;br/&gt;　　评价第 N 手资料的可信度，需要同时考虑两方面：&lt;br/&gt;　　首先，第 N 手资料需要依赖于第一手资料的可信度。如果被依赖的第一手资料有问题，那衍生出来的第 N 手资料也好不到哪里去。&lt;br/&gt;　　其次，信息转手的次数越多，信息的衰减通常会越严重。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★啥是“观点陈述”？&lt;/h2&gt;
+&lt;br/&gt;　　简单地说，就是陈述自己【主观】的一些东西。&lt;br/&gt;　　“观点”和“事实”最大的不同就在于，“观点”受主观影响的，而“事实”【不】受主观影响。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★“观点陈述”的分类？&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇无需思考，得出的观点&lt;/h3&gt;
+&lt;br/&gt;　　这类观点陈述，比较常见的有：感官体验、价值观偏好。&lt;br/&gt;　　感官体验，直接来自于人的动物本能。得出这类观点是不用经过大脑的，类似于条件反射。&lt;br/&gt;　　价值观偏好，主要来自于每个人的生活习惯、家庭环境、文化背景、等等。一旦形成了某种价值观偏好，就如同思维定式一般。作出评价也是不经过大脑的。&lt;br/&gt;&lt;br/&gt;　　举例：&lt;br/&gt;　　&lt;q&gt;今天很热&lt;/q&gt;（感官体验）&lt;br/&gt;　　&lt;q&gt;喜欢喝XX饮料&lt;/q&gt;（价值观偏好）&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇经过某种思考，得出的观点&lt;/h3&gt;
+&lt;br/&gt;　　思考的方式有很多种：&lt;br/&gt;　　最不靠谱的，就是完全靠猜测（拍脑袋），然后得到某个主观臆断。&lt;br/&gt;　　好一些的方法还有：&lt;br/&gt;　　依靠归纳法，总结出某个结论。&lt;br/&gt;　　依靠演绎法，通过逻辑推理得到某个推论。&lt;br/&gt;　　......&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★“观点陈述”有啥特征？&lt;/h2&gt;
+&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇对于“感官体验”的观点&lt;/h3&gt;
+&lt;br/&gt;　　完全【不】存在“真假”、“对错”、“好坏”。&lt;br/&gt;　　比如同一时间同一地点，有人会觉得温度高，有人觉得温度低。你&lt;b&gt;不能说&lt;/b&gt;某个人是对的，另一人是错的。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇对于“价值观偏好”的观点&lt;/h3&gt;
+&lt;br/&gt;　　如果“价值观偏好”纯属【私人领域】，就跟“感官体验”类似，也没有“真假”、“对错”、“好坏”之类的说法。&lt;br/&gt;　　比如喜欢什么颜色的服饰、喜欢什么口味的食物、等等。&lt;br/&gt;&lt;br/&gt;　　但是，对于涉及到【公共领域】（比如政治领域、道德领域）的“价值观偏好”，就会有“好坏”之分。&lt;br/&gt;　　如果某个价值观在不同的历史时期、不同的文化中，都得到赞美，那么就可以称之为是“好”的；反之，都遭到批评就称为“坏”的。&lt;br/&gt;　　不过捏，能称得上“好的”价值观不多，能称得上“坏的”价值观也不多。大部分公共领域的价值观，都处于中间的灰色地带。这些价值观，可能在某些历史时期或某些文化中被赞同，而在另外的历史时期或另外的文化中，被排斥。比如“性取向的问题”就属于这种中间的灰色地带。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇对于“经过思考得出的观点”&lt;/h3&gt;
+&lt;br/&gt;　　这类观点，也会有“对错”之分。因为思考的过程是有可能出现偏差和谬误的。&lt;br/&gt;　　比如，用演绎法进行推理的时候，可能会出现推理的逻辑谬误。&lt;br/&gt;　　比如，用归纳法进行总结的时候，样本的片面性会导致结论的片面性。&lt;br/&gt;　　......&lt;br/&gt;　　（还有很多种谬误，恕不一一列举）&lt;br/&gt;　　关于思维方面的偏差和误区，有兴趣的话可以看看俺前几年的博文：&lt;br/&gt;《&lt;a href="../../2012/03/think-what-how-why.html"&gt;用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2010/07/silent-proof.html"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2009/02/from-surface-to-essence.html"&gt;学会透过现象看本质，即使现象有时候挺诡异&lt;/a&gt;》&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★哪些“观点陈述”值得质疑和争论？&lt;/h2&gt;
+&lt;br/&gt;　　通过上述的分析，大伙儿应该比较清楚了：对于“感官体验”和“私人领域的价值观偏好”，质疑是没有意义的、争论是没有结果的。&lt;br/&gt;　　可惜的是，很多天朝的网民非常热衷于这类争论。比如：不同明星的追星族会互相争论、不同球队的球迷也常互相争论、甚至不同品牌手机的粉丝也会互相争论。&lt;br/&gt;&lt;br/&gt;　　对于“经过思考得出的观点”，这方面是可以进行质疑和争论的。但要注意两点：&lt;br/&gt;　　1. 要考虑性价比——不要花太多时间和精力去质疑和争论一些鸡毛蒜皮的细节&lt;br/&gt;　　2. 反驳别人的观点要讲究境界&lt;br/&gt;&lt;br/&gt;　　关于第二点提到的“境界”，大伙儿可以去读一下保罗·格雷汉姆（&lt;a href="https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E6%A0%BC%E9%9B%B7%E5%8E%84%E5%A7%86" rel="nofollow" target="_blank"&gt;Paul Graham&lt;/a&gt;）的文章《&lt;a href="http://www.paulgraham.com/disagree.html" rel="nofollow" target="_blank"&gt;How to Disagree&lt;/a&gt;》。考虑到某些同学不喜欢读洋文，附上如下的中文图解。&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/29_XyRgm02a3SnufE0prfZ-Rfk8QwKqLCIbvDK5HyYkmPqOl0p9HvLjShKCyI-q-GyxaoamNwG3aCiIOlOKex_Ril-T8p8SZxqJB-MDy35v2hAi-mpGvt-jrQDRWjPyGIa3exYm"/&gt;&lt;/center&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★结尾&lt;/h2&gt;
+&lt;br/&gt;　　最后提醒一下：没看过《&lt;a href="https://docs.google.com/document/d/14xEG3Uot3-uMML1ZQc7cMbNTxzpllxFQqcwr_n6FgQk/" target="_blank"&gt;学会提问——批判性思维指南&lt;/a&gt;》的同学，【强烈建议】去看看。关于此书，俺曾经写过一篇书评，在&lt;a href="../../2010/10/book-review-asking-right-questions.html"&gt;这里&lt;/a&gt;。想下载电子版的同学，请翻墙看&lt;a href="https://github.com/programthink/books" target="_blank"&gt;这里&lt;/a&gt;。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;《&lt;a href="../../2010/10/book-review-asking-right-questions.html"&gt;书评：＜学会提问——批判性思维指南＞&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2011/03/logical-fallacies.html"&gt;谈谈逻辑谬误——以五毛言论为反面教材&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2014/12/brainwash-using-real-data.html"&gt;比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2014/01/doublethink.html"&gt;比“欺骗”更有效的洗脑手法——基于【双重思想】的思维控制&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2014/02/brainwash-and-idiot.html"&gt;聊聊洗脑和脑残——分析“脑残的起源”和“脑残的觉醒”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.html"&gt;思维的误区：从“沉没成本谬误”到“损失厌恶情结”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2015/05/Survivorship-Bias.html"&gt;思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2010/07/silent-proof.html"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2009/05/halo-effect.html"&gt;光环效应引发的认知误区&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2014/01/anti-brainwashing-and-enlightenment.html"&gt;如何用互联网进行“反洗脑”和“政治启蒙”——分享若干个人经验&lt;/a&gt;》&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Mon, 17 Aug 2026 00:38:39 +0000</pubDate>
+    <guid isPermaLink="false">29</guid>
+</item>
+
+<item>
+    <title>管理科学 - 035 - 心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：8 分钟 (2108 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2012-01-26&lt;/span&gt;&lt;a class="tag" href="../../tags/E5BF83E79086E5ADA6.html"&gt;心理学&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　前2天发了一篇博文——《&lt;a href="revolution-2.html"&gt;谈革命[2]：先有制度还是先有素质&lt;/a&gt;》。有很多热心网友在博客里留言，有些言论比较悲观。有感于此，写这篇博文与大伙儿分享。&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★斯托克代尔的故事&lt;/h2&gt;
+&lt;br/&gt;　　先来说一个真实的小故事。&lt;br/&gt;　　话说&lt;a href="https://en.wikipedia.org/wiki/James_Stockdale" rel="nofollow" target="_blank"&gt;斯托克代尔&lt;/a&gt;是越战后的美国海军中将。他在参加越战时被俘，被关在战俘营长达八年，期间遭受越共的种种虐待。作为当时战俘营中军衔最高的军官，他带领同伴跟越共做各种斗争，以提高美军战俘的待遇并增加获释的机会。获释之后，斯托克代尔的事迹被广为宣传。著名的管理学家&lt;a href="https://en.wikipedia.org/wiki/James_C._Collins" rel="nofollow" target="_blank"&gt;吉姆·柯林斯&lt;/a&gt;慕名找他做了一次访谈（以下是对话过程摘录）。&lt;br/&gt;&lt;br/&gt;柯林斯好奇地问：&lt;br/&gt;&lt;q&gt;你为啥能熬过那8年悲惨的战俘生活，坚持到最后获释的？&lt;/q&gt;&lt;br/&gt;斯托克代尔给出的回答是：&lt;br/&gt;&lt;q&gt;因为俺从不失去信心。俺坚信自己一定能活着出来。这个信念一直支撑着俺。&lt;/q&gt;&lt;br/&gt;（这个回答貌似挺普通的）&lt;br/&gt;柯林斯又问：&lt;br/&gt;&lt;q&gt;哪些人没能活着出来？&lt;/q&gt;&lt;br/&gt;斯托克代尔说：&lt;br/&gt;&lt;q&gt;这个简单，当然是那些乐观主义者啦。&lt;/q&gt;&lt;br/&gt;（这下柯林斯被彻底搞糊涂了。俺第一次读这个故事，也被搞糊涂了）&lt;br/&gt;斯托克代尔察觉到柯林斯的困惑，继续补充道：&lt;br/&gt;&lt;q&gt;那帮乐观主义者会说：'圣诞节之前，我们一定出得去'。圣诞节会来临，然后过了。&lt;br/&gt;他们又说：'复活节之前，我们一定出得去'。复活节来了，又过了。&lt;br/&gt;然后是感恩节，再然后是下一个圣诞节......如此往复。最终，那些乐观主义者在郁闷中死去。&lt;/q&gt;&lt;br/&gt;&lt;br/&gt;最后，斯托克代尔总结说：&lt;br/&gt;&lt;q&gt;&lt;b&gt;这是一个非常重要的教训——你不能把信念和原则搞混。&lt;br/&gt;信念是：你一定能获得成功——这个信念千万不可失去。&lt;br/&gt;原则是：你一定要面对最残忍的现实——无论它们是什么。&lt;/b&gt;&lt;/q&gt;&lt;br/&gt;&lt;br/&gt;　　这段对话给柯林斯留下很深的印象，柯林斯把海军上将的故事写入《&lt;a href="https://en.wikipedia.org/wiki/Good_to_Great" rel="nofollow" target="_blank"&gt;从优秀到卓越&lt;/a&gt;》一书，并称之为【&lt;b&gt;斯托克代尔悖论&lt;/b&gt;】（洋文叫“Stockdale Paradox”）。随着《从优秀到卓越》一书的走红，“斯托克代尔悖论”也广为人知。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★俺的解读&lt;/h2&gt;
+&lt;br/&gt;　　俺大约是在10多年前第一次看《从优秀到卓越》（那会儿俺刚工作没多久，开始对管理学感兴趣）。从那以后，每当遇到困境和逆境，俺总会想起斯托克代尔的故事。&lt;br/&gt;　　“斯托克代尔悖论”是一种面对困境和逆境时，很有效的心智模式（不晓得什么是“心智模式”，请看“&lt;a href="../../2010/02/about-mental-model.html"&gt;俺写的扫盲&lt;/a&gt;”）。具有这种心智模式的人，更加有可能（或者说，有更大的概率）战胜困境并坚持到最后。当然啦，“斯托克代尔悖论”并不是万能的——假如说当年的越共直接把斯托克代尔处决了，那他纵然有再好的心态也无法活着出来。&lt;br/&gt;　　对于“斯托克代尔悖论”，俺归纳为一句话：&lt;b&gt;战略上乐观，战术上悲观&lt;/b&gt;。也就是说，你既【不能】是纯粹的乐观主义者，也【不能】是纯粹的悲观主义者。&lt;br/&gt;　　打一个不太恰当的比方：战略好比掌舵，战术犹如划桨。战略上乐观意味着掌舵者不迷失方向；战术上悲观意味着划桨者不松懈。&lt;br/&gt;　　大部分人的问题在于——要么是纯粹的乐观主义者（战略与战术都乐观），要么是纯粹的悲观主义者（战略与战术都悲观）。只有极少数人能够【始终保持】——战略上乐观，战术上悲观。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★举例说明&lt;/h2&gt;
+&lt;br/&gt;　　解读完之后，为了给大伙儿加深印象，俺再举几个例子。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇政治方面的例子&lt;/h3&gt;
+&lt;br/&gt;　　当今天朝，越来越多的人对（政治、社会、经济）现状不满。但是据俺观察，不满现状的人，要么是乐观主义者，要么是悲观主义者。&lt;br/&gt;　　作为乐观主义者，往往对政治变革（改良或革命）的困难估计不足。很多乐观主义者认为天朝可以在短时间之内革命成功并迅速实现民主化。实际上捏，伟光正在天朝已经苦心经营了60多年，要想推翻它，岂是一朝一夕就能搞定的？要真的这么轻松，那党早就垮了。&lt;br/&gt;　　反之，那些悲观主义者一开始就带着消极的态度，认为天朝永远也不可能实现民主化。这种人比乐观主义者还要糟糕，只会散布消极情绪。&lt;br/&gt;　　真要想推动天朝的政治变革，纯粹的乐观主义者和悲观主义者都是没戏滴，得像斯托克代尔那种心态才行。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇人生＆职场方面的例子&lt;/h3&gt;
+&lt;br/&gt;　　大部分刚毕业或参加工作不久的年轻人，（在面对逆境时）也可以分化为乐观主义者和悲观主义者。&lt;br/&gt;　　那些容易悲观的人，往往也过于自卑。一旦碰到困境，首先选择逃避。他们通常没有太大的追求，更愿意维持现状。这类人在工作中多半是混日子，做一天和尚撞一天钟。&lt;br/&gt;　　而那些乐观主义者捏，通常过于自信。其特点之一就是：刚踏入社会就立下豪言壮语，妄图瞬间成名，快速致富。由于对现实的残酷缺乏认识，这类人往往在几次碰壁之后，梦想被粉碎，然后转变为悲观主义者。&lt;br/&gt;　　还有一种乐观主义者，之所以还保持乐观，是因为人生道路比较顺，一直没有碰到大的挫折。这类人的乐观和自信是建立在虚无之上，还没经受过考验，很脆弱。&lt;br/&gt;　　上述这几类人都不太可能有大的成就。能成大事者，往往是那些历经重大挫折而依然斗志昂扬之人——比如大伙儿很熟悉的乔布斯同学。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;《&lt;a href="../../2010/02/about-mental-model.html"&gt;“心智模式”系列：认识你自己——心智模式扫盲介绍&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2010/04/how-to-attribute-success-failure.html"&gt;“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2018/12/Book-Review-Antifragile-Things-That-Gain-from-Disorder.html"&gt;读书笔记：＜反脆弱——从不确定性中获益＞&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../06/book-review-road-less-traveled.html"&gt;书评：＜少有人走的路——心智成熟的旅程＞&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../12/emperor-complex.html"&gt;天朝民众的心理分析：圣君情结&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../06/stockholm-syndrome.html"&gt;天朝民众的心理分析：斯德哥尔摩综合症&lt;/a&gt;》&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;hr/&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Mon, 14 Sep 2026 01:59:29 +0000</pubDate>
+    <guid isPermaLink="false">35</guid>
+</item>
+
+<item>
+    <title>网安知识 - 034 - 如何翻墙”系列：获取翻墙软件方法大全.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：16 分钟 (4516 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：获取翻墙软件方法大全&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2011-03-13&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E7BFBBE5A299.html"&gt;IT.翻墙&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+&lt;h2 class="sigil_not_in_toc"&gt;★先扯扯蛋&lt;/h2&gt;
+&lt;br/&gt;　　开篇先扯蛋，不喜欢听俺扯蛋的网友，请直接跳到第2章节。&lt;br/&gt;天朝的互联网，向来对政治很敏感。比如2009年的五月，由于临近“六四”的20周年纪念，结果一大票网站被封（包括俺博客所在的 BlogSpot）；再比如党国的60大寿，又有一大票翻墙工具被干掉（包括 自由門、无界 等知名工具，俺当时是靠着&lt;a href="../../2009/09/break-through-gfw-with-tor.html"&gt;TOR 的网桥中继&lt;/a&gt;，才熬过那段苦难的日子，可惜TOR现在也不太灵光了）。&lt;br/&gt;　　最近几周，由于茉莉花绽放（不晓得“茉莉花”是咋回事，请翻墙参见“&lt;a href="../02/jasmine-revolution-227-notice.html"&gt;这里&lt;/a&gt;”），朝廷更加丧心病狂地封锁互联网。从3月初开始，Gmail和GoogleReader双双被列入黑名单。党国的意图其实已经很明显——&lt;b&gt;宁要社会主义的防火墙，不要资本主义的互联网&lt;/b&gt;。&lt;br/&gt;　　难道俺能眼睁睁看着党国建成“天朝大局域网”吗？！像俺这种刁民，挖空心思也要在墙上戳几个窟窿出来。所以，俺今天再写个翻墙帖，帮大伙儿应对新一轮的网络封杀。&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;　　至于党国为啥和互联网如此水火不容，想知道的同学请看俺写的《&lt;a href="../../2009/07/party-pk-internet.html"&gt;党和互联网的较量&lt;/a&gt;》（需翻墙）。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★获取翻墙软件的重要性&lt;/h2&gt;
+&lt;br/&gt;　　扯淡完毕，正题开讲。为了让大伙儿能重视本帖，先强调一下“获取翻墙工具”的重要性。&lt;br/&gt;　　眼下，中国大陆的网络环境越来越恶劣。不排除某一天，你手头正在用的那个翻墙工具，突然就失效了。当然，国外的反华势力（准确说，是反党势力），也不是吃素滴。他们会在某个翻墙工具失效之后，立马推出一个升级版本，给我等屁民使用。&lt;br/&gt;　　但是，这当中有一个很严重的时间差问题。如果你手头的工具失效了，而你尚未拿到新版本的工具，这时候你就处于孤立无援的危险境地。因为海外提供翻墙工具下载的网站，大都已经被GFＷ列入黑名单。而没有翻墙工具，你根本就访问不了这些网站。（这就好比，先有鸡还是先有蛋的问题）&lt;br/&gt;　　最近几天，俺费尽心思在琢磨这个问题，总结了如下招数。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★使用邮件获取&lt;/h2&gt;
+&lt;br/&gt;　　首先要介绍的是——邮件穿墙。俺个人认为，这个招数效果显著，使用简单，不失为首选。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇邮箱的选择&lt;/h3&gt;
+&lt;br/&gt;　　先强调一点，此处介绍的邮件穿墙，必须得用&lt;b&gt;国外的邮箱&lt;/b&gt;，才能确保安全并收到最好的效果。国内的邮箱，很有可能被党国审查。而且像腾讯之流，本来就助纣为虐，没准儿还主动帮着朝廷搞邮件审查。所以，国内的邮箱，万万使不得！&lt;br/&gt;　　考虑到Gmail已经被墙，当你用邮箱来获取翻墙工具时，首推 Hotmail（微软已经把它改名叫 LiveMail，不过俺叫 Hotmail叫惯了）。Hotmail 在2010年下半年，也学习 Gmail，引入了“&lt;b&gt;全程的HTTPS加密&lt;/b&gt;”。此功能在防范 GFＷ 的敏感词过滤方面，疗效显著。不过，目前 Hotmail 的“全程 HTTPS 加密”功能，不是默认开启的。你需要到Hotmail的"选项"中手动开启一下。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇Email如何能穿墙？&lt;/h3&gt;
+&lt;br/&gt;　　由于国外的邮箱，其邮件服务器在国外，党国对其奈何不得。如果你用的邮箱还支持 HTTPS 全程加密（如 Gmail、Hotmail），GFＷ 连敏感词过滤的招数就使不上。&lt;br/&gt;　　在这种情况下，朝廷如果要对付 Email 穿墙，只有如下两招：&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;1. 定点清除&lt;/b&gt;&lt;br/&gt;　　对某个具体的 Email 提供商进行屏蔽，比如近期针对 Gmail 的封杀就属于定点清除。但是全球有那么多的Email提供商，党国要想一个个干掉，还是有点困难。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;2. 全面封锁&lt;/b&gt;&lt;br/&gt;　　全面封锁有可能是彻底断网（像埃及、利比亚那样），也可能是引入屏蔽白名单（只能上党国允许你上的网站，其它都禁止）。不管是彻底断网还是引入白名单，动静都比较大。朝廷如果胆敢这么干，只会加速自己的灭亡。&lt;br/&gt;&lt;br/&gt;　　综上所述，Email 穿墙在近期内，还是一种比较可靠、比较稳定（用来获取翻墙工具）的手段。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇使用邮件获取翻墙工具&lt;/h3&gt;
+&lt;br/&gt;　　有些提供翻墙软件的公司/组织，服务比较周到。他们会开设一个邮箱，用于自动回复翻墙工具。&lt;br/&gt;　　提供“自由門”的动态网公司，开设了 &lt;b&gt;freeget.one@gmail.com&lt;/b&gt; 邮箱。给这个邮箱发信，即可自动回复"自.由.門"软件。&lt;br/&gt;　　对于另一个知名的翻墙工具 TOR，你可以发送标题为 help 的纯文本邮件到 gettor@torproject.org，也可以自动收到TOR的软件包。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇使用邮件浏览网页&lt;/h3&gt;
+&lt;br/&gt;　　有不少国外的公司或组织提供了“利用邮件上网”的功能。这个功能，可能很多同学没听说过，俺简单讲讲。&lt;br/&gt;　　假设你要访问某个网页，但是该网页在墙外，你看不到。咋办捏？你可以往某个特定的邮箱发一封邮件，在邮件的标题或者正文包含你要访问的URL网址，然后该邮箱就会自动给你回信，在信的内容或者附件中，就有你要看的网页了。&lt;br/&gt;　　俺 Google 了一下，找到几个抓网页的邮件地址，大伙儿可以试试看。&lt;br/&gt;&lt;blockquote&gt;submit@web2pdfconvert.com&lt;br/&gt;browse@webinmail.com&lt;br/&gt;www4mail@wm.ictp.trieste.it&lt;br/&gt;www@web2mail.com&lt;br/&gt;send@webtomail.co.cc&lt;br/&gt;text@pagegetter.com&lt;br/&gt;page@grabpage.org&lt;/blockquote&gt;
+　　如果你想帮助俺完善此帖，欢迎来信告知俺（&lt;b&gt;program.think@gmail.com&lt;/b&gt;），上述这几个邮件地址，哪个能工作，哪个不能。如果你找到其它抓页面的邮箱，也欢迎告知俺。&lt;br/&gt;　　再啰嗦一下，用邮件方式浏览网页，建议用【纯文本格式】发邮件，把你要浏览的网址填写在邮件标题和邮件正文里。&lt;br/&gt;　　有了这个穿墙的渠道，你随时都可以获取俺写的“翻墙教程”（网址是 &lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html&lt;/a&gt;），并了解翻墙技术的新动态。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★使用 Web 代理获取&lt;/h2&gt;
+&lt;br/&gt;　　说完邮件穿墙，再来说说 Web 代理。一旦手头的翻墙软件都失效，Web 代理是另一根救命稻草。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇Web代理为何能穿墙？&lt;/h3&gt;
+&lt;br/&gt;　　所谓的 Web 代理，通常指基于 HTTPS 协议的加密 Web 代理。由于它使用加密协议，GFＷ 不便于做敏感词过滤。所以，你有可能通过加密Web代理访问到被墙的网站。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇如何操作？&lt;/h3&gt;
+&lt;br/&gt;　　Web 代理的操作步骤简单，就三步。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第1步&lt;/b&gt;&lt;br/&gt;　　你首先得有一个浏览器 :)。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第2步&lt;/b&gt;&lt;br/&gt;　　其次，到网上找一个加密的 Web 代理（这步是关键，也是难点）。&lt;br/&gt;如何找 Web 代理，得看大伙儿各自的本事了。（通常，搜索引擎用得越溜的，越容易找到）。可能某些天真的同学会问俺，为啥不直接把俺知道的Web代理贴出来给大伙儿用捏？在此，俺要灰常严肃地告诉这些天真的同学们，朝廷的走狗早就在看俺这个博客了。俺如果在这里贴 Web 代理的网址，岂不是正撞到枪口上，便宜了这帮走狗，让它们去封代理。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第3步&lt;/b&gt;&lt;br/&gt;　　假设你运气好，顺利找到一个 Web 代理，要赶紧上反动网站去下载翻墙工具。因为 Web代理通常很短命，用不了几天可能就失效了（被封了）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★使用P2P下载获取&lt;/h2&gt;
+&lt;br/&gt;　　关于“P2P 下载”，想必大伙儿都很熟悉，俺就省点口水，不再扫盲P2P的概念了。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇P2P为何能穿墙？&lt;/h3&gt;
+&lt;br/&gt;　　P2P 应用，由于其分布式的特点，使得 GFＷ 无法对所有的 Peer 都赶尽杀绝。而且很多 P2P 协议是加密传输的，GFＷ 难以搞敏感词过滤。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇以 eMule 为例&lt;/h3&gt;
+&lt;br/&gt;　　P2P下载软件很多，俺就拿电骡来说事儿。&lt;br/&gt;　　eMule俗称电骡，是电驴（eDonkey）的进化版，其官网在“&lt;a href="http://www.emule-project.net/" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”。该软件的相关介绍请看“&lt;a href="https://en.wikipedia.org/wiki/EMule" rel="nofollow" target="_blank"&gt;维基百科&lt;/a&gt;”，俺不再多费口水。用 Emule 获取翻墙工具，也分三步走。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第1步&lt;/b&gt;&lt;br/&gt;　　首先，当然是装eMule啦。你可以到其官方网站下载。如果其官网被封，也可以到国内的软件下载站点去找。eMule名气很大，很容易找到滴 :)&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第2步&lt;/b&gt;&lt;br/&gt;　　装好了 eMul 软件之后，你得联上某个下载服务器，才能下载。eMule 软件默认内置了几个服务器，如果这几个内置的服务器联不上（可能是被封，也可能是连接的用户数满了），你可以通过搜索引擎再找其它的服务器。由于全球有N多的 eMule/eDonkey 服务器，所以 GFＷ 难以全部干掉。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第3步&lt;/b&gt;&lt;br/&gt;　　联上某个 eMule 服务器之后，你就可以搜索上面的文件了。像 自由门、无界 之类，名气比较大的，应该不难找到。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇注意事项&lt;/h3&gt;
+&lt;br/&gt;　　通过 P2P 下载的翻墙工具，可能会含有病毒/木马之类的脏东西。下载后先用杀毒软件查一下。另外，“&lt;a href="../12/gfw-wujie.html"&gt;无界&lt;/a&gt;”、“&lt;a href="../10/gfw-psiphon.html"&gt;赛风&lt;/a&gt;”、“&lt;a href="../../2010/03/choose-free-gate.html"&gt;自由門&lt;/a&gt;”等翻墙工具的 exe 是含有数字签名的，通过查看数字签名，能判断该 exe 是否被篡改了（不会验证数字签名的同学，翻墙看“&lt;a href="../../2010/02/introduce-digital-certificate-and-ca.html#verify_file"&gt;这里&lt;/a&gt;”的介绍）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★通过图片文件方式获取&lt;/h2&gt;
+&lt;br/&gt;　　用图片文件来传播翻墙工具，是一种新思路。具体细节请看俺写的《&lt;a href="../05/use-image-hide-gfw-tool.html"&gt;用图片传播翻墙软件&lt;/a&gt;》。&lt;br/&gt;　　简单地说，就是把包含翻墙工具的压缩文件，嵌入图片文件中。被嵌入的图片，格式上还是有效的。所以，大伙儿可以把这些图片上传到国内（墙内）那些支持贴图的网站。由于图片文件位于墙内，可以轻松下载。下载之后，用 &lt;a href="http://www.7-zip.org/" rel="nofollow" target="_blank"&gt;7zip&lt;/a&gt; 或 WinRAR 都可以直接打开。&lt;br/&gt;　　今后，在俺的 Twitter 帐号（&lt;b&gt;&lt;a href="https://twitter.com/programthink" target="_blank"&gt;@programthink&lt;/a&gt;&lt;/b&gt;）会定期公布这些墙内的下载地址。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★通过社会工程学手段获取&lt;/h2&gt;
+&lt;br/&gt;　　前2年，俺曾经写过一个《&lt;a href="../../2009/05/social-engineering-0-overview.html"&gt;社会工程学扫盲&lt;/a&gt;》的系列。不过，这里说的“社会工程学”，泛指任何“用【非技术】手段获取翻墙工具”的招数。使用这些手段，不是靠技术能力，而是靠社交能力 :-)&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇依靠外企的朋友&lt;/h3&gt;
+&lt;br/&gt;　　国内很多外企都有直通海外的网络专线，这个专线不会被 GFＷ 过滤。所以，如果你有朋友在外企上班，可以找他们帮忙下载翻墙工具，然后再拷给你。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇找海外的朋友做人肉代理&lt;/h3&gt;
+&lt;br/&gt;　　如果你碰巧有熟人在国外，可以找他们帮忙下载翻墙工具。然后再通过邮件发给你。提醒一下，用 Email 发送翻墙工具，为了避免被GFＷ识别出来，最好是压缩一下并【加个口令】。GFＷ已经有针对压缩文件的深度检测能力，我等屁民得警惕啊！&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇找个技术宅男帮忙&lt;/h3&gt;
+&lt;br/&gt;　　假如周围有技术宅男，那你也可以找他要一个翻墙软件。据俺观察，在 IT 行业混的技术宅男，大都熟悉翻墙技能。如果你是个 MM 的话，这招的效果会更加理想 :)&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★结尾&lt;/h2&gt;
+&lt;br/&gt;　　党国经常教育我们，要与时俱进，要保鲜。在翻墙方面，俺一定得响应党国的号召，定期更新翻墙教程，保持翻墙教程的先进性。大伙儿如果觉得俺写的翻墙教程有用，不妨也转发给周围的朋友，让更多人学会翻墙。&lt;br/&gt;最后，还是那句话：&lt;br/&gt;&lt;b&gt;祝愿墙内的网友们都能顺利掌握翻墙姿势，早日呼吸到互联网上自由的空气！&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）：&lt;/b&gt;&lt;br/&gt;&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;如何翻墙&lt;/a&gt;（传说中的扫盲教程，定期更新）&lt;br/&gt;&lt;a href="../09/gfw-faq.html"&gt;常见翻墙问题答疑&lt;/a&gt;（传说中的 FAQ，定期更新）&lt;br/&gt;&lt;a href="../../2013/04/gfw-vpngate.html"&gt;扫盲 VPN Gate——分布式的 VPN 服务器&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2013/11/tor-faq.html"&gt;关于 TOR 的常见问题解答&lt;/a&gt;&lt;br/&gt;&lt;a href="../10/gfw-psiphon.html"&gt;双管齐下的赛风3&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2010/03/choose-free-gate.html"&gt;自由門——TOR 被封之后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../12/gfw-wujie.html"&gt;新版本无界——赛风3失效后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../09/gfw-vpn-hotspot-shield.html"&gt;扫盲 VPN 翻墙——以 Hotspot Shield 为例&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2009/09/break-through-gfw-with-tor.html"&gt;戴“套”翻墻的方法&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2012/06/gfw-i2p.html"&gt;简单扫盲 I2P 的使用&lt;/a&gt;&lt;br/&gt;&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Mon, 07 Sep 2026 01:32:37 +0000</pubDate>
+    <guid isPermaLink="false">34</guid>
+</item>
+
+<item>
+    <title>管理科学 - 039 - 心智模式”系列：认识你自己——心智模式扫盲介绍.epub</title>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (2037 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“心智模式”系列：认识你自己——心智模式扫盲介绍&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2010-02-26&lt;/span&gt;&lt;a class="tag" href="../../tags/E5BF83E79086E5ADA6.html"&gt;心理学&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+&lt;h2 class="sigil_not_in_toc"&gt;★为什么要聊这个话题？&lt;/h2&gt;
+&lt;br/&gt;　　在开博的这一年来，“个人成长”是俺比较关注的话题（本博客开张后的第一个帖子就是“&lt;a href="../../2009/01/0.html"&gt;如何成为优秀的开发人员&lt;/a&gt;”）。而个人的成长，非常重要的一条措施就是“认识自我”（想必很多人都听说过这句古希腊的著名格言吧）。所以，今天俺想从心智模式这个角度，来聊聊如何认识自我。&lt;br/&gt;&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★什么是心智模式？&lt;/h2&gt;
+&lt;br/&gt;　　最早俺是从《&lt;a href="https://docs.google.com/document/d/1gmi62blYo0EEs5-XFPjAZEVlv-lK0gQWqIZSX7t9c0s/" target="_blank"&gt;第五项修炼&lt;/a&gt;》这本【好书】里面，接触到这个名堂滴（今后如有空，得忽悠一下此书）。书中提到的5种修炼大法，其中之一就是：改善心智模式。那“心智模式”到底是嘛玩意儿捏？说实在的，网上找来的定义，稍嫌啰嗦晦涩。而俺的水平有限，只能先给一个模糊的说明，让大伙儿有个肤浅的认识。首先，心智模式包含了你对自己及周围世界的一些看法、观念、定义；然后，在这些看法、观念、定义的基础上，会形成你自己的一些观察的套路、思维的套路、反馈的套路。&lt;br/&gt;　　先来举个例子。《红楼梦》想必大伙儿都听说过吧，此书的奇特之处在于：&lt;q&gt;经学家看见《易》，道学家看见淫，才子看见缠绵，革命家看见排满，流言家看见宫闱秘事&lt;/q&gt;（鲁迅原话）。甚至同一个人在不同年龄段，看完之后也是感悟迥异（当然，也不排除某些人看完就忘了）。&lt;br/&gt;　　为啥会这样捏？通俗地说就是：每个人的人生经历不同，因此性格、观念也不同；而这些就会造成了不同的心智模式，从而在看书的过程中，产生不同的体验。&lt;br/&gt;　　这么说太过简单，为了让大伙儿的理解更深刻一些，俺再来描述一下它是如何起作用滴。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★心智模式如何起作用？&lt;/h2&gt;
+&lt;br/&gt;　　《&lt;a href="https://docs.google.com/document/d/1gmi62blYo0EEs5-XFPjAZEVlv-lK0gQWqIZSX7t9c0s/" target="_blank"&gt;第五项修炼&lt;/a&gt;》中有句话是这么说滴：&lt;q&gt;我们的心智模式不仅影响我们如何认知周围的世界，还决定我们采取何种行动&lt;/q&gt;。这么说有点简单，俺怕有人看不明白。那咱再来打个比方：把我们的大脑类比作计算机。&lt;br/&gt;　　不懂电脑的同学想必也知道它一般都有输入（键盘、鼠标）、处理（CPU）、存储（硬盘）、输出（屏幕、打印机）这几部分。如果两台电脑的硬件一模一样，但是装了不同的软件，那它俩的输入、处理、存储、输出也可能截然不同。（这不是废话！因为装了不同的软件嘛）&lt;br/&gt;　　那其实人也是一个道理。人通过观察获取信息，就好比电脑的输入；人根据信息进行分析、推理等思维活动，好比电脑的CPU处理数据；人把处理的信息记忆下来，好比电脑在储存数据；最后人根据思考而采取某种行动，好比电脑的输出。&lt;br/&gt;　　再回到最初的例子。为啥同样一本书，不同的人，看下来的差别会这么大捏？有些人视而不见，在输入阶段，就把信息丢弃了；有些人虽然把信息接收了，但并没有进行分析处理，仅仅是简单存储下来；还有些人，不光存储下来，还和自己原有的信息进行整合。而造成上述差异的根源，就是心智模式。它就像那电脑软件，决定了信息获得的多寡（观察）、如何处理信息（思考）、如何保存信息（记忆）、如何做出反馈（行动）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★心智模式的重要性&lt;/h2&gt;
+&lt;br/&gt;　　对于俺上面的比喻，可能有网友会跳出来质疑：凭啥说差异是软件造成的，而不是硬件造成的？&lt;br/&gt;　　对于这种观点，俺可以再继续探讨一下。其实电脑的硬件，有如人的生理因素（或者叫天赋）。有些神童具有超强的记忆力，还有些从小就能心算多位数乘除法甚至开根号（据传说，计算机它爹冯·诺依曼就有此能耐）。&lt;br/&gt;　　但是天赋的差异也是符合二八原理滴（还记得俺在半年前写的&lt;a href="../../2009/02/80-20-principle-0-overview.html"&gt;“二八原理”系列&lt;/a&gt;吗？）。特别牛的人毕竟是少数，特别菜的恐怕也不多见。大多数人都在中等层次。（为了形象点，贴图如下）因此，对于大伙儿来讲，导致【普遍】的个体差异，其主要原因，【不是】硬件（生理因素、智力因素），而是软件（心智模式）。&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/39_WpMsKB6-qiViFcb8PW3amYSCgpA-QfnUnklH29G4bK5Gp1p1Nayt4GhYIS584dvJu6kHAGBJu81z1X5TKUT8AkQO5IAPfu1MLzO5SWPV4i_3XFNajCGByieknB_j4J65eEolbzkY"/&gt;&lt;/center&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★心智模式的变化&lt;/h2&gt;
+&lt;br/&gt;　　前面提到，同一个人在不同年龄段看《红楼梦》，可能会有不同的领悟。为啥捏？因为某些人的心智模式会动态发生变化。类似的例子还能举很多，比如刚出校门的大学生，很多是冲劲十足，满怀抱负；工作若干年之后，则变得谨小慎微，圆滑世故。这种现象就是心智模式发生了变化。&lt;br/&gt;　　下面来看两张图（悄悄说一声，这图是从维基百科上剽窃来滴）：&lt;br/&gt;&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/39_v-zZElFngLIDzG7-8TeMASX9qOnEHJhg43OoJapsH5rFrOHcnNWb6HZeMG8Dv8Hlg0VWht5E9JpKG99HUDc9Sc1Bcuq5JvGD6GCI4tRDbuIe3R1r91Jst9v84PX61Dz6x-sBO7S1"/&gt;&lt;/center&gt;
+&lt;br/&gt;　　这头一张图，描述的是静态的心智模式。如果你的心智模式按照这样来运作，那你的心智模式会保持稳定不变。&lt;br/&gt;&lt;br/&gt;&lt;center&gt;&lt;img alt="不见图 请翻墙" src="https://raw.githubusercontent.com/ZHENHUA001A307/HomeofComrades/main/image/39_HFFb4_eq7EAcztyL08LxOFg0vFDnFsnD9tNnWCWFUYh5xQ_km3R4_unsF5XDGWFYzkde66ZjhWZZK52s4n4FuWjb9O74hVzBlAVPxTWyNVi8fDeyfm7B9ufu5RjsaYJ8UuIKYetP"/&gt;&lt;/center&gt;
+&lt;br/&gt;　　而后面一张图，则表示动态的心智模式。从图中可以看出，信息反馈会与心智模式交互，并导致心智模式发生变化。如果你的心智模式更多地属于这种运作模式，会比较有利于适应外部环境的变化。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★结尾&lt;/h2&gt;
+&lt;br/&gt;　　好了，关于心智模式的扫盲介绍，暂且先说到这。今后，俺想结合自个儿的观察和心得，分析几种常见的心智模式及其利弊。希望给列位看官提供小小的参考，那俺也就没白费力气了。万一能引发某些同学更深入的思考，那就更好了。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）&lt;/b&gt;：&lt;br/&gt;&lt;br/&gt;《&lt;a href="../../2012/06/stockholm-syndrome.html"&gt;天朝民众的心理分析：斯德哥尔摩综合症&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../04/how-to-attribute-success-failure.html"&gt;“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/01/stockdale-paradox.html"&gt;“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../07/silent-proof.html"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;》&lt;br/&gt;《&lt;a href="../../2012/06/book-review-road-less-traveled.html"&gt;书评：＜少有人走的路——心智成熟的旅程＞&lt;/a&gt;》&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    <pubDate>Fri, 25 Sep 2026 02:02:33 +0000</pubDate>
+    <guid isPermaLink="false">39</guid>
+</item>
+
 </channel>
 </rss>
