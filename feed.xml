@@ -4,7 +4,7 @@
 <title>科目四：综合技术知识</title>
 <link>https://github.com/ZHENHUA001A307/comprehensive-tech</link>
 <description>各类技术知识分享</description>
-<lastBuildDate>Thu, 01 Oct 2026 06:01:20 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 02:44:54 +0000</lastBuildDate>
 <item>
     <title>管理科学 - 041 - 思维的误区：忽视沉默的大多数.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：11 分钟 (3174 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;&lt;/h1&gt;
@@ -32,6 +32,7 @@
     <pubDate>Tue, 29 Sep 2026 02:51:52 +0000</pubDate>
     <guid isPermaLink="false">41</guid>
 </item>
+
 
 <item>
     <title>管理科学 - 037 - 心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】.epub</title>
@@ -64,6 +65,7 @@
     <guid isPermaLink="false">37</guid>
 </item>
 
+
 <item>
     <title>网安知识 - 030 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：3 分钟 (843 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;"如何翻墙"系列：通过邮件获取翻墙扫盲帖&lt;/a&gt;&lt;/h1&gt;
@@ -78,6 +80,7 @@
     <pubDate>Tue, 18 Aug 2026 00:37:51 +0000</pubDate>
     <guid isPermaLink="false">30</guid>
 </item>
+
 
 <item>
     <title>管理科学 - 027 - 比“欺骗”更狡猾的洗脑——基于【真实数据】进行忽悠.epub</title>
@@ -125,6 +128,7 @@
     <guid isPermaLink="false">27</guid>
 </item>
 
+
 <item>
     <title>网安知识 - 038 - 如何翻墙”系列：用图片传播翻墙软件.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：4 分钟 (1130 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：用图片传播翻墙软件&lt;/a&gt;&lt;/h1&gt;
@@ -145,6 +149,7 @@
     <pubDate>Thu, 24 Sep 2026 01:45:47 +0000</pubDate>
     <guid isPermaLink="false">38</guid>
 </item>
+
 
 <item>
     <title>管理科学 - 031 - 光环效应引发的认知误区.epub</title>
@@ -174,6 +179,7 @@
     <guid isPermaLink="false">31</guid>
 </item>
 
+
 <item>
     <title>网安知识 - 028 - 如何翻墙”系列：自由門——Tor 被封之后的另一个选择.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (1928 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：自由門——Tor 被封之后的另一个选择&lt;/a&gt;&lt;/h1&gt;
@@ -199,131 +205,160 @@
     <guid isPermaLink="false">28</guid>
 </item>
 
+
 <item>
-<title><![CDATA[电工知识 - 186 - 第1部分 电工电路的基础知识.epub]]></title>
-<description><![CDATA[<p style='color:#888;'>⏱ 预计阅读时间：6 分钟 (1778 字)</p><hr><div class="chapter" id="chapter"><div></div>
-<h1 class="kindle-cn-heading1">
-<a href="text00005.html#ch7">
-<span class="da">第<span class="lp1">1</span>
- 部分</span>
-<br/>
-电工电路的基础知识</a>
-</h1>
-<div></div>
-<p class="pagebreak"></p>
-<h2 class="kindle-cn-heading2" id="hh2-0"><a id="pg2"></a>
-<a href="text00005.html#ch7-0">
-<span class="lp1">1.1</span>
- 　<span class="small">电和磁</span>
-</a>
-</h2>
-<p class="kindle-cn-para-left">变化的电流可以产生变化的磁场，变化的磁场也可以感应变化的电流。下面我们学习电和磁的基本概念及电与磁之间的关系。</p>
-<h3 class="kindle-cn-heading3" id="hh3-1">
-<a href="text00005.html#ch7-1"><img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00004.jpg"/>
- 1.1.1　电和磁的基本概念</a>
-</h3>
-<p class="kindle-cn-para-left">电流与磁场可以通过某种方式互换，在学习电与磁之间的关系之前，我们先了解电、磁的基本概念。</p>
-<h4 class="kindle-cn-heading4">
-<span class="lp2">1　电的基本概念</span>
-</h4>
-<p class="kindle-cn-para-left">电具有同性相斥、异性相吸的特性，如图1-1所示，当使用带正电的玻璃棒靠近带正电的软木球时会相互排斥；当使用带负电的橡胶棒靠近带正电的软木球时，会相互吸引。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00005.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-1　电的性质】</p>
-<p class="kindle-cn-para-left"><a id="pg3"></a>
- 电根据种类及特性可分为直流电和交流电。直流电包括直流电流和直流电压；交流电包括交流电流和交流电压。因此，我们有必要先了解一下电流和电压的概念。图1-2为电流和电压的关系。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00006.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-2　电流和电压的关系】</p>
-<p class="kindle-cn-para-left"><a id="pg4"></a>
- 一般由电池、蓄电瓶等产生的电流为直流，即电流的大小和方向不随时间变化，也就是说，正、负极始终不改变，记为“DC”或“dc”，如图1-3所示。</p>
-<p class="kindle-cn-para-left">交流电的电流大小和方向（即正、负极性）会随时间的变化而变化，用“AC”或“ac”表示。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00007.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-3　直流电与交流电】</p>
-<h4 class="kindle-cn-heading4"><a id="pg5"></a>
-<span class="lp2">2　磁的基本概念</span>
-</h4>
-<p class="kindle-cn-para-left">一般提起磁，很多人便会想到磁石或磁铁能吸引铁质物体，指南针会自动指示南北方向。一般物质被称为无磁性或非磁性物体（或材料）。事实上，任何物质都具有磁性，只是有的物质磁性强，有的物质磁性弱；任何空间都存在磁场，只是有的空间磁场强度高，有的空间磁场强度低。图1-4为磁的基本性质。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00008.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-4　磁的基本性质】</p>
-<h3 class="kindle-cn-heading3" id="hh3-2"><a id="pg6"></a>
-<a href="text00005.html#ch7-2"><img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00009.jpg"/>
- 1.1.2　电和磁的关系</a>
-</h3>
-<p class="kindle-cn-para-left">电流与磁场可以通过某种方式互换，即电流感应出磁场或磁场感应出电流。</p>
-<h4 class="kindle-cn-heading4">
-<span class="lp2">1　电流感应磁场</span>
-</h4>
-<p class="kindle-cn-para-left">电流感应磁场的过程如图1-5所示。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00010.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-5　电流感应磁场】</p>
-<h4 class="kindle-cn-heading4"><a id="pg7"></a>
-<span class="lp2">2　磁场感应电流</span>
-</h4>
-<p class="kindle-cn-para-left">磁场感应电流的过程如图1-6所示。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00011.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-6　磁场感应电流】</p>
-<h2 class="kindle-cn-heading2" id="hh2-3"><a id="pg8"></a>
-<a href="text00005.html#ch7-3">
-<span class="lp1">1.2</span>
- 　<span class="small">交流电与交流电路</span>
-</a>
-</h2>
-<p class="kindle-cn-para-left">我们生活中使用的大部分电器产品都需要有交流电才可以正常工作，并且是直接使用交流220V为其供电。</p>
-<h3 class="kindle-cn-heading3" id="hh3-4">
-<a href="text00005.html#ch7-4"><img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00012.jpg"/>
- 1.2.1　认识交流电</a>
-</h3>
-<p class="kindle-cn-para-left">交流电（Alternating current，AC）一般是指电流的大小和方向随时间做周期性的变化。日常生活中所有的电器产品都需要有供电电源才能正常工作，大多数的电器设备都由市电交流220V、50 Hz作为供电电源。这是我国公共用电的统一标准。交流220V电压是指火线对零线的电压。交流电是由交流发电机产生的。交流发电机可以产生单相和多相交流电压，如图1-7所示。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00013.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-7　单相交流电和多相交流电的产生】</p>
-<h4 class="kindle-cn-heading4">
-<span class="lp2">1　单相交流电</span>
-</h4>
-<p class="kindle-cn-para-left">单相交流电是以一个交变电动势作为电源的电力系统，在单相交流电路中，只具有单一的交流电压，电流和电压都按一定的频率随时间变化，如图1-8所示。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00014.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-8　单相交流电】</p>
-<h4 class="kindle-cn-heading4"><a id="pg9"></a>
-<span class="lp2">2　多相交流电</span>
-</h4>
-<p class="kindle-cn-para-left">实用于电力传输和电力设备中的为单相交流电和三相交流电两种，如图1-9所示。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00015.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-9　多相交流电】</p>
-<h3 class="kindle-cn-heading3" id="hh3-5"><a id="pg10"></a>
-<a href="text00005.html#ch7-5"><img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00016.jpg"/>
- 1.2.2　交流电路的应用</a>
-</h3>
-<p class="kindle-cn-para-left">根据交流电供电相数的不同，所应用的交流电路也不相同。大部分单相交流电路应用于照明或家庭用电；多相交流电路应用于工业生产、输电或供配电领域。</p>
-<h4 class="kindle-cn-heading4">
-<span class="lp2">1　单相交流电路的应用</span>
-</h4>
-<p class="kindle-cn-para-left">单相交流电路是由单相电源、单相负载和线路组成的，有一根火线和一根零线，为了安全可再加一根地线。一般情况下，单相交流电源的电压为220V。图1-10为家庭中单相交流电的分配情况。其中，空调器、洗衣机、风扇等对电压稳定性要求不高的电器分为一个支路；电视机、电脑等信息类电器分为一个支路；电灯、微波炉等分为一个支路。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00017.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-10　单相交流电路的应用】</p>
-<h4 class="kindle-cn-heading4"><a id="pg11"></a>
-<span class="lp2">2　三相交流电路的应用</span>
-</h4>
-<p class="kindle-cn-para-left">三相交流电路应用的范围较广，在不同的环境中，三相交流电路的连接方法与负载的连接方法有所区别。图1-11为三相交流电路的不同连接方法。</p>
-<p class="kindle-cn-para-left">用来产生对称三相电动势的电源称为对称三相电源。三相电源具有结构上对称的三相绕组A-X、B-Y、C-Z，分别称为A相、B相和C相。A、B、C称为三相绕组的首端，X、Y、Z称为三相绕组的末端，每相绕组电动势的正方向由末端指向首端。</p>
-<div class="kindle-cn-image"><img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00018.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-11　三相交流电路的不同连接方法】</p>
-<div class="kindle-cn-image"><a id="pg12"></a>
-<img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00019.jpg" style="width:100%"/>
-</div>
-<p class="kindle-cn-caption">【图1-11　三相交流电路的不同连接方法（续）】</p>
-</div>
-]]></description>
+<title>电工知识 - 186 - 第1部分 电工电路的基础知识.epub</title>
+<description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：6 分钟 (1778 字)&lt;/p&gt;&lt;hr&gt;&lt;div class="chapter" id="chapter"&gt;&lt;div&gt;&lt;/div&gt;
+&lt;h1 class="kindle-cn-heading1"&gt;
+&lt;a href="text00005.html#ch7"&gt;
+&lt;span class="da"&gt;第&lt;span class="lp1"&gt;1&lt;/span&gt;
+ 部分&lt;/span&gt;
+&lt;br/&gt;
+电工电路的基础知识&lt;/a&gt;
+&lt;/h1&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;p class="pagebreak"&gt;&lt;/p&gt;
+&lt;h2 class="kindle-cn-heading2" id="hh2-0"&gt;&lt;a id="pg2"&gt;&lt;/a&gt;
+&lt;a href="text00005.html#ch7-0"&gt;
+&lt;span class="lp1"&gt;1.1&lt;/span&gt;
+ 　&lt;span class="small"&gt;电和磁&lt;/span&gt;
+&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p class="kindle-cn-para-left"&gt;变化的电流可以产生变化的磁场，变化的磁场也可以感应变化的电流。下面我们学习电和磁的基本概念及电与磁之间的关系。&lt;/p&gt;
+&lt;h3 class="kindle-cn-heading3" id="hh3-1"&gt;
+&lt;a href="text00005.html#ch7-1"&gt;&lt;img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00004.jpg"/&gt;
+ 1.1.1　电和磁的基本概念&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p class="kindle-cn-para-left"&gt;电流与磁场可以通过某种方式互换，在学习电与磁之间的关系之前，我们先了解电、磁的基本概念。&lt;/p&gt;
+&lt;h4 class="kindle-cn-heading4"&gt;
+&lt;span class="lp2"&gt;1　电的基本概念&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p class="kindle-cn-para-left"&gt;电具有同性相斥、异性相吸的特性，如图1-1所示，当使用带正电的玻璃棒靠近带正电的软木球时会相互排斥；当使用带负电的橡胶棒靠近带正电的软木球时，会相互吸引。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00005.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-1　电的性质】&lt;/p&gt;
+&lt;p class="kindle-cn-para-left"&gt;&lt;a id="pg3"&gt;&lt;/a&gt;
+ 电根据种类及特性可分为直流电和交流电。直流电包括直流电流和直流电压；交流电包括交流电流和交流电压。因此，我们有必要先了解一下电流和电压的概念。图1-2为电流和电压的关系。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00006.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-2　电流和电压的关系】&lt;/p&gt;
+&lt;p class="kindle-cn-para-left"&gt;&lt;a id="pg4"&gt;&lt;/a&gt;
+ 一般由电池、蓄电瓶等产生的电流为直流，即电流的大小和方向不随时间变化，也就是说，正、负极始终不改变，记为“DC”或“dc”，如图1-3所示。&lt;/p&gt;
+&lt;p class="kindle-cn-para-left"&gt;交流电的电流大小和方向（即正、负极性）会随时间的变化而变化，用“AC”或“ac”表示。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00007.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-3　直流电与交流电】&lt;/p&gt;
+&lt;h4 class="kindle-cn-heading4"&gt;&lt;a id="pg5"&gt;&lt;/a&gt;
+&lt;span class="lp2"&gt;2　磁的基本概念&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p class="kindle-cn-para-left"&gt;一般提起磁，很多人便会想到磁石或磁铁能吸引铁质物体，指南针会自动指示南北方向。一般物质被称为无磁性或非磁性物体（或材料）。事实上，任何物质都具有磁性，只是有的物质磁性强，有的物质磁性弱；任何空间都存在磁场，只是有的空间磁场强度高，有的空间磁场强度低。图1-4为磁的基本性质。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00008.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-4　磁的基本性质】&lt;/p&gt;
+&lt;h3 class="kindle-cn-heading3" id="hh3-2"&gt;&lt;a id="pg6"&gt;&lt;/a&gt;
+&lt;a href="text00005.html#ch7-2"&gt;&lt;img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00009.jpg"/&gt;
+ 1.1.2　电和磁的关系&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p class="kindle-cn-para-left"&gt;电流与磁场可以通过某种方式互换，即电流感应出磁场或磁场感应出电流。&lt;/p&gt;
+&lt;h4 class="kindle-cn-heading4"&gt;
+&lt;span class="lp2"&gt;1　电流感应磁场&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p class="kindle-cn-para-left"&gt;电流感应磁场的过程如图1-5所示。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00010.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-5　电流感应磁场】&lt;/p&gt;
+&lt;h4 class="kindle-cn-heading4"&gt;&lt;a id="pg7"&gt;&lt;/a&gt;
+&lt;span class="lp2"&gt;2　磁场感应电流&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p class="kindle-cn-para-left"&gt;磁场感应电流的过程如图1-6所示。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00011.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-6　磁场感应电流】&lt;/p&gt;
+&lt;h2 class="kindle-cn-heading2" id="hh2-3"&gt;&lt;a id="pg8"&gt;&lt;/a&gt;
+&lt;a href="text00005.html#ch7-3"&gt;
+&lt;span class="lp1"&gt;1.2&lt;/span&gt;
+ 　&lt;span class="small"&gt;交流电与交流电路&lt;/span&gt;
+&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p class="kindle-cn-para-left"&gt;我们生活中使用的大部分电器产品都需要有交流电才可以正常工作，并且是直接使用交流220V为其供电。&lt;/p&gt;
+&lt;h3 class="kindle-cn-heading3" id="hh3-4"&gt;
+&lt;a href="text00005.html#ch7-4"&gt;&lt;img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00012.jpg"/&gt;
+ 1.2.1　认识交流电&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p class="kindle-cn-para-left"&gt;交流电（Alternating current，AC）一般是指电流的大小和方向随时间做周期性的变化。日常生活中所有的电器产品都需要有供电电源才能正常工作，大多数的电器设备都由市电交流220V、50 Hz作为供电电源。这是我国公共用电的统一标准。交流220V电压是指火线对零线的电压。交流电是由交流发电机产生的。交流发电机可以产生单相和多相交流电压，如图1-7所示。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00013.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-7　单相交流电和多相交流电的产生】&lt;/p&gt;
+&lt;h4 class="kindle-cn-heading4"&gt;
+&lt;span class="lp2"&gt;1　单相交流电&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p class="kindle-cn-para-left"&gt;单相交流电是以一个交变电动势作为电源的电力系统，在单相交流电路中，只具有单一的交流电压，电流和电压都按一定的频率随时间变化，如图1-8所示。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00014.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-8　单相交流电】&lt;/p&gt;
+&lt;h4 class="kindle-cn-heading4"&gt;&lt;a id="pg9"&gt;&lt;/a&gt;
+&lt;span class="lp2"&gt;2　多相交流电&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p class="kindle-cn-para-left"&gt;实用于电力传输和电力设备中的为单相交流电和三相交流电两种，如图1-9所示。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00015.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-9　多相交流电】&lt;/p&gt;
+&lt;h3 class="kindle-cn-heading3" id="hh3-5"&gt;&lt;a id="pg10"&gt;&lt;/a&gt;
+&lt;a href="text00005.html#ch7-5"&gt;&lt;img alt="image" class="kindle-cn-inline-image2" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00016.jpg"/&gt;
+ 1.2.2　交流电路的应用&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p class="kindle-cn-para-left"&gt;根据交流电供电相数的不同，所应用的交流电路也不相同。大部分单相交流电路应用于照明或家庭用电；多相交流电路应用于工业生产、输电或供配电领域。&lt;/p&gt;
+&lt;h4 class="kindle-cn-heading4"&gt;
+&lt;span class="lp2"&gt;1　单相交流电路的应用&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p class="kindle-cn-para-left"&gt;单相交流电路是由单相电源、单相负载和线路组成的，有一根火线和一根零线，为了安全可再加一根地线。一般情况下，单相交流电源的电压为220V。图1-10为家庭中单相交流电的分配情况。其中，空调器、洗衣机、风扇等对电压稳定性要求不高的电器分为一个支路；电视机、电脑等信息类电器分为一个支路；电灯、微波炉等分为一个支路。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00017.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-10　单相交流电路的应用】&lt;/p&gt;
+&lt;h4 class="kindle-cn-heading4"&gt;&lt;a id="pg11"&gt;&lt;/a&gt;
+&lt;span class="lp2"&gt;2　三相交流电路的应用&lt;/span&gt;
+&lt;/h4&gt;
+&lt;p class="kindle-cn-para-left"&gt;三相交流电路应用的范围较广，在不同的环境中，三相交流电路的连接方法与负载的连接方法有所区别。图1-11为三相交流电路的不同连接方法。&lt;/p&gt;
+&lt;p class="kindle-cn-para-left"&gt;用来产生对称三相电动势的电源称为对称三相电源。三相电源具有结构上对称的三相绕组A-X、B-Y、C-Z，分别称为A相、B相和C相。A、B、C称为三相绕组的首端，X、Y、Z称为三相绕组的末端，每相绕组电动势的正方向由末端指向首端。&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00018.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-11　三相交流电路的不同连接方法】&lt;/p&gt;
+&lt;div class="kindle-cn-image"&gt;&lt;a id="pg12"&gt;&lt;/a&gt;
+&lt;img alt="image" src="https://raw.githubusercontent.com/ZHENHUA001A307/comprehensive-tech/main/image/42_Image00019.jpg" style="width:100%"/&gt;
+&lt;/div&gt;
+&lt;p class="kindle-cn-caption"&gt;【图1-11　三相交流电路的不同连接方法（续）】&lt;/p&gt;
+&lt;/div&gt;
+</description>
 <pubDate>Thu, 01 Oct 2026 06:01:20 +0000</pubDate>
 <guid isPermaLink="false">epub-42</guid>
+</item>
+
+<item>
+<title><![CDATA[001 - 管理科学 - 思维的误区：忽视沉默的大多数.epub]]></title>
+<description><![CDATA[<p style='color:#888;'>⏱ 预计阅读时间：11 分钟 (3174 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">思维的误区：忽视沉默的大多数</a></h1>
+<div class="post-info"><span class="date-header">2010-07-18</span><a class="tag" href="../../tags/E5ADA6E4BC9AE6809DE88083.html">学会思考</a> </div>
+<hr/>
+<div class="post">
+　　本文标题中的“沉默的大多数”，借用了<a href="https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%B3%A2" rel="nofollow" target="_blank">王小波</a>一本杂文集的书名（谨以此文向已故的王小波致敬）。<br/>　　不过俺今天要聊的内容和王小波无关、也和政治无关。今天的内容，是探讨某些思维的误区。这些误区的根源，都在于“忽视了沉默的证据”。<br/><a name="more"></a><!--program-think--><br/><br/><h2 class="sigil_not_in_toc">★误区1：把随机事件当作确定事件</h2>
+<br/>　　在本届（2010）世界杯期间，各种“预言帝”纷纷出笼。从8条腿的章鱼到2条腿的人，都敢于指点未来。关键是这些“预言帝”还很有市场，连不少 IT 行业的开发人员，都被它们蒙住了。下面俺举其中的2个事例。<br/><br/><h3 class="sigil_not_in_toc">◇百度贴吧的未来客</h3>
+<br/>　　在世界杯刚开打的6月13日，一个网名叫“X来自未来”的网友在百度的<a href="http://tieba.baidu.com/f?kw=2012" rel="nofollow" target="_blank">2012吧</a>发了个帖子（在“<a href="http://tieba.baidu.com/f?kz=797481906" rel="nofollow" target="_blank">这里</a>”）。它声称自己来自未来，并给出了世界杯决赛的预言——荷兰对西班牙。等到世界杯半决赛打完，网友们发现果真是西班牙与荷兰争夺冠军。于是该帖自然就在网上疯传。看过此帖的网友中，有相当比例的人，居然信以为真！<br/>　　不过这个把戏并不高明。<br/>　　在世界杯的那32个球队中，有把握进决赛的，也就没几个。玩这个把戏的人，只要把各种排列组合都算出来（大概也就20多种）。然后每一种组合注册一个马甲，分别发到不同的论坛/贴吧。<br/>　　随着比赛不断进行，那些错误的预测会被网友当成胡说，不会引起注意。而最终那个命中的预测，自然会引起很多网友（尤其是缺少判断力的网友）极大的崇拜，并因此吸引众多的眼球。而对于始作俑者，几乎没有什么成本。<br/><br/><h3 class="sigil_not_in_toc">◇神奇的章鱼保罗</h3>
+<br/>　　戳穿“贴吧”的伎俩后，再来说一下名气更大的章鱼保罗（这家伙已经成了全球明星）。保罗的光辉事迹，想必大伙都听说了，俺就不再啰嗦（不了解的网友可以看“<a href="https://zh.wikipedia.org/wiki/%E7%AB%A0%E9%B1%BC%E4%BF%9D%E7%BD%97" rel="nofollow" target="_blank">这里</a>”）。可能很多人都在纳闷——为啥这只低等软体动物，能猜得这么准捏？其实也不奇怪。<br/>　　从网上的资料看，保罗来自德国的奥伯豪森水族馆。显然，德国的水族馆，绝对不止奥伯豪森一家。像世界杯这么大的赛事，其它的那些水族馆或者动物园，也会拿一些小动物来搞搞预测，吸引人气。而且，除了德国，其它的一些国家（比如法国、美国、英国、等）也会有动物园、水族馆在进行这类预测。<br/>　　预测的动物多了之后，总归有少数几只预测比较准确的——这完全符合统计学的规律。那些预测不太准的，自然就被新闻界忽略了；而预测比较准的，自然名声大噪（新闻记者需要这种题材来吸引眼球）。顺便提一下，除了德国的章鱼预测较准，新加坡的一只鹦鹉（马尼），听说预测也较准。<br/><br/><h3 class="sigil_not_in_toc">◇关于生物学的例子</h3>
+<br/>　　说完预测的例子，再来看看生物学方面的例子。<br/>　　在生物界，充满了各种看似神奇的物种。比如蜜蜂建造的蜂巢，可以用最少的蜂蜡构建最大的空间；白蚁也可以建造结构及其复杂的蚁巢；蜘蛛织出来的网，具有几何学的完美性......<br/>　　很多人根据上述的事例，就断定这一切皆有赖于神创。认为自然界无法自发地产生如此精妙的物种。<br/>　　但事实如何捏？实际上，每一个物种的基因，都会【随机地】（盲目地）发生突变。有【少数】变异对物种的繁衍有利，因此这种基因就保留了下来；反之，【绝大多数】差劲的突变，不利于生存竞争，导致生物个体被淘汰，该基因也就消亡了。<br/>　　由于大量的不良基因都已经消亡，所以就被人们忽略了。而咱们现在看到的，都是那些优良的基因在发挥效果。<br/><br/><h3 class="sigil_not_in_toc">◇总结</h3>
+<br/>　　请列位看官琢磨一下，上述几个小故事，是否具有内在的共同点？<br/>　　了解统计学的网友，应该明白：对于一些随机事件，只要统计的样本足够大，也会碰到一些巧合。这些所谓的巧合，实际上完全符合正常的概率分布。<br/>　　但是，由于很多人忽略了大量的样本这个前提。就把本来是随机发生的事情，误以为是预先安排好的、有一定内在规律的。<br/>　　好比你找一堆人来玩抛硬币的游戏，每人抛10次。只要你找的人足够多，总会有人连续10次都是正面。如果你非要追究这10次连续抛出正面，是否有啥内在规律，岂不可笑？<br/><br/><br/><h2 class="sigil_not_in_toc">★误区2：主次颠倒</h2>
+<br/>　　第2类误区说的是：忽略沉默的证据，会使人做出主次颠倒的判断。<br/><br/><h3 class="sigil_not_in_toc">◇关于打仗的例子</h3>
+<br/>　　为了说明这类误区，俺来举一个军事的例子。<br/>　　话说二战时的英国空军，经常派轰炸机去袭击德国。由于德国的防空火力较猛，轰炸机损失较惨重。为了降低飞机的损失，空军的领导们决定给飞机的机身进行装甲加固。由于当时条件所限，只能用装甲加固飞机上的少数部位。<br/>　　然后，英国皇家空军就着手进行研究调查。他们对执行完轰炸任务返航的飞机进行仔细的观察、分析、统计。发现一个现象：大多数的弹孔，都集中在飞机的机翼上；只有少数弹孔位于驾驶舱。<br/>　　假如你负责此事，你会用装甲加固哪个部位呢？估计很多同学会想当然地说：加固机翼（因为机翼的弹孔最多）。但是答案恰恰相反，【最不需要】加固就是机翼。为啥捏？<br/>　　驾驶舱的弹孔最少，说明驾驶舱一旦中弹，飞机就载了，再也回不来。所以，它才是最应该加固的部位。<br/><br/><h3 class="sigil_not_in_toc">◇总结</h3>
+<br/>　　在某些场合下，被你忽略的沉默信息，恰恰是关键信息。很多人会忽视这类关键的沉默信息，反而重视一些显眼，但不关键的信息。<br/>　　在上述这个例子里，很多人想当然地（先验地）认为返航的轰炸机就是全部的样本。当他们开始思索答案的时候，就已经把那些中弹坠毁的飞机忽略掉了。所以，最终得出了相反的结论。<br/><br/><br/><h2 class="sigil_not_in_toc">★误区3：把“沉默”当成“爱恨”的中间态</h2>
+<br/>　　考虑到大多数人是比较感性的，俺最后再说一下（和情感有关的）第三类误区。<br/><br/><h3 class="sigil_not_in_toc">◇关于网站的例子</h3>
+<br/>　　假设有2家网站A和B，都经营类似的业务，都有相当多的用户群。再假设它们都进行了类似的网站界面改版。结果改版之后，网站A没有得到用户的赞扬，反而遭到很多用户的臭骂；而网站B捏，既没有用户夸它，也没有用户骂它。现在，请你来判断一下——哪个网站更得人心？<br/>　　估计又有不少同学会想当然地认为，网站B更受欢迎，毕竟用户没骂它。但事实并非如此。<br/>　　网站A虽然遭到很多用户痛骂，但至少说明，还有很多用户在乎它；而对于网站B，用户对它已经心灰意冷，无所谓了，所以啥反应也没有。<br/>　　末了，俺悄悄告诉大伙儿：网站A指的是 Facebook，网站B影射微软旗下的 Live Spaces。这俩都属于 SNS 类网站。想当初，Facebook 稍微改动了隐私条款，差点被用户的口水淹死；反观 Live Spaces，界面越改越土鳖，功能越改越差劲（俺曾经使用 Live Spaces 搭建过镜像博客，对此深有体会）。但又有多少 Live Spaces 的用户向微软投诉捏？<br/><br/><h3 class="sigil_not_in_toc">◇引申到其它方面</h3>
+<br/>　　虽然刚才是拿网站的用户举例，不过类似的场景在其它领域也很常见。<br/>　　比如在管理方面，如果员工经常对公司的缺点提出批评，至少说明员工还比较在乎公司，希望公司能够改进。<br/>　　比如在婚姻方面，如果夫妻俩经常吵架，说明情况还不是算糟糕。如果双方连吵架都懒得吵，只剩下冷漠以对，那问题才真是严重了。<br/><br/><h3 class="sigil_not_in_toc">◇总结</h3>
+<br/>　　对于这类误区的总结，重点就是一句话：<b>爱的反面【不是】恨，而是漠然</b>。很多时候，沉默/漠然/冷漠，是比“恨”更糟糕的反应。千万不要忽视了这种反应。<br/><br/><br/><h2 class="sigil_not_in_toc">★结尾</h2>
+<br/>　　难得今天比较有空，举了好几个案例，不晓得大伙儿是否能悟出一些道道来？<br/><br/><br/><h2 class="sigil_not_in_toc">★后续更新</h2>
+<br/>　　写完本文5年之后，俺又写了另一篇《<a href="../../2015/05/Survivorship-Bias.html">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》，更全面地介绍“沉默证据”和“幸存者偏见”。<br/><br/><br/><b>俺博客上，和本文相关的帖子（需翻墙）</b>：<br/><br/>《<a href="../../2015/05/Survivorship-Bias.html">思维的误区：幸存者偏见——顺便推荐巴菲特最著名的演讲</a>》<br/>《<a href="../../2014/06/sunk-cost-fallacy-and-loss-aversion.html">思维的误区：从“沉没成本谬误”到“损失厌恶情结”</a>》<br/>《<a href="../../2009/05/halo-effect.html">光环效应引发的认知误区</a>》<br/>《<a href="../../2012/03/think-what-how-why.html">用提问来促进思维——再谈 WHAT HOW WHY 三部曲</a>》<br/>《<a href="../02/about-mental-model.html">认识你自己——心智模式扫盲介绍</a>》<br/>《<a href="../04/how-to-attribute-success-failure.html">“心智模式”系列：你是如何看待【成败】的？——兼谈【有效归因】</a>》<br/>《<a href="../../2009/07/book-review-are-your-lights-on.html">书评：＜你的灯亮着吗？——找到问题的真正所在＞</a>》<br/>《<a href="../../2009/02/from-surface-to-essence.html">学会透过现象看本质，即使现象有时候挺诡异</a>》<div class="blogger-post-footer">
+</div>
+</div>
+]]></description>
+<pubDate>Sat, 03 Oct 2026 02:44:54 +0000</pubDate>
+<guid isPermaLink="false">epub-1</guid>
 </item>
 <item>
     <title>管理科学 - 033 - 书评：《少有人走的路——心智成熟的旅程》.epub</title>
@@ -356,6 +391,7 @@
     <guid isPermaLink="false">33</guid>
 </item>
 
+
 <item>
     <title>网安知识 - 040 - 如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：12 分钟 (3524 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例&lt;/a&gt;&lt;/h1&gt;
@@ -383,6 +419,7 @@
     <guid isPermaLink="false">40</guid>
 </item>
 
+
 <item>
     <title>网安知识 - 032 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖（邮件地址变更）.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：4 分钟 (928 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;"如何翻墙"系列：通过邮件获取翻墙扫盲帖（邮件地址变更）&lt;/a&gt;&lt;/h1&gt;
@@ -397,6 +434,7 @@
     <pubDate>Mon, 24 Aug 2026 00:32:26 +0000</pubDate>
     <guid isPermaLink="false">32</guid>
 </item>
+
 
 <item>
     <title>网安知识 - 036 - 如何翻墙”系列：基于 Skype 翻墙.epub</title>
@@ -430,6 +468,7 @@
     <pubDate>Mon, 21 Sep 2026 01:59:13 +0000</pubDate>
     <guid isPermaLink="false">36</guid>
 </item>
+
 
 <item>
     <title>管理科学 - 029 - 批判性思维扫盲：学会区分“事实”与“观点”.epub</title>
@@ -471,6 +510,7 @@
     <guid isPermaLink="false">29</guid>
 </item>
 
+
 <item>
     <title>管理科学 - 035 - 心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：8 分钟 (2108 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”&lt;/a&gt;&lt;/h1&gt;
@@ -490,6 +530,7 @@
     <pubDate>Mon, 14 Sep 2026 01:59:29 +0000</pubDate>
     <guid isPermaLink="false">35</guid>
 </item>
+
 
 <item>
     <title>网安知识 - 034 - 如何翻墙”系列：获取翻墙软件方法大全.epub</title>
@@ -526,6 +567,7 @@
     <guid isPermaLink="false">34</guid>
 </item>
 
+
 <item>
     <title>管理科学 - 039 - 心智模式”系列：认识你自己——心智模式扫盲介绍.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (2037 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“心智模式”系列：认识你自己——心智模式扫盲介绍&lt;/a&gt;&lt;/h1&gt;
@@ -548,6 +590,7 @@
     <pubDate>Fri, 25 Sep 2026 02:02:33 +0000</pubDate>
     <guid isPermaLink="false">39</guid>
 </item>
+
 
 </channel>
 </rss>
