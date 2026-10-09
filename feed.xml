@@ -4,7 +4,7 @@
 <title>科目四：综合技术知识</title>
 <link>https://github.com/ZHENHUA001A307/comprehensive-tech</link>
 <description>各类技术知识分享</description>
-<lastBuildDate>Thu, 08 Oct 2026 03:07:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 11:01:30 +0000</lastBuildDate>
 <item>
     <title>管理科学 - 041 - 思维的误区：忽视沉默的大多数.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：11 分钟 (3174 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;&lt;/h1&gt;
@@ -32,6 +32,7 @@
     <pubDate>Tue, 29 Sep 2026 02:51:52 +0000</pubDate>
     <guid isPermaLink="false">41</guid>
 </item>
+
 
 
 
@@ -72,6 +73,7 @@
 
 
 
+
 <item>
     <title>网安知识 - 030 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：3 分钟 (843 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;"如何翻墙"系列：通过邮件获取翻墙扫盲帖&lt;/a&gt;&lt;/h1&gt;
@@ -86,6 +88,7 @@
     <pubDate>Tue, 18 Aug 2026 00:37:51 +0000</pubDate>
     <guid isPermaLink="false">30</guid>
 </item>
+
 
 
 
@@ -141,6 +144,7 @@
 
 
 
+
 <item>
 <title>003 - 管理科学 - 思维的误区：从“沉没成本谬误”到“损失厌恶情结”.epub</title>
 <description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：17 分钟 (4818 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;思维的误区：从“沉没成本谬误”到“损失厌恶情结”&lt;/a&gt;&lt;/h1&gt;
@@ -182,6 +186,7 @@
 <guid isPermaLink="false">epub-3</guid>
 </item>
 
+
 <item>
     <title>网安知识 - 038 - 如何翻墙”系列：用图片传播翻墙软件.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：4 分钟 (1130 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：用图片传播翻墙软件&lt;/a&gt;&lt;/h1&gt;
@@ -202,6 +207,7 @@
     <pubDate>Thu, 24 Sep 2026 01:45:47 +0000</pubDate>
     <guid isPermaLink="false">38</guid>
 </item>
+
 
 
 
@@ -239,6 +245,7 @@
 
 
 
+
 <item>
     <title>网安知识 - 028 - 如何翻墙”系列：自由門——Tor 被封之后的另一个选择.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (1928 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：自由門——Tor 被封之后的另一个选择&lt;/a&gt;&lt;/h1&gt;
@@ -268,31 +275,33 @@
 
 
 
+
 <item>
-<title><![CDATA[004 - 网安知识 - 扫盲“社会工程学”[1]：攻击手法之【信息收集】.epub]]></title>
-<description><![CDATA[<p style='color:#888;'>⏱ 预计阅读时间：7 分钟 (1812 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">扫盲“社会工程学”[1]：攻击手法之【信息收集】</a></h1>
-<div class="post-info"><span class="date-header">2009-05-06</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E4BFA1E681AFE5AE89E585A8.html">IT.信息安全</a> </div>
-<hr/>
-<div class="post">
-　　<a href="social-engineering-0-overview.html">上一个帖子</a>普及了一些基本概念和常识，接下来就得说点实在的货色：介绍一下攻击者常用的套路。攻击者的套路大致可以分为如下几个步骤：<a href="social-engineering-1-gather-information.html">信息收集</a>、<a href="social-engineering-2-pretend.html">假冒身份</a>、<a href="social-engineering-3-influence.html">施加影响</a>、实施最终的攻击。由于每个步骤介绍起来都蛮长的，俺今天先来介绍“信息收集”这个步骤。<a name="more"></a><!--program-think--><br/><br/><br/><h2 class="sigil_not_in_toc">★什么是信息收集？</h2>
-<br/>　　信息收集就是通过各种手段去获取机构、组织、公司（以下统一简称“机构”）的一些【不敏感】信息。为啥特地强调“不敏感”捏？如果信息不敏感，就不会有特别严格的访问限制，攻击者也就容易得手。而且在获取这种信息的过程中，不易引起别人的注意，降低了攻击者自身的风险。<br/><br/><br/><h2 class="sigil_not_in_toc">★收集的信息有啥用捏？</h2>
-<br/>　　大部分社会工程攻击者都会从信息收集入手。但信息收集往往【不是】攻击者的最终目的，仅仅是攻击者进入下一个阶段的前期准备工作。大多数攻击者拿到这些信息之后，多半会用来包装自己，以便进行后续的身份假冒。具体如何该包装和冒充，俺会在下一个帖子里介绍。<br/><br/><br/><h2 class="sigil_not_in_toc">★哪些信息属于不敏感信息？</h2>
-<br/>　　典型的<b>不敏感</b>信息有如下几种：<br/><br/><h3 class="sigil_not_in_toc">◇某些关键人物的资料</h3>
-<br/>　　这里说的“资料”包括该人物所处的部门、担任的职位、电子邮箱、手机号、座机分机号等。大伙儿注意一下，此处的【关键人物】，不一定是名气大或位高权重的人，而是指这些人位于攻击路线上的关键点。攻击者必须利用这些人来达到某种目的。<br/><br/><h3 class="sigil_not_in_toc">◇机构内部某些操作流程的步骤</h3>
-<br/>　　每个机构内部都有若干操作流程（比如报销流程、审批流程等），这些流程对于攻击者非常有用。一旦摸清了这些流程的细节，攻击者就能知道每一个攻击环节会涉及哪些对象，这些对象分别处于什么部门？担任什么职务？具有什么授权？<br/><br/><h3 class="sigil_not_in_toc">◇机构内部的组织结构关系</h3>
-<br/>　　机构的组织结构关系包括如下几个方面：各个部门的隶属关系、部门之间的业务往来、职权的划分、某个部门是强势还是弱势等等信息。<br/>　　组织结构图的用处类似于操作流程，俺就不再多啰嗦了。<br/><br/><h3 class="sigil_not_in_toc">◇机构内部常用的一些术语和行话</h3>
-<br/>　　大部分攻击者都会收集一些机构内部的术语和行话。当攻击者在和机构内的其他人员交流时，如果能熟练地使用各种专用的术语和行话，就可以有效打消其他人的疑虑，并获得信任。<br/><br/>　　上述这些信息似乎蛮普通的，在大伙儿看来好像没啥价值。但是这些信息到了攻击者手中就能发挥出巨大的作用（具体细节，可以看“<a href="social-engineering-2-pretend.html#sample">这里的示例</a>”）。<br/><br/><br/><h2 class="sigil_not_in_toc">★如何收集到不敏感信息？</h2>
-<br/>　　收集这些普通信息的途径大致有如下几种：<br/><br/><h3 class="sigil_not_in_toc">◇通过网站和搜索引擎</h3>
-<br/>　　比如，很多机构的内部操作流程直接放在官方网站上，可以轻易获取。还有很多不敏感信息，攻击者通过 Google 就能找到一大把。<br/><br/><h3 class="sigil_not_in_toc">◇通过离职员工</h3>
-<br/>　　有些时候，某个员工（哪怕是一个很小的角色）跳槽到竞争对手那里，就可以带来很丰富的信息。保本的话，至少能拿到原公司的通讯录；稍好一些的话，还能拿到组织结构图以及更深层次的一些东东。<br/><br/><h3 class="sigil_not_in_toc">◇通过垃圾分析</h3>
-<br/>　　很多机构对于一些普通的打印材料，直接丢到垃圾桶，不会经过碎纸机处理。所以攻击者可以从办公垃圾中找到很多有用的信息。<br/>　　举一个简单的例子：很多公司每当有新员工入职，人事或者行政人员都会打印一张清单给新员工。清单上面<b>可能</b>会有如下内容：<br/><i>公司内部常用服务器（比如打印服务器、文件服务器）的IP地址<br/>新员工外部邮箱的名称和默认口令<br/>公司内部系统（比如 ERP 系统、MIS 系统等）的用户名和默认口令<br/>某些内部系统的简单使用说明</i><br/>　　如果某个新员工没有【立即】修改默认口令（有相当比例的新员工不会在入职当天立即修改【所有的】默认口令），并且把这个清单直接丢到垃圾桶。那对于垃圾分析者来说，可就捡了大便宜啦！<br/>　　不过捏，垃圾分析方法属于苦差事。使用此招数，每次都要捏着鼻子，在垃圾箱里翻上好几个小时。但还是有很多商业间谍乐此不疲。<br/><br/><h3 class="sigil_not_in_toc">◇通过电话问讯</h3>
-<br/>　　某些攻击者直接打电话给前台或者客户服务部，通过某些技巧（<a href="social-engineering-2-pretend.html#sample">后面的帖子</a>详述），就能套出很多有价值的信息。<br/>　　为啥攻击者特别偏爱于前台和客服人员捏？这里面可是大有讲究啊！一般来说，前台和客户服务人员都属于机构内的服务支撑部门。这些部门的员工经常被培训成具有如下特质：不怨其烦、热情好客、乐于助人。所以，这类员工会比较有耐心，也比较能满足攻击者的一些（哪怕是有点无理的）要求。<br/><br/>　　上述就是社会工程学中，信息收集的基本常识。本系列的下一个帖子，咱们来聊一下“<a href="social-engineering-2-pretend.html">假冒身份</a>”的话题。<br/><br/><br/><a href="social-engineering-0-overview.html#index">回到本系列的目录</a><div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
+<title>004 - 网安知识 - 扫盲“社会工程学”[1]：攻击手法之【信息收集】.epub</title>
+<description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：7 分钟 (1812 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;扫盲“社会工程学”[1]：攻击手法之【信息收集】&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2009-05-06&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E4BFA1E681AFE5AE89E585A8.html"&gt;IT.信息安全&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　&lt;a href="social-engineering-0-overview.html"&gt;上一个帖子&lt;/a&gt;普及了一些基本概念和常识，接下来就得说点实在的货色：介绍一下攻击者常用的套路。攻击者的套路大致可以分为如下几个步骤：&lt;a href="social-engineering-1-gather-information.html"&gt;信息收集&lt;/a&gt;、&lt;a href="social-engineering-2-pretend.html"&gt;假冒身份&lt;/a&gt;、&lt;a href="social-engineering-3-influence.html"&gt;施加影响&lt;/a&gt;、实施最终的攻击。由于每个步骤介绍起来都蛮长的，俺今天先来介绍“信息收集”这个步骤。&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★什么是信息收集？&lt;/h2&gt;
+&lt;br/&gt;　　信息收集就是通过各种手段去获取机构、组织、公司（以下统一简称“机构”）的一些【不敏感】信息。为啥特地强调“不敏感”捏？如果信息不敏感，就不会有特别严格的访问限制，攻击者也就容易得手。而且在获取这种信息的过程中，不易引起别人的注意，降低了攻击者自身的风险。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★收集的信息有啥用捏？&lt;/h2&gt;
+&lt;br/&gt;　　大部分社会工程攻击者都会从信息收集入手。但信息收集往往【不是】攻击者的最终目的，仅仅是攻击者进入下一个阶段的前期准备工作。大多数攻击者拿到这些信息之后，多半会用来包装自己，以便进行后续的身份假冒。具体如何该包装和冒充，俺会在下一个帖子里介绍。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★哪些信息属于不敏感信息？&lt;/h2&gt;
+&lt;br/&gt;　　典型的&lt;b&gt;不敏感&lt;/b&gt;信息有如下几种：&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇某些关键人物的资料&lt;/h3&gt;
+&lt;br/&gt;　　这里说的“资料”包括该人物所处的部门、担任的职位、电子邮箱、手机号、座机分机号等。大伙儿注意一下，此处的【关键人物】，不一定是名气大或位高权重的人，而是指这些人位于攻击路线上的关键点。攻击者必须利用这些人来达到某种目的。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇机构内部某些操作流程的步骤&lt;/h3&gt;
+&lt;br/&gt;　　每个机构内部都有若干操作流程（比如报销流程、审批流程等），这些流程对于攻击者非常有用。一旦摸清了这些流程的细节，攻击者就能知道每一个攻击环节会涉及哪些对象，这些对象分别处于什么部门？担任什么职务？具有什么授权？&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇机构内部的组织结构关系&lt;/h3&gt;
+&lt;br/&gt;　　机构的组织结构关系包括如下几个方面：各个部门的隶属关系、部门之间的业务往来、职权的划分、某个部门是强势还是弱势等等信息。&lt;br/&gt;　　组织结构图的用处类似于操作流程，俺就不再多啰嗦了。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇机构内部常用的一些术语和行话&lt;/h3&gt;
+&lt;br/&gt;　　大部分攻击者都会收集一些机构内部的术语和行话。当攻击者在和机构内的其他人员交流时，如果能熟练地使用各种专用的术语和行话，就可以有效打消其他人的疑虑，并获得信任。&lt;br/&gt;&lt;br/&gt;　　上述这些信息似乎蛮普通的，在大伙儿看来好像没啥价值。但是这些信息到了攻击者手中就能发挥出巨大的作用（具体细节，可以看“&lt;a href="social-engineering-2-pretend.html#sample"&gt;这里的示例&lt;/a&gt;”）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★如何收集到不敏感信息？&lt;/h2&gt;
+&lt;br/&gt;　　收集这些普通信息的途径大致有如下几种：&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇通过网站和搜索引擎&lt;/h3&gt;
+&lt;br/&gt;　　比如，很多机构的内部操作流程直接放在官方网站上，可以轻易获取。还有很多不敏感信息，攻击者通过 Google 就能找到一大把。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇通过离职员工&lt;/h3&gt;
+&lt;br/&gt;　　有些时候，某个员工（哪怕是一个很小的角色）跳槽到竞争对手那里，就可以带来很丰富的信息。保本的话，至少能拿到原公司的通讯录；稍好一些的话，还能拿到组织结构图以及更深层次的一些东东。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇通过垃圾分析&lt;/h3&gt;
+&lt;br/&gt;　　很多机构对于一些普通的打印材料，直接丢到垃圾桶，不会经过碎纸机处理。所以攻击者可以从办公垃圾中找到很多有用的信息。&lt;br/&gt;　　举一个简单的例子：很多公司每当有新员工入职，人事或者行政人员都会打印一张清单给新员工。清单上面&lt;b&gt;可能&lt;/b&gt;会有如下内容：&lt;br/&gt;&lt;i&gt;公司内部常用服务器（比如打印服务器、文件服务器）的IP地址&lt;br/&gt;新员工外部邮箱的名称和默认口令&lt;br/&gt;公司内部系统（比如 ERP 系统、MIS 系统等）的用户名和默认口令&lt;br/&gt;某些内部系统的简单使用说明&lt;/i&gt;&lt;br/&gt;　　如果某个新员工没有【立即】修改默认口令（有相当比例的新员工不会在入职当天立即修改【所有的】默认口令），并且把这个清单直接丢到垃圾桶。那对于垃圾分析者来说，可就捡了大便宜啦！&lt;br/&gt;　　不过捏，垃圾分析方法属于苦差事。使用此招数，每次都要捏着鼻子，在垃圾箱里翻上好几个小时。但还是有很多商业间谍乐此不疲。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇通过电话问讯&lt;/h3&gt;
+&lt;br/&gt;　　某些攻击者直接打电话给前台或者客户服务部，通过某些技巧（&lt;a href="social-engineering-2-pretend.html#sample"&gt;后面的帖子&lt;/a&gt;详述），就能套出很多有价值的信息。&lt;br/&gt;　　为啥攻击者特别偏爱于前台和客服人员捏？这里面可是大有讲究啊！一般来说，前台和客户服务人员都属于机构内的服务支撑部门。这些部门的员工经常被培训成具有如下特质：不怨其烦、热情好客、乐于助人。所以，这类员工会比较有耐心，也比较能满足攻击者的一些（哪怕是有点无理的）要求。&lt;br/&gt;&lt;br/&gt;　　上述就是社会工程学中，信息收集的基本常识。本系列的下一个帖子，咱们来聊一下“&lt;a href="social-engineering-2-pretend.html"&gt;假冒身份&lt;/a&gt;”的话题。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="social-engineering-0-overview.html#index"&gt;回到本系列的目录&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
 <pubDate>Thu, 08 Oct 2026 03:07:41 +0000</pubDate>
 <guid isPermaLink="false">epub-4</guid>
 </item>
+
 <item>
 <title>电工知识 - 186 - 第1部分 电工电路的基础知识.epub</title>
 <description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：6 分钟 (1778 字)&lt;/p&gt;&lt;hr&gt;&lt;div class="chapter" id="chapter"&gt;&lt;div&gt;&lt;/div&gt;
@@ -423,6 +432,7 @@
 
 
 
+
 <item>
 <title>001 - 管理科学 - 思维的误区：忽视沉默的大多数.epub</title>
 <description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：11 分钟 (3174 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;&lt;/h1&gt;
@@ -450,6 +460,7 @@
 <pubDate>Sat, 03 Oct 2026 02:44:54 +0000</pubDate>
 <guid isPermaLink="false">epub-1</guid>
 </item>
+
 
 
 
@@ -488,6 +499,7 @@
 
 
 
+
 <item>
     <title>网安知识 - 040 - 如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：12 分钟 (3524 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例&lt;/a&gt;&lt;/h1&gt;
@@ -519,6 +531,7 @@
 
 
 
+
 <item>
     <title>网安知识 - 032 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖（邮件地址变更）.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：4 分钟 (928 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;"如何翻墙"系列：通过邮件获取翻墙扫盲帖（邮件地址变更）&lt;/a&gt;&lt;/h1&gt;
@@ -533,6 +546,7 @@
     <pubDate>Mon, 24 Aug 2026 00:32:26 +0000</pubDate>
     <guid isPermaLink="false">32</guid>
 </item>
+
 
 
 
@@ -570,6 +584,7 @@
     <pubDate>Mon, 21 Sep 2026 01:59:13 +0000</pubDate>
     <guid isPermaLink="false">36</guid>
 </item>
+
 
 
 
@@ -619,6 +634,7 @@
 
 
 
+
 <item>
     <title>管理科学 - 035 - 心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：8 分钟 (2108 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”&lt;/a&gt;&lt;/h1&gt;
@@ -638,6 +654,7 @@
     <pubDate>Mon, 14 Sep 2026 01:59:29 +0000</pubDate>
     <guid isPermaLink="false">35</guid>
 </item>
+
 
 
 
@@ -682,6 +699,7 @@
 
 
 
+
 <item>
 <title>002 - 网安知识 - 扫盲“社会工程学”[0]：基本常识.epub</title>
 <description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：6 分钟 (1784 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;扫盲“社会工程学”[0]：基本常识&lt;/a&gt;&lt;/h1&gt;
@@ -702,6 +720,7 @@
 <pubDate>Mon, 05 Oct 2026 02:31:44 +0000</pubDate>
 <guid isPermaLink="false">epub-2</guid>
 </item>
+
 
 
 <item>
@@ -726,6 +745,7 @@
     <pubDate>Fri, 25 Sep 2026 02:02:33 +0000</pubDate>
     <guid isPermaLink="false">39</guid>
 </item>
+
 
 
 
