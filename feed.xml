@@ -4,30 +4,31 @@
 <title>科目四：综合技术知识</title>
 <link>https://github.com/ZHENHUA001A307/comprehensive-tech</link>
 <description>各类技术知识分享</description>
-<lastBuildDate>Wed, 21 Oct 2026 04:19:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 03:46:20 +0000</lastBuildDate>
 <item>
-<title><![CDATA[008 - 网安知识 - 扫盲“社会工程学”[3]：攻击手法之【施加影响】.epub]]></title>
-<description><![CDATA[<p style='color:#888;'>⏱ 预计阅读时间：9 分钟 (2559 字)</p><hr><h1><a href="../../index_origin.html" title="回到首页">扫盲“社会工程学”[3]：攻击手法之【施加影响】</a></h1>
-<div class="post-info"><span class="date-header">2009-05-19</span><a class="tag" href="../../tags/IT.html">IT</a> <a class="tag" href="../../tags/IT.E4BFA1E681AFE5AE89E585A8.html">IT.信息安全</a> <a class="tag" href="../../tags/E5BF83E79086E5ADA6.html">心理学</a> </div>
-<hr/>
-<div class="post">
-　　<a href="social-engineering-2-pretend.html">上一个帖子</a>咱们介绍了社会工程中<b>包装</b>的技巧。按照<a href="social-engineering-0-overview.html">本系列</a>的计划，今天要讨论的内容是：“如何施加影响”。<a name="more"></a><!--program-think--><br/><br/><br/><h2 class="sigil_not_in_toc">★关于《影响力》</h2>
-<br/>　　说到施加影响以及相关的技巧，就不得不提及《影响力》这本书。这真是一本好书啊，很值得俺专门写一个书评来忽悠一下。不过捏，刘未鹏同学已经抢先 N 步，写了此书的评论（在“<a href="http://blog.csdn.net/pongba/archive/2007/06/22/1662148.aspx" rel="nofollow" target="_blank">这里</a>”），所以俺就不再浪费打字的力气去做重复劳动了。<br/>　　《影响力》这本书高屋建瓴地总结了“对他人施加影响”的种种伎俩。这些伎俩似乎不够光明正大，但常常能收到奇效。如果你从来没有读过此书，强烈建议你先去拜读一下（<a href="https://github.com/programthink/books" target="_blank">俺的网盘</a>提供了本书电子版的下载，参见“心理学”大类），再接着来看本帖后续的内容。<br/>......<br/>......<br/>......<br/>　　现在，不妨假设你已经拜读过《影响力》。接着，咱们来看看书上的那些技巧是如何运用在社会工程学当中的。<br/><br/><br/><h2 class="sigil_not_in_toc">★博取好感</h2>
-<br/>　　博取好感是施加影响的手法中，最基本的招数。具体的技巧有很多种，咱今天只介绍常见的几种。<br/><br/><h3 class="sigil_not_in_toc">◇通过外在特征的“光环效应”</h3>
-<br/>　　此处所说的外在特征，包括相貌、嗓音、着装、甚至姓名等诸多方面；此处所说的“<b>光环效应</b>”（也叫光晕效应、晕轮效应），是指对某人的某个局部特征的看法被扩大化，变成对此人整体的看法。这么说比较抽象，咱来看下面几个例子。另外，俺单独写了一个帖子详细介绍“光环效应”，在“<a href="halo-effect.html">这里</a>”。<br/><br/><b>举例1（以貌取人）</b><br/>据说当年马云创业时，出去推销产品，别人一看到他都觉得他是坏人。显然，相貌和人品没有必然联系。但是很多人在潜意识里，都会把长得歪瓜裂枣的人当成坏人。<br/><b>举例2（以名取人）</b><br/>比如很多歌星、影星仅仅由于演技好，其 fans 就把演技扩大化，认为他们/她们样样都好。其实演技好和人品好没有必然联系。<br/>所以俺在<a href="social-engineering-2-pretend.html">前一个帖子</a>里强调社会工程的攻击者需要有好的嗓音（有时甚至需要有好的相貌），就是为了能发挥光环效应。<br/><br/><h3 class="sigil_not_in_toc">◇通过相似性来博取好感</h3>
-<br/>　　所谓的“<b>相似性</b>”，范畴很广，常见的有如下一些：同学、同乡、同校（校友）、爱好相同（比如都喜欢看球，甚至都喜欢某个球星）、经历相同、等。<br/>很多攻击者善于通过看似不经意的闲聊，和被攻击者扯上某种关系，让被攻击者的好感油然而生。<br/><br/><br/><h2 class="sigil_not_in_toc">★通过互惠原理来骗取好处</h2>
-<br/>　　俺在看了《影响力》之后，才意识到互惠原则的效果竟然如此巨大。真是不看不知道，一看吓一跳。具体的例子书上举了很多，俺这里主要总结互惠原则的两种运用招式。<br/><br/><h3 class="sigil_not_in_toc">◇初级招式：“投桃报李”式</h3>
-<br/>　　“投桃报李”式比较好理解，简单说就是给予对方一点小甜头，然后再索取点小回报。<br/>　　为了形象点，举例说明：<br/>　　比如有个攻击者在信息收集阶段，想了解某个连锁商店店长的信息。攻击者打电话给该商店（接电话的是某店员），谎称自己是一位长期客户，由于该店的服务很好，想写封表扬信给店长。店员一听就很爽，立马就把店长的详细信息告知对方。<br/><br/><h3 class="sigil_not_in_toc">◇高级招式：“拒绝-退让”式</h3>
-<br/>　　“拒绝-退让”式比“投桃报李”式要高级一些。这个招式实际上包含了互惠原理和<b>对比原理</b>，如果把握得当，效果比“投桃报李”要好很多。具体的实施分两个步骤进行：先提出一个很高（比较过分）的要求（以下简称 A），对方多半会拒绝；然后，攻击者主动作出让步（撤回该要求），再提一个（相对 A 来说）比较低的要求（以下简称 B），这时对方多半会答应。其实 A 仅仅是一个烟雾弹，并不是攻击者的真实意图。攻击者真正想达成的是 B。<br/>　　这个招式的难点在于把握A的尺度。A必须和B形成比较明显的反差（利用对比原理），通过A来衬托出B的微不足道。这样，对方拒绝了A之后，潜意识里觉得B反正很微不足道，再加上互惠原理的作用，就会很容易地接受B。<br/>　　比如有些攻击者在收集信息时，可以先索取某个比较敏感的信息，如果对方拒绝了，就转而索取一个不敏感的信息。<br/><br/><br/><h2 class="sigil_not_in_toc">★通过社会认同来施加影响</h2>
-<br/>　　所谓的“社会认同”，通俗地说就是人云亦云、随大流。大多数人都有这个毛病，否则也不会有那么多跟风、赶时髦的家伙了。<br/>　　那社会工程者如何运用这个伎俩捏？一个常见的方法就是“造势”。通过制造某种舆论来引导（或者叫“误导”）被攻击者，从而达到目的。这种方式有两个要点：<br/>　　首先，要达成某种规模效应。一旦规模形成，由于“社会认同”的影响，就会变成正反馈，导致越来越多的人被卷入。<br/>　　其次，要注意引导的技巧。具体要如何“引导”捏？常见的有：“制造狂热”、“制造恐慌”、“制造愤怒”、“制造反感”等方式。当人们处于狂热、恐慌、愤怒、反感等状态时，会变得情绪化。这时候，感性的因素就会占主导，同时会丧失理性的判断，从而被一小撮人所利用。<br/>　　从本质上分析，这两个要点依然是借助了心理学层面的因素来起作用。关于造势的例子，大伙儿可以看看源自 IT 行业的 FUD（Fear, Uncertainty, Doubt，具体解释见“<a href="https://zh.wikipedia.org/wiki/FUD" rel="nofollow" target="_blank">这里</a>”）手法。<br/>　　写到这里，突然联想到：其实天朝的毛太祖，就是造势、造舆论的高手啊！上述的两个要点发挥得炉火纯青，不得不令人佩服啊！<br/><br/><br/><h2 class="sigil_not_in_toc">★通过权威来施加压力</h2>
-<br/>　　大部分人都有服从权威的倾向。因此攻击者可以通过树立或借助权威，让对方服从自己的一些不太合理的要求。<br/>　　比如有的攻击者假冒成某 VP（Vice President）的秘书，声称该 VP 急需某某文件或资料，那么对方就会迫于压力而答应。这个招数在等级森严的组织机构，效果特别好。<br/><br/><br/><h2 class="sigil_not_in_toc">★总结</h2>
-<br/>　　有句话俺必须再啰嗦一下：按照<a href="../02/80-20-principle-0-overview.html">二八原理</a>，<b>大部分人都是感性的</b>。为啥上述的这些伎俩能够屡试不爽？就因为这些技巧充分利用了人们感性的弱点。如果你是一个感性的人，那可要小心啦：你可能会容易入上述这些圈套，平时须得小心防范。<br/>　　不过捏，凡事总有两面性滴。你一方面要提防别人通过这些招数影响你，另一个方面，你也可以利用这些东东去影响别人。虽说今天是为了介绍社会工程学才扯了这么多施加影响的招数，但这些玩意儿可不仅仅限于社会工程学哦。在很多很多不同的领域（比如：管理、谈判、社交、追 MM/GG、推销 ......），今天讲的这些东西都是非常有用滴。大伙儿一定要活学活用、举一反三啊，才不枉费俺打了这么多字！<br/>　　本系列的<a href="../06/social-engineering-4-example.html">下一个帖子</a>，咱们搞几个综合的示例来分析一下。<br/><br/><br/><a href="social-engineering-0-overview.html#index">回到本系列的目录</a><div class="blogger-post-footer">
-</div>
-</div>
-]]></description>
+<title>008 - 网安知识 - 扫盲“社会工程学”[3]：攻击手法之【施加影响】.epub</title>
+<description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：9 分钟 (2559 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;扫盲“社会工程学”[3]：攻击手法之【施加影响】&lt;/a&gt;&lt;/h1&gt;
+&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2009-05-19&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E4BFA1E681AFE5AE89E585A8.html"&gt;IT.信息安全&lt;/a&gt; &lt;a class="tag" href="../../tags/E5BF83E79086E5ADA6.html"&gt;心理学&lt;/a&gt; &lt;/div&gt;
+&lt;hr/&gt;
+&lt;div class="post"&gt;
+　　&lt;a href="social-engineering-2-pretend.html"&gt;上一个帖子&lt;/a&gt;咱们介绍了社会工程中&lt;b&gt;包装&lt;/b&gt;的技巧。按照&lt;a href="social-engineering-0-overview.html"&gt;本系列&lt;/a&gt;的计划，今天要讨论的内容是：“如何施加影响”。&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★关于《影响力》&lt;/h2&gt;
+&lt;br/&gt;　　说到施加影响以及相关的技巧，就不得不提及《影响力》这本书。这真是一本好书啊，很值得俺专门写一个书评来忽悠一下。不过捏，刘未鹏同学已经抢先 N 步，写了此书的评论（在“&lt;a href="http://blog.csdn.net/pongba/archive/2007/06/22/1662148.aspx" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”），所以俺就不再浪费打字的力气去做重复劳动了。&lt;br/&gt;　　《影响力》这本书高屋建瓴地总结了“对他人施加影响”的种种伎俩。这些伎俩似乎不够光明正大，但常常能收到奇效。如果你从来没有读过此书，强烈建议你先去拜读一下（&lt;a href="https://github.com/programthink/books" target="_blank"&gt;俺的网盘&lt;/a&gt;提供了本书电子版的下载，参见“心理学”大类），再接着来看本帖后续的内容。&lt;br/&gt;......&lt;br/&gt;......&lt;br/&gt;......&lt;br/&gt;　　现在，不妨假设你已经拜读过《影响力》。接着，咱们来看看书上的那些技巧是如何运用在社会工程学当中的。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★博取好感&lt;/h2&gt;
+&lt;br/&gt;　　博取好感是施加影响的手法中，最基本的招数。具体的技巧有很多种，咱今天只介绍常见的几种。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇通过外在特征的“光环效应”&lt;/h3&gt;
+&lt;br/&gt;　　此处所说的外在特征，包括相貌、嗓音、着装、甚至姓名等诸多方面；此处所说的“&lt;b&gt;光环效应&lt;/b&gt;”（也叫光晕效应、晕轮效应），是指对某人的某个局部特征的看法被扩大化，变成对此人整体的看法。这么说比较抽象，咱来看下面几个例子。另外，俺单独写了一个帖子详细介绍“光环效应”，在“&lt;a href="halo-effect.html"&gt;这里&lt;/a&gt;”。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;举例1（以貌取人）&lt;/b&gt;&lt;br/&gt;据说当年马云创业时，出去推销产品，别人一看到他都觉得他是坏人。显然，相貌和人品没有必然联系。但是很多人在潜意识里，都会把长得歪瓜裂枣的人当成坏人。&lt;br/&gt;&lt;b&gt;举例2（以名取人）&lt;/b&gt;&lt;br/&gt;比如很多歌星、影星仅仅由于演技好，其 fans 就把演技扩大化，认为他们/她们样样都好。其实演技好和人品好没有必然联系。&lt;br/&gt;所以俺在&lt;a href="social-engineering-2-pretend.html"&gt;前一个帖子&lt;/a&gt;里强调社会工程的攻击者需要有好的嗓音（有时甚至需要有好的相貌），就是为了能发挥光环效应。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇通过相似性来博取好感&lt;/h3&gt;
+&lt;br/&gt;　　所谓的“&lt;b&gt;相似性&lt;/b&gt;”，范畴很广，常见的有如下一些：同学、同乡、同校（校友）、爱好相同（比如都喜欢看球，甚至都喜欢某个球星）、经历相同、等。&lt;br/&gt;很多攻击者善于通过看似不经意的闲聊，和被攻击者扯上某种关系，让被攻击者的好感油然而生。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★通过互惠原理来骗取好处&lt;/h2&gt;
+&lt;br/&gt;　　俺在看了《影响力》之后，才意识到互惠原则的效果竟然如此巨大。真是不看不知道，一看吓一跳。具体的例子书上举了很多，俺这里主要总结互惠原则的两种运用招式。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇初级招式：“投桃报李”式&lt;/h3&gt;
+&lt;br/&gt;　　“投桃报李”式比较好理解，简单说就是给予对方一点小甜头，然后再索取点小回报。&lt;br/&gt;　　为了形象点，举例说明：&lt;br/&gt;　　比如有个攻击者在信息收集阶段，想了解某个连锁商店店长的信息。攻击者打电话给该商店（接电话的是某店员），谎称自己是一位长期客户，由于该店的服务很好，想写封表扬信给店长。店员一听就很爽，立马就把店长的详细信息告知对方。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇高级招式：“拒绝-退让”式&lt;/h3&gt;
+&lt;br/&gt;　　“拒绝-退让”式比“投桃报李”式要高级一些。这个招式实际上包含了互惠原理和&lt;b&gt;对比原理&lt;/b&gt;，如果把握得当，效果比“投桃报李”要好很多。具体的实施分两个步骤进行：先提出一个很高（比较过分）的要求（以下简称 A），对方多半会拒绝；然后，攻击者主动作出让步（撤回该要求），再提一个（相对 A 来说）比较低的要求（以下简称 B），这时对方多半会答应。其实 A 仅仅是一个烟雾弹，并不是攻击者的真实意图。攻击者真正想达成的是 B。&lt;br/&gt;　　这个招式的难点在于把握A的尺度。A必须和B形成比较明显的反差（利用对比原理），通过A来衬托出B的微不足道。这样，对方拒绝了A之后，潜意识里觉得B反正很微不足道，再加上互惠原理的作用，就会很容易地接受B。&lt;br/&gt;　　比如有些攻击者在收集信息时，可以先索取某个比较敏感的信息，如果对方拒绝了，就转而索取一个不敏感的信息。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★通过社会认同来施加影响&lt;/h2&gt;
+&lt;br/&gt;　　所谓的“社会认同”，通俗地说就是人云亦云、随大流。大多数人都有这个毛病，否则也不会有那么多跟风、赶时髦的家伙了。&lt;br/&gt;　　那社会工程者如何运用这个伎俩捏？一个常见的方法就是“造势”。通过制造某种舆论来引导（或者叫“误导”）被攻击者，从而达到目的。这种方式有两个要点：&lt;br/&gt;　　首先，要达成某种规模效应。一旦规模形成，由于“社会认同”的影响，就会变成正反馈，导致越来越多的人被卷入。&lt;br/&gt;　　其次，要注意引导的技巧。具体要如何“引导”捏？常见的有：“制造狂热”、“制造恐慌”、“制造愤怒”、“制造反感”等方式。当人们处于狂热、恐慌、愤怒、反感等状态时，会变得情绪化。这时候，感性的因素就会占主导，同时会丧失理性的判断，从而被一小撮人所利用。&lt;br/&gt;　　从本质上分析，这两个要点依然是借助了心理学层面的因素来起作用。关于造势的例子，大伙儿可以看看源自 IT 行业的 FUD（Fear, Uncertainty, Doubt，具体解释见“&lt;a href="https://zh.wikipedia.org/wiki/FUD" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”）手法。&lt;br/&gt;　　写到这里，突然联想到：其实天朝的毛太祖，就是造势、造舆论的高手啊！上述的两个要点发挥得炉火纯青，不得不令人佩服啊！&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★通过权威来施加压力&lt;/h2&gt;
+&lt;br/&gt;　　大部分人都有服从权威的倾向。因此攻击者可以通过树立或借助权威，让对方服从自己的一些不太合理的要求。&lt;br/&gt;　　比如有的攻击者假冒成某 VP（Vice President）的秘书，声称该 VP 急需某某文件或资料，那么对方就会迫于压力而答应。这个招数在等级森严的组织机构，效果特别好。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★总结&lt;/h2&gt;
+&lt;br/&gt;　　有句话俺必须再啰嗦一下：按照&lt;a href="../02/80-20-principle-0-overview.html"&gt;二八原理&lt;/a&gt;，&lt;b&gt;大部分人都是感性的&lt;/b&gt;。为啥上述的这些伎俩能够屡试不爽？就因为这些技巧充分利用了人们感性的弱点。如果你是一个感性的人，那可要小心啦：你可能会容易入上述这些圈套，平时须得小心防范。&lt;br/&gt;　　不过捏，凡事总有两面性滴。你一方面要提防别人通过这些招数影响你，另一个方面，你也可以利用这些东东去影响别人。虽说今天是为了介绍社会工程学才扯了这么多施加影响的招数，但这些玩意儿可不仅仅限于社会工程学哦。在很多很多不同的领域（比如：管理、谈判、社交、追 MM/GG、推销 ......），今天讲的这些东西都是非常有用滴。大伙儿一定要活学活用、举一反三啊，才不枉费俺打了这么多字！&lt;br/&gt;　　本系列的&lt;a href="../06/social-engineering-4-example.html"&gt;下一个帖子&lt;/a&gt;，咱们搞几个综合的示例来分析一下。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="social-engineering-0-overview.html#index"&gt;回到本系列的目录&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
 <pubDate>Wed, 21 Oct 2026 04:19:51 +0000</pubDate>
 <guid isPermaLink="false">epub-8</guid>
 </item>
+
 <item>
 <title>007 - 管理科学 - 各种【一元化思维】的谬误.epub</title>
 <description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：26 分钟 (7622 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;各种【一元化思维】的谬误——从“星座理论”到“共产主义社会”&lt;/a&gt;&lt;/h1&gt;
@@ -70,6 +71,7 @@
 <guid isPermaLink="false">epub-7</guid>
 </item>
 
+
 <item>
     <title>管理科学 - 041 - 思维的误区：忽视沉默的大多数.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：11 分钟 (3174 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;&lt;/h1&gt;
@@ -97,6 +99,7 @@
     <pubDate>Tue, 29 Sep 2026 02:51:52 +0000</pubDate>
     <guid isPermaLink="false">41</guid>
 </item>
+
 
 
 
@@ -145,6 +148,7 @@
 
 
 
+
 <item>
     <title>网安知识 - 030 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：3 分钟 (843 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;"如何翻墙"系列：通过邮件获取翻墙扫盲帖&lt;/a&gt;&lt;/h1&gt;
@@ -159,6 +163,7 @@
     <pubDate>Tue, 18 Aug 2026 00:37:51 +0000</pubDate>
     <guid isPermaLink="false">30</guid>
 </item>
+
 
 
 
@@ -222,6 +227,7 @@
 
 
 
+
 <item>
 <title>003 - 管理科学 - 思维的误区：从“沉没成本谬误”到“损失厌恶情结”.epub</title>
 <description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：17 分钟 (4818 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;思维的误区：从“沉没成本谬误”到“损失厌恶情结”&lt;/a&gt;&lt;/h1&gt;
@@ -267,6 +273,14 @@
 
 
 
+
+<item>
+<title><![CDATA[1.1 Law of conservation of momentum]]></title>
+<link>https://wiki.kerbalspaceprogram.com/wiki/Tutorial:How_to_Play#Law_of_conservation_of_momentum</link>
+<description><![CDATA[解释动量作为质量与速度的乘积，以及封闭系统总动量守恒如何构成火箭推进的物理基础。]]></description>
+<guid isPermaLink="false">https://wiki.kerbalspaceprogram.com/wiki/Tutorial:How_to_Play#Law_of_conservation_of_momentum</guid>
+<pubDate>Thu, 29 Oct 2026 03:46:20 +0000</pubDate>
+</item>
 <item>
     <title>网安知识 - 038 - 如何翻墙”系列：用图片传播翻墙软件.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：4 分钟 (1130 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：用图片传播翻墙软件&lt;/a&gt;&lt;/h1&gt;
@@ -287,6 +301,7 @@
     <pubDate>Thu, 24 Sep 2026 01:45:47 +0000</pubDate>
     <guid isPermaLink="false">38</guid>
 </item>
+
 
 
 
@@ -332,6 +347,7 @@
 
 
 
+
 <item>
     <title>网安知识 - 028 - 如何翻墙”系列：自由門——Tor 被封之后的另一个选择.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (1928 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：自由門——Tor 被封之后的另一个选择&lt;/a&gt;&lt;/h1&gt;
@@ -356,6 +372,7 @@
     <pubDate>Thu, 13 Aug 2026 01:04:17 +0000</pubDate>
     <guid isPermaLink="false">28</guid>
 </item>
+
 
 
 
@@ -390,6 +407,7 @@
 <pubDate>Thu, 08 Oct 2026 03:07:41 +0000</pubDate>
 <guid isPermaLink="false">epub-4</guid>
 </item>
+
 
 
 
@@ -528,6 +546,7 @@
 
 
 
+
 <item>
 <title>001 - 管理科学 - 思维的误区：忽视沉默的大多数.epub</title>
 <description>&lt;p style='color:#888;'&gt;⏱ 预计阅读时间：11 分钟 (3174 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;思维的误区：忽视沉默的大多数&lt;/a&gt;&lt;/h1&gt;
@@ -555,6 +574,7 @@
 <pubDate>Sat, 03 Oct 2026 02:44:54 +0000</pubDate>
 <guid isPermaLink="false">epub-1</guid>
 </item>
+
 
 
 
@@ -601,6 +621,7 @@
 
 
 
+
 <item>
     <title>网安知识 - 040 - 如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：12 分钟 (3524 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例&lt;/a&gt;&lt;/h1&gt;
@@ -636,6 +657,7 @@
 
 
 
+
 <item>
     <title>网安知识 - 032 - 如何翻墙_系列：通过邮件获取翻墙扫盲帖（邮件地址变更）.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：4 分钟 (928 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;"如何翻墙"系列：通过邮件获取翻墙扫盲帖（邮件地址变更）&lt;/a&gt;&lt;/h1&gt;
@@ -650,6 +672,7 @@
     <pubDate>Mon, 24 Aug 2026 00:32:26 +0000</pubDate>
     <guid isPermaLink="false">32</guid>
 </item>
+
 
 
 
@@ -691,6 +714,7 @@
     <pubDate>Mon, 21 Sep 2026 01:59:13 +0000</pubDate>
     <guid isPermaLink="false">36</guid>
 </item>
+
 
 
 
@@ -748,6 +772,7 @@
 
 
 
+
 <item>
     <title>管理科学 - 035 - 心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论.epub</title>
     <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：8 分钟 (2108 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论”&lt;/a&gt;&lt;/h1&gt;
@@ -768,48 +793,6 @@
     <guid isPermaLink="false">35</guid>
 </item>
 
-
-
-
-
-
-
-
-
-<item>
-    <title>网安知识 - 034 - 如何翻墙”系列：获取翻墙软件方法大全.epub</title>
-    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：16 分钟 (4516 字)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href="../../index_origin.html" title="回到首页"&gt;“如何翻墙”系列：获取翻墙软件方法大全&lt;/a&gt;&lt;/h1&gt;
-&lt;div class="post-info"&gt;&lt;span class="date-header"&gt;2011-03-13&lt;/span&gt;&lt;a class="tag" href="../../tags/IT.html"&gt;IT&lt;/a&gt; &lt;a class="tag" href="../../tags/IT.E7BFBBE5A299.html"&gt;IT.翻墙&lt;/a&gt; &lt;/div&gt;
-&lt;hr/&gt;
-&lt;div class="post"&gt;
-&lt;h2 class="sigil_not_in_toc"&gt;★先扯扯蛋&lt;/h2&gt;
-&lt;br/&gt;　　开篇先扯蛋，不喜欢听俺扯蛋的网友，请直接跳到第2章节。&lt;br/&gt;天朝的互联网，向来对政治很敏感。比如2009年的五月，由于临近“六四”的20周年纪念，结果一大票网站被封（包括俺博客所在的 BlogSpot）；再比如党国的60大寿，又有一大票翻墙工具被干掉（包括 自由門、无界 等知名工具，俺当时是靠着&lt;a href="../../2009/09/break-through-gfw-with-tor.html"&gt;TOR 的网桥中继&lt;/a&gt;，才熬过那段苦难的日子，可惜TOR现在也不太灵光了）。&lt;br/&gt;　　最近几周，由于茉莉花绽放（不晓得“茉莉花”是咋回事，请翻墙参见“&lt;a href="../02/jasmine-revolution-227-notice.html"&gt;这里&lt;/a&gt;”），朝廷更加丧心病狂地封锁互联网。从3月初开始，Gmail和GoogleReader双双被列入黑名单。党国的意图其实已经很明显——&lt;b&gt;宁要社会主义的防火墙，不要资本主义的互联网&lt;/b&gt;。&lt;br/&gt;　　难道俺能眼睁睁看着党国建成“天朝大局域网”吗？！像俺这种刁民，挖空心思也要在墙上戳几个窟窿出来。所以，俺今天再写个翻墙帖，帮大伙儿应对新一轮的网络封杀。&lt;a name="more"&gt;&lt;/a&gt;&lt;!--program-think--&gt;&lt;br/&gt;　　至于党国为啥和互联网如此水火不容，想知道的同学请看俺写的《&lt;a href="../../2009/07/party-pk-internet.html"&gt;党和互联网的较量&lt;/a&gt;》（需翻墙）。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★获取翻墙软件的重要性&lt;/h2&gt;
-&lt;br/&gt;　　扯淡完毕，正题开讲。为了让大伙儿能重视本帖，先强调一下“获取翻墙工具”的重要性。&lt;br/&gt;　　眼下，中国大陆的网络环境越来越恶劣。不排除某一天，你手头正在用的那个翻墙工具，突然就失效了。当然，国外的反华势力（准确说，是反党势力），也不是吃素滴。他们会在某个翻墙工具失效之后，立马推出一个升级版本，给我等屁民使用。&lt;br/&gt;　　但是，这当中有一个很严重的时间差问题。如果你手头的工具失效了，而你尚未拿到新版本的工具，这时候你就处于孤立无援的危险境地。因为海外提供翻墙工具下载的网站，大都已经被GFＷ列入黑名单。而没有翻墙工具，你根本就访问不了这些网站。（这就好比，先有鸡还是先有蛋的问题）&lt;br/&gt;　　最近几天，俺费尽心思在琢磨这个问题，总结了如下招数。&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★使用邮件获取&lt;/h2&gt;
-&lt;br/&gt;　　首先要介绍的是——邮件穿墙。俺个人认为，这个招数效果显著，使用简单，不失为首选。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇邮箱的选择&lt;/h3&gt;
-&lt;br/&gt;　　先强调一点，此处介绍的邮件穿墙，必须得用&lt;b&gt;国外的邮箱&lt;/b&gt;，才能确保安全并收到最好的效果。国内的邮箱，很有可能被党国审查。而且像腾讯之流，本来就助纣为虐，没准儿还主动帮着朝廷搞邮件审查。所以，国内的邮箱，万万使不得！&lt;br/&gt;　　考虑到Gmail已经被墙，当你用邮箱来获取翻墙工具时，首推 Hotmail（微软已经把它改名叫 LiveMail，不过俺叫 Hotmail叫惯了）。Hotmail 在2010年下半年，也学习 Gmail，引入了“&lt;b&gt;全程的HTTPS加密&lt;/b&gt;”。此功能在防范 GFＷ 的敏感词过滤方面，疗效显著。不过，目前 Hotmail 的“全程 HTTPS 加密”功能，不是默认开启的。你需要到Hotmail的"选项"中手动开启一下。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇Email如何能穿墙？&lt;/h3&gt;
-&lt;br/&gt;　　由于国外的邮箱，其邮件服务器在国外，党国对其奈何不得。如果你用的邮箱还支持 HTTPS 全程加密（如 Gmail、Hotmail），GFＷ 连敏感词过滤的招数就使不上。&lt;br/&gt;　　在这种情况下，朝廷如果要对付 Email 穿墙，只有如下两招：&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;1. 定点清除&lt;/b&gt;&lt;br/&gt;　　对某个具体的 Email 提供商进行屏蔽，比如近期针对 Gmail 的封杀就属于定点清除。但是全球有那么多的Email提供商，党国要想一个个干掉，还是有点困难。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;2. 全面封锁&lt;/b&gt;&lt;br/&gt;　　全面封锁有可能是彻底断网（像埃及、利比亚那样），也可能是引入屏蔽白名单（只能上党国允许你上的网站，其它都禁止）。不管是彻底断网还是引入白名单，动静都比较大。朝廷如果胆敢这么干，只会加速自己的灭亡。&lt;br/&gt;&lt;br/&gt;　　综上所述，Email 穿墙在近期内，还是一种比较可靠、比较稳定（用来获取翻墙工具）的手段。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇使用邮件获取翻墙工具&lt;/h3&gt;
-&lt;br/&gt;　　有些提供翻墙软件的公司/组织，服务比较周到。他们会开设一个邮箱，用于自动回复翻墙工具。&lt;br/&gt;　　提供“自由門”的动态网公司，开设了 &lt;b&gt;freeget.one@gmail.com&lt;/b&gt; 邮箱。给这个邮箱发信，即可自动回复"自.由.門"软件。&lt;br/&gt;　　对于另一个知名的翻墙工具 TOR，你可以发送标题为 help 的纯文本邮件到 gettor@torproject.org，也可以自动收到TOR的软件包。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇使用邮件浏览网页&lt;/h3&gt;
-&lt;br/&gt;　　有不少国外的公司或组织提供了“利用邮件上网”的功能。这个功能，可能很多同学没听说过，俺简单讲讲。&lt;br/&gt;　　假设你要访问某个网页，但是该网页在墙外，你看不到。咋办捏？你可以往某个特定的邮箱发一封邮件，在邮件的标题或者正文包含你要访问的URL网址，然后该邮箱就会自动给你回信，在信的内容或者附件中，就有你要看的网页了。&lt;br/&gt;　　俺 Google 了一下，找到几个抓网页的邮件地址，大伙儿可以试试看。&lt;br/&gt;&lt;blockquote&gt;submit@web2pdfconvert.com&lt;br/&gt;browse@webinmail.com&lt;br/&gt;www4mail@wm.ictp.trieste.it&lt;br/&gt;www@web2mail.com&lt;br/&gt;send@webtomail.co.cc&lt;br/&gt;text@pagegetter.com&lt;br/&gt;page@grabpage.org&lt;/blockquote&gt;
-　　如果你想帮助俺完善此帖，欢迎来信告知俺（&lt;b&gt;program.think@gmail.com&lt;/b&gt;），上述这几个邮件地址，哪个能工作，哪个不能。如果你找到其它抓页面的邮箱，也欢迎告知俺。&lt;br/&gt;　　再啰嗦一下，用邮件方式浏览网页，建议用【纯文本格式】发邮件，把你要浏览的网址填写在邮件标题和邮件正文里。&lt;br/&gt;　　有了这个穿墙的渠道，你随时都可以获取俺写的“翻墙教程”（网址是 &lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;https://program-think.blogspot.com/2009/05/how-to-break-through-gfw.html&lt;/a&gt;），并了解翻墙技术的新动态。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★使用 Web 代理获取&lt;/h2&gt;
-&lt;br/&gt;　　说完邮件穿墙，再来说说 Web 代理。一旦手头的翻墙软件都失效，Web 代理是另一根救命稻草。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇Web代理为何能穿墙？&lt;/h3&gt;
-&lt;br/&gt;　　所谓的 Web 代理，通常指基于 HTTPS 协议的加密 Web 代理。由于它使用加密协议，GFＷ 不便于做敏感词过滤。所以，你有可能通过加密Web代理访问到被墙的网站。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇如何操作？&lt;/h3&gt;
-&lt;br/&gt;　　Web 代理的操作步骤简单，就三步。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第1步&lt;/b&gt;&lt;br/&gt;　　你首先得有一个浏览器 :)。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第2步&lt;/b&gt;&lt;br/&gt;　　其次，到网上找一个加密的 Web 代理（这步是关键，也是难点）。&lt;br/&gt;如何找 Web 代理，得看大伙儿各自的本事了。（通常，搜索引擎用得越溜的，越容易找到）。可能某些天真的同学会问俺，为啥不直接把俺知道的Web代理贴出来给大伙儿用捏？在此，俺要灰常严肃地告诉这些天真的同学们，朝廷的走狗早就在看俺这个博客了。俺如果在这里贴 Web 代理的网址，岂不是正撞到枪口上，便宜了这帮走狗，让它们去封代理。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第3步&lt;/b&gt;&lt;br/&gt;　　假设你运气好，顺利找到一个 Web 代理，要赶紧上反动网站去下载翻墙工具。因为 Web代理通常很短命，用不了几天可能就失效了（被封了）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★使用P2P下载获取&lt;/h2&gt;
-&lt;br/&gt;　　关于“P2P 下载”，想必大伙儿都很熟悉，俺就省点口水，不再扫盲P2P的概念了。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇P2P为何能穿墙？&lt;/h3&gt;
-&lt;br/&gt;　　P2P 应用，由于其分布式的特点，使得 GFＷ 无法对所有的 Peer 都赶尽杀绝。而且很多 P2P 协议是加密传输的，GFＷ 难以搞敏感词过滤。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇以 eMule 为例&lt;/h3&gt;
-&lt;br/&gt;　　P2P下载软件很多，俺就拿电骡来说事儿。&lt;br/&gt;　　eMule俗称电骡，是电驴（eDonkey）的进化版，其官网在“&lt;a href="http://www.emule-project.net/" rel="nofollow" target="_blank"&gt;这里&lt;/a&gt;”。该软件的相关介绍请看“&lt;a href="https://en.wikipedia.org/wiki/EMule" rel="nofollow" target="_blank"&gt;维基百科&lt;/a&gt;”，俺不再多费口水。用 Emule 获取翻墙工具，也分三步走。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第1步&lt;/b&gt;&lt;br/&gt;　　首先，当然是装eMule啦。你可以到其官方网站下载。如果其官网被封，也可以到国内的软件下载站点去找。eMule名气很大，很容易找到滴 :)&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第2步&lt;/b&gt;&lt;br/&gt;　　装好了 eMul 软件之后，你得联上某个下载服务器，才能下载。eMule 软件默认内置了几个服务器，如果这几个内置的服务器联不上（可能是被封，也可能是连接的用户数满了），你可以通过搜索引擎再找其它的服务器。由于全球有N多的 eMule/eDonkey 服务器，所以 GFＷ 难以全部干掉。&lt;br/&gt;&lt;br/&gt;　　&lt;b&gt;第3步&lt;/b&gt;&lt;br/&gt;　　联上某个 eMule 服务器之后，你就可以搜索上面的文件了。像 自由门、无界 之类，名气比较大的，应该不难找到。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇注意事项&lt;/h3&gt;
-&lt;br/&gt;　　通过 P2P 下载的翻墙工具，可能会含有病毒/木马之类的脏东西。下载后先用杀毒软件查一下。另外，“&lt;a href="../12/gfw-wujie.html"&gt;无界&lt;/a&gt;”、“&lt;a href="../10/gfw-psiphon.html"&gt;赛风&lt;/a&gt;”、“&lt;a href="../../2010/03/choose-free-gate.html"&gt;自由門&lt;/a&gt;”等翻墙工具的 exe 是含有数字签名的，通过查看数字签名，能判断该 exe 是否被篡改了（不会验证数字签名的同学，翻墙看“&lt;a href="../../2010/02/introduce-digital-certificate-and-ca.html#verify_file"&gt;这里&lt;/a&gt;”的介绍）。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★通过图片文件方式获取&lt;/h2&gt;
-&lt;br/&gt;　　用图片文件来传播翻墙工具，是一种新思路。具体细节请看俺写的《&lt;a href="../05/use-image-hide-gfw-tool.html"&gt;用图片传播翻墙软件&lt;/a&gt;》。&lt;br/&gt;　　简单地说，就是把包含翻墙工具的压缩文件，嵌入图片文件中。被嵌入的图片，格式上还是有效的。所以，大伙儿可以把这些图片上传到国内（墙内）那些支持贴图的网站。由于图片文件位于墙内，可以轻松下载。下载之后，用 &lt;a href="http://www.7-zip.org/" rel="nofollow" target="_blank"&gt;7zip&lt;/a&gt; 或 WinRAR 都可以直接打开。&lt;br/&gt;　　今后，在俺的 Twitter 帐号（&lt;b&gt;&lt;a href="https://twitter.com/programthink" target="_blank"&gt;@programthink&lt;/a&gt;&lt;/b&gt;）会定期公布这些墙内的下载地址。&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★通过社会工程学手段获取&lt;/h2&gt;
-&lt;br/&gt;　　前2年，俺曾经写过一个《&lt;a href="../../2009/05/social-engineering-0-overview.html"&gt;社会工程学扫盲&lt;/a&gt;》的系列。不过，这里说的“社会工程学”，泛指任何“用【非技术】手段获取翻墙工具”的招数。使用这些手段，不是靠技术能力，而是靠社交能力 :-)&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇依靠外企的朋友&lt;/h3&gt;
-&lt;br/&gt;　　国内很多外企都有直通海外的网络专线，这个专线不会被 GFＷ 过滤。所以，如果你有朋友在外企上班，可以找他们帮忙下载翻墙工具，然后再拷给你。&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇找海外的朋友做人肉代理&lt;/h3&gt;
-&lt;br/&gt;　　如果你碰巧有熟人在国外，可以找他们帮忙下载翻墙工具。然后再通过邮件发给你。提醒一下，用 Email 发送翻墙工具，为了避免被GFＷ识别出来，最好是压缩一下并【加个口令】。GFＷ已经有针对压缩文件的深度检测能力，我等屁民得警惕啊！&lt;br/&gt;&lt;br/&gt;&lt;h3 class="sigil_not_in_toc"&gt;◇找个技术宅男帮忙&lt;/h3&gt;
-&lt;br/&gt;　　假如周围有技术宅男，那你也可以找他要一个翻墙软件。据俺观察，在 IT 行业混的技术宅男，大都熟悉翻墙技能。如果你是个 MM 的话，这招的效果会更加理想 :)&lt;br/&gt;&lt;br/&gt;&lt;h2 class="sigil_not_in_toc"&gt;★结尾&lt;/h2&gt;
-&lt;br/&gt;　　党国经常教育我们，要与时俱进，要保鲜。在翻墙方面，俺一定得响应党国的号召，定期更新翻墙教程，保持翻墙教程的先进性。大伙儿如果觉得俺写的翻墙教程有用，不妨也转发给周围的朋友，让更多人学会翻墙。&lt;br/&gt;最后，还是那句话：&lt;br/&gt;&lt;b&gt;祝愿墙内的网友们都能顺利掌握翻墙姿势，早日呼吸到互联网上自由的空气！&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;俺博客上，和本文相关的帖子（需翻墙）：&lt;/b&gt;&lt;br/&gt;&lt;a href="../../2009/05/how-to-break-through-gfw.html"&gt;如何翻墙&lt;/a&gt;（传说中的扫盲教程，定期更新）&lt;br/&gt;&lt;a href="../09/gfw-faq.html"&gt;常见翻墙问题答疑&lt;/a&gt;（传说中的 FAQ，定期更新）&lt;br/&gt;&lt;a href="../../2013/04/gfw-vpngate.html"&gt;扫盲 VPN Gate——分布式的 VPN 服务器&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2013/11/tor-faq.html"&gt;关于 TOR 的常见问题解答&lt;/a&gt;&lt;br/&gt;&lt;a href="../10/gfw-psiphon.html"&gt;双管齐下的赛风3&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2010/03/choose-free-gate.html"&gt;自由門——TOR 被封之后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../12/gfw-wujie.html"&gt;新版本无界——赛风3失效后的另一个选择&lt;/a&gt;&lt;br/&gt;&lt;a href="../09/gfw-vpn-hotspot-shield.html"&gt;扫盲 VPN 翻墙——以 Hotspot Shield 为例&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2009/09/break-through-gfw-with-tor.html"&gt;戴“套”翻墻的方法&lt;/a&gt;&lt;br/&gt;&lt;a href="../../2012/06/gfw-i2p.html"&gt;简单扫盲 I2P 的使用&lt;/a&gt;&lt;br/&gt;&lt;div class="blogger-post-footer"&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    <pubDate>Mon, 07 Sep 2026 01:32:37 +0000</pubDate>
-    <guid isPermaLink="false">34</guid>
-</item>
 
 
 
